@@ -1,21 +1,35 @@
 # Heartbeat Checklist
 
-## Every 30 Minutes
-- Check for stuck or failed tasks
-- Check message queue for unprocessed messages
-- Verify connectivity to active services
+## Every Heartbeat (30 min cycle):
 
-## Every 2 Hours
-- Review ACTIVE-TASKS.md — flag anything stalled
-- Check email for urgent items from protected senders
-- Send brief task pulse to Jay if anything needs attention
+### 1. Daily Note Check (MANDATORY — DO THIS FIRST)
+- Does `memory/YYYY-MM-DD.md` for TODAY exist?
+  - NO → Create it immediately with the header template
+  - YES → Check if the last entry is more than 2 hours old AND there were conversations since then → Write a catch-up entry
+- Were there any conversations since the last heartbeat that aren't logged? → Log them NOW
 
-## Every Morning (5:15 AM Central)
-- Generate morning brief: calendar, priority tasks, overnight messages
-- Check GHL connection status
-- Flag any leads that need follow-up
+### 2. Task Status
+- Read ACTIVE-TASKS.md
+- Any tasks marked "in progress" idle for 24+ hours? → Flag to Jay
+- Any tasks completed but not marked done? → Update status
 
-## Every Night (10:00 PM Central)
-- Summarize what was accomplished today
-- Update ACTIVE-TASKS.md with status changes
-- Flag anything that needs attention tomorrow
+### 3. Pending Follow-ups
+- Check today's daily note for any "Pending:" items
+- If a pending item is now resolvable, take action or flag it
+
+### 4. Check Inbox (MANDATORY — EVERY HEARTBEAT)
+- Run: `scripts/sb-sync.sh inbox prime`
+- If messages exist from Jay or VC:
+  - Read them immediately
+  - Act on them if action is needed
+  - Respond with: `scripts/sb-sync.sh ack <message_id> "<your response>"`
+- If no messages, continue
+
+### 5. System Health
+- Confirm connections are responding
+- If anything is down, log it and alert Jay
+
+## DO NOT:
+- Send Jay heartbeat messages unless something needs his attention
+- Skip the daily note check — this is #1 priority
+- Write "nothing to report" entries — only log meaningful activity
