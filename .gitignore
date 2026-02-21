@@ -1,1 +1,13 @@
-ghl-mcp
+node_modules/
+ghl-mcp/
+unsubscribe-agent/node_modules/
+uploads/*.xlsx
+uploads/*.jpg
+uploads/*.json
+uploads/*.env
+uploads/*.env.txt
+vm_audio/*.mp3
+*.Zone.Identifier
+.backups/
+.memory_env
+.venv/
