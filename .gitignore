@@ -1,13 +1,40 @@
+# Secrets & credentials
+.env
+.env.*
+*.env
+credentials/
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# API keys & tokens
+**/api_key*
+**/token*
+**/secret*
+
+# Supabase
+supabase/.env
+
+# Node
 node_modules/
-ghl-mcp/
-unsubscribe-agent/node_modules/
-uploads/*.xlsx
-uploads/*.jpg
-uploads/*.json
-uploads/*.env
-uploads/*.env.txt
-vm_audio/*.mp3
-*.Zone.Identifier
-.backups/
-.memory_env
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
 .venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups with potential secrets
+backups/
+
+# IDE
+.vscode/
+.idea/
+
