@@ -141,14 +141,14 @@ For Jay to adjust settings without messaging us:
 The dashboard JS needs these tokens (already in the current code):
 ```
 PRIME_API = 'https://plotting.tail4c8a54.ts.net'
-PRIME_TOKEN = 'frankieHQ_prime_2026_d3llPr3c'
+PRIME_TOKEN = '[REDACTED - see .env]'
 VC_API = 'https://jasus-1.tail4c8a54.ts.net'
 VC_TOKEN = 'frankieHQ_vc_2026_x9k2m'
 ```
 
 ### GHL API for Dashboard Lead Stats
 ```
-GHL_API_KEY = 'pit-aad2f6de-29c3-4814-98b8-8839ad265471'
+GHL_API_KEY = '[REDACTED - see .env]'
 GHL_LOCATION_ID = 'tabcgomNBVaWpWAkIXL8'
 GHL_BASE_URL = 'https://services.leadconnectorhq.com'
 ```

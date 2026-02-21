@@ -15,7 +15,7 @@
 - SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74
 
 ### Go High Level (Prime owns, VC read-only for dashboard)
-- GHL_API_KEY=pit-aad2f6de-29c3-4814-98b8-8839ad265471
+- GHL_API_KEY=[REDACTED - see .env]
 - GHL_LOCATION_ID=tabcgomNBVaWpWAkIXL8
 - GHL_BASE_URL=https://services.leadconnectorhq.com
 - Working scopes: contacts (read/write), conversations
@@ -56,7 +56,7 @@
 - User: jlpschell
 
 ### Bridge API Tokens
-- Prime Bridge: frankieHQ_prime_2026_d3llPr3c (port 3001)
+- Prime Bridge: [REDACTED - see .env] (port 3001)
 - VC Bridge: frankieHQ_vc_2026_x9k2m
 - Prime OpenClaw Hook: frankieHQ_prime_hook_2026
 

@@ -60,7 +60,7 @@ Available keys in .env:
 - Dashboard: https://frankiesmissioncontrol.netlify.app/
 - Repo: https://github.com/jlpschell/FRANKIES_Mission_Control
 - Prime Bridge API: https://plotting.tail4c8a54.ts.net (port 3001, PM2 managed)
-- Prime Bridge Token: frankieHQ_prime_2026_d3llPr3c
+- Prime Bridge Token: stored in .env (NEVER commit to repo)
 - Prime Tailscale IP: 100.97.30.40 (machine: plotting)
 - VC Tailscale IP: 100.84.195.50 (machine: jasus-1)
 - Jasus Windows Tailscale IP: 100.91.81.71

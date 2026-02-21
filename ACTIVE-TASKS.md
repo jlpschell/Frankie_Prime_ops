@@ -7,11 +7,32 @@
 - Once enabled: Run install.sh (~15 min), zero downtime, runs alongside current system
 - Repo: /tmp/openclaw-jarvis-memory
 
-## 🔴 Priority 2: Mission Control Upgrade
-- Status: PLANNING
+## 🔴 Priority 2: Mission Control Calibration & Upgrade
+- Status: PLANNING — think it through, don't rush
 - Current: https://frankiesmissioncontrol.netlify.app/
-- Needs: Memory system visibility (Redis/Qdrant stats), more usable dashboard for Jay
-- Integration: Show lead pipeline status, memory health, task status, conversation logs
+- Repo: https://github.com/jlpschell/FRANKIES_Mission_Control
+
+### Phase 1: Calibrate for current ops
+- Audit existing pages — what's empty, what's stale, what's useful
+- Update dashboard to reflect TODAY's stack: Jarvis memory, lead pipeline, Supabase master_leads, GHL status
+- System Health page — Docker containers (Redis/Qdrant/Ollama), gateway status, API key health
+- Memory stats page — Redis buffer size, Qdrant collection count, last backup time
+
+### Phase 2: Content & agent integration
+- Wire up sub-agents to populate pages (content machine feeds Mission Control)
+- Lead pipeline dashboard — master_leads stats, GHL sync status, niche breakdowns
+- A2P campaign tracker — live status instead of manual checking
+
+### Phase 3: VC as test agent
+- Reactivate VibeClaw as test agent for Mission Control pages
+- VC handles: page updates, content formatting, memory resolution on empty pages
+- Takes responsibility off Jay for page maintenance
+
+### Resources to leverage:
+- IronClaw CRM features for lead visibility
+- Jarvis memory for conversation/decision history
+- Obsidian (once API is ready) for linked knowledge
+- Social media scanner output feeds content pages
 
 ## 🟡 Priority 3: Obsidian Integration
 - Status: WAITING — Jay researching API
