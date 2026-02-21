@@ -1,0 +1,60 @@
+First Name,Last Name,Phone,Email,Company Name,City,State,Website,Tags,line_type,carrier,lookup_status
+,,8172511000,,the L.A.B. med spa DALLAS,,,https://www.thelabmedspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,9727624636,,Bella MedSpa - Dallas MedSpa,,,http://www.bellamedspadfw.com/,,mobile,AT&T Wireless,success
+,,4697890004,,It's A Secret Med Spa,,,https://secretmedspa.com/dallas-tx/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8176622550,,R&R Aesthetics & Wellness,,,http://www.rrawellness.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2149889188,,OMNI SCULPT MD: Med Spa,,,https://www.omnisculptmd.com/?utm_source=GMB&utm_medium=organic&utm_campaign=gbp-practice,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,8178598223,,Vitalyc Medspa | Southlake,,,https://www.vitalyc.com/locations/southlake/?utm_source=google&utm_medium=organic&utm_campaign=google+my+business,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2149090196,,Skin Glow Medspa,,,https://skinglow-medspa.com/,,mobile,AT&T Wireless,success
+,,8173799937,,Hidden Door Medspa,,,http://www.hiddendoorspa.com/,,mobile,Onvoy,success
+,,9729546422,,Vitalyc Medspa | Highland Park,,,https://www.vitalyc.com/locations/dallas/?utm_source=google&utm_medium=organic&utm_campaign=google+my+business,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,4697303333,,Mara's Med Spa,,,https://www.marasmedspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2148657800,,Aurum Health,,,http://www.aurumhealth.com/,,nonFixedVoip,Peerless Network,success
+,,4696933887,,Zelene Head Spa Mansfield,,,https://zelenespa.com/,,mobile,Verizon Wireless,success
+,,4696389368,,Revive Primary Care & Med Spa - Highland Park,,,https://revivepcms.com/highland-park/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,4698281732,,Skin Damsel Aesthetics,,,http://skindamsel.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2149804371,,Bare Aesthetics Dallas,,,http://www.bareaestheticsdallas.com/,,mobile,Verizon Wireless,success
+,,4697728716,,Vitalyc Medspa | Oak Lawn,,,http://www.vitalyc.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,4695188195,,Ember Medical Spa,,,https://embermedspadallas.com/,,mobile,AT&T Wireless,success
+,,9723317727,,Modern Medical Spa,,,http://www.modernmedicalspa.com/,,mobile,Onvoy,success
+,,9258088222,,The Body Scrubbery,,,https://thebodyscrubberytexas.zoca.com/?utm_source=googlemaps&utm_medium=googlemaps&utm_campaign=googlemaps,,mobile,T-Mobile USA,success
+,,8175466772,,The MedSpa of DFW,,,https://medspaofdfw.com/,,mobile,Onvoy,success
+,,4698091991,,Sleek Aesthetics Medspa-Dallas,,,https://www.sleek-aesthetics.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8174888848,,Hidden Door,,,http://www.hiddendoorspa.com/,,nonFixedVoip,Bandwidth.com CLEC,success
+,,4696584800,,4Ever Young Med Spa & Wellness Center - Flower Mound,,,https://4everyoungantiaging.com/flower-mound/?utm_source=google&utm_medium=organic&utm_campaign=gbp-flower-mound,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8176703283,,Vitalyc Medspa | Fort Worth,,,https://www.vitalyc.com/locations/fort-worth/?utm_source=google&utm_medium=organic&utm_campaign=google+business+profile,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8172290014,,Bougie Aesthetics,,,https://www.bougieaesthetics.net/,,mobile,AT&T Wireless,success
+,,2148337108,,Rejuvia Wellness and Medical Spa,,,https://rejuviawellness.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,4692799897,,DFW MEDICAL SPA,,,http://www.dfwmedspabeauty.com/,,mobile,Verizon Wireless,success
+,,8174840300,,Skinique Med Spa & Wellness,,,http://www.skiniquemedspa.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,2143082570,,The Derm Lounge Aesthetics & Longevity,,,https://thedermlounge.com/?utm_source=google&utm_medium=localsearch&utm_campaign=gmb,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,6825931442,,Olysis Med Spa,,,https://www.olysismedspa.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,2145212112,,Riviera Spa - Uptown Knox Travis Walk,,,https://rivieraspadallas.com/?utm_source=google&utm_medium=biz-profile&utm_campaign=gbp-main&utm_term=uptown,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,9729702630,,Novuskin Med Spa Frisco,,,https://www.novuskin.com/med-spa-frisco/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2142161033,,InjectCo MedSpa Dallas,,,https://injectco.com/services/med-spa-dallas-tx/?utm_source=google&utm_medium=organic&utm_campaign=gbp-dallas,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,2148274200,,Pure Spa,,,http://www.purespaandsalon.com/,,fixedVoip,Charter Fiberlink,success
+,,4692470818,,MNML Med Spa,,,https://www.mnmlmedspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8179949804,,Skin Beauty Med Spa,,,http://www.skinbeautymedspa.com/,,mobile,Verizon Wireless,success
+,,9722678424,,The Nook Spa,,,https://thenookspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2145285554,,Novopelle Med Spa,,,http://www.novopellemedspa.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,2144844714,,Vivian's Boutique Spa,,,https://www.viviansdallas.com/,,mobile,Verizon Wireless,success
+,,9729082772,,Youthful Infusion Med Spa,,,https://www.youthfulinfusionmedspa.com/,,mobile,Verizon Wireless,success
+,,2147640350,,VIO Med Spa,,,https://www.viomedspa.com/locations/casa-linda,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2146867826,,Sedo Laser,,,http://www.sedolaser.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,9728972355,cloudninemedspa@gmail.com,Cloud9 Med Spa,,,https://cloudninemedspadfw.com/,,mobile,T-Mobile USA,success
+,,9723923895,marie@skinspamed.com,SkinSpaMED,,,http://skinspamed.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,4697554235,info@oneseventymedspa.com,One Seventy Med Spa,,,https://www.oneseventymedspa.com/,,mobile,AT&T Wireless,success
+,,2147538650,prestonhollow@dermanimedspa.com,dermani MEDSPA Dallas (Preston Hollow),,,https://dermanimedspa.com/dallas-tx-preston-hollow/,,mobile,Onvoy,success
+,,9727071200,uvillage@skinspirit.com,SkinSpirit Preston Royal - Dallas,,,https://www.skinspirit.com/locations/preston-royal/,,mobile,Onvoy,success
+,,8172142582,cs@drliftspa.com,Dr. Lift Med Spa,,,https://drliftspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2142414475,elitemedspa3319@gmail.com,Elite Med Spa of Texas,,,https://elitemedspaoftexas.com/,,nonFixedVoip,Telnyx - Windstream - SVR,success
+,,4693366769,Hello@Sanjivamedspa.com,Sanjiva Medical Spa,,,https://sanjivamedspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2143524111,thehill@hiatusspa.com,Hiatus Day Spa • Med Spa,,,http://www.hiatusspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8173795511,info@meltspaandmassage.com,Melt Spa and Massage,,,http://www.meltspaandmassage.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2145222887,tmsmarketing@totalmedsolutions.com,Total Med Solutions,,,https://totalmedsolutions.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,8174169366,CorinthianSpa@CorinthianSpa.com,Corinthian Wellness Spa,,,http://www.corinthianspa.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2149640860,manager@enlightenMD.com,Enlighten MD,,,http://www.enlightenmd.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,9728542267,Skinbylucymed@gmail.com,Skin by Lucy Med Spa,,,http://www.skinbylucy.com/,,mobile,T-Mobile USA,success
+,,2147296299,Hello@sanctumwell.com,Sanctum Med + Wellness,,,https://www.sanctumwell.com/,,mobile,EZ Texting/2 - Sinch,success
+,,4698294200,uvillage@skinspirit.com,SkinSpirit Plano,,,https://www.skinspirit.com/locations/plano/,,mobile,Onvoy,success
+,,2144325700,getwell@formulawellness.com,Formula Wellness Uptown (West Village),,,https://formulawellness.com/locations/dallas-tx-uptown-west-village/?utm_source=google&utm_medium=local&utm_campaign=dallas3600-practice-website,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success

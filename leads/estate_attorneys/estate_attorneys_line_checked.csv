@@ -1,0 +1,61 @@
+First Name,Last Name,Phone,Email,Company Name,City,State,Website,Tags,line_type,carrier,lookup_status
+,,9727739095,admin@colinsmithlaw.com,Colin Smith Law PLLC,,,http://colinsmithlaw.com/,,nonFixedVoip,Sinch/5 A2P - Sinch,success
+,,2148660133,info@dallasprobatelaw.com,"Pyke, Balen, & Moncure, P.C.",,,http://www.dallasprobatelaw.com/,,nonFixedVoip,Telnyx - Windstream - SVR,success
+,,8173497330,inquiry@jagonzalezlaw.com,"Gonzalez Law, PLLC",,,https://www.jagonzalezlaw.com/,,mobile,Onvoy,success
+,,2143072840,info@silblawfirm.com,"Silberman Law Firm, PLLC",,,http://silblawfirm.com/,,mobile,Onvoy,success
+,,9726199903,info@ronaldrohdelaw.com,"The Law Office of Ronald Rohde, PLLC",,,http://ronaldrohdelaw.com/,,nonFixedVoip,VOIP.MS P2P - Bandwidth - SVR,success
+,,8177692750,info@turkettlaw.com,Turkett Law Office,,,https://turkettlaw.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,6825931120,david@davidsmalllaw.com,David Small Law PLLC,,,http://www.davidsmalllaw.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8174382121,callcenter@thetexasattorney.com,Bailey & Galyen Attorneys at Law,,,https://www.thetexasattorney.com/office-locations/fort-worth-summit/?utm_source=google&utm_medium=organic&utm_campaign=GBP_Fort_Worth,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,9728633940,sheveslawoffice@gmail.com,"The Law Offices of David W. Sheves, PLLC",,,https://www.sheveslaw.com/,,landline,AT&T - PSTN,success
+,,9724491241,callcenter@thetexasattorney.com,Bailey & Galyen Attorneys at Law,,,https://www.thetexasattorney.com/office-locations/dallas/?utm_source=google&utm_medium=organic&utm_campaign=GBP_Dallas,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8179844355,attorneymichellesimpson@gmail.com,"Michelle Simpson Law, PLLC",,,https://www.michellesimpsonlaw.com/,,nonFixedVoip,Vonage America LLC,success
+,,6827072999,info@martinlawyers.com,Martin Lawyers PLLC,,,http://www.martinlawyers.com/,,mobile,Onvoy,success
+,,2144604663,info@comerlawgroup.com,"Comer Law Group, PLLC",,,https://comerlawgroup.com/?gclid=test,,nonFixedVoip,Telnyx - Windstream - SVR,success
+,,8177523155,callcenter@thetexasattorney.com,Bailey & Galyen Attorneys at Law,,,https://www.thetexasattorney.com/office-locations/arlington-2216-s-cooper/?utm_source=google&utm_medium=organic&utm_campaign=GBP_2216_S_Cooper_St,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8174579540,peter@thenguyenlawfirm.com,The Nguyen Law Firm,,,http://thenguyenlawfirm.com/,,landline,AT&T - PSTN,success
+,,8178780500,operations@whitakerchalk.com,Whitaker Chalk Swindle & Schwartz PLLC,,,https://www.whitakerchalk.com/,,fixedVoip,tw telecom inc.,success
+,,8178511354,service@huhemlaw.com,Huhem Law Firm PLLC,,,http://www.huhemlaw.com/,,nonFixedVoip,Vonage/Nexmo - Sinch,success
+,,9723805630,info@murashkovskiy.com,"Law office of Leonid Murashkovskiy, P.L.L.C.",,,http://www.murashkovskiy.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,9726659600,contact@atwoodmccall.com,"Atwood & McCall, PLLC",,,http://atwoodmccall.com/,,nonFixedVoip,Telnyx - Windstream - SVR,success
+,,8883533703,lawoffice@cclawtexas.com,Clifton Coufal Law Firm,,,http://cclawtexas.com/,,tollFree,,success
+,,8173322500,chris.ponder@kellyhart.com,Kelly Hart & Hallman LLP,,,http://kellyhart.com/,,nonFixedVoip,Onvoy/3 - Sinch,success
+,,4692504586,Andrew@AndrewGoreLaw.com,"Law Office of Andrew Gore, PLLC",,,http://www.andrewgorelaw.com/,,fixedVoip,Charter Fiberlink,success
+,,9724573172,,Burch Law,,,https://burch-law.com/?utm_campaign=gmb,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,9724747828,,Holman Law,,,https://holmanlawllp.com/?utm_campaign=gmb,,mobile,Onvoy,success
+,,2149981861,,Cramer Law Firm,,,,,mobile,T-Mobile USA,success
+,,4697086050,,Duran Firm,,,https://duranfirm.com/,,nonFixedVoip,Google (Grand Central) - SVR,success
+,,8174406087,,"Powell Law Group, PLLC",,,http://powelllawgrp.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2143687040,,The Law Offices of David L. Leon PC,,,https://www.leonlaw.com/?utm_source=google-local&utm_medium=organic&utm_campaign=497,,nonFixedVoip,Vonage SMSEnabled - Sinch,success
+,,9727077482,,"H. R. Chapin, Attorney & Counselor, PLLC",,,https://www.dallaslawhero.com/,,fixedVoip,Charter Fiberlink,success
+,,2147646887,,"Law Office of Ana M. Pace, PLLC",,,https://www.attorneypace.com/,,nonFixedVoip,Bandwidth.com CLEC,success
+,,2142280161,,"The Alford Law Firm, PLLC",,,https://www.brucealfordlaw.com/,,mobile,AT&T Wireless,success
+,,8174940110,,Evergreen Law PLLC,,,https://www.evergreenlaw.com/,,nonFixedVoip,Bandwidth/15 - Bandwidth.com - SVR,success
+,,9459002529,,"The Law Office of Ruthe Belachew, PLLC",,,https://www.belachewlaw.com/,,nonFixedVoip,Bandwidth.com CLEC,success
+,,8172006635,,"Garcia & Ramires, PLLC",,,https://www.mylawyersdfw.com/?utm_source=google-local&utm_medium=organic&utm_campaign=4161,,nonFixedVoip,Bandwidth.com CLEC,success
+,,9727682515,,Misteli Law Firm,,,https://www.mistelilaw.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2142392823,,"Sul Lee Law Firm, PLLC",,,https://sulleelaw.com/?utm_campaign=gmb,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8177694044,,Gibson Herod Law,,,http://www.gibsonlawgroup.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,8178356591,,Keith Morris Attorney at Law,,,https://theestatelawyer.com/?utm_source=google&utm_medium=gbp&utm_campaign=fortworth,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,9725344242,,Roquemore Skierski PLLC,,,https://roqski.com/dallas/?utm_source=google&utm_medium=organic&utm_campaign=dallas-gbp,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8173932929,,"Spahr Law, PLLC",,,https://spahrestateplanning.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2144662099,,"Miller Law Office, PLLC",,,http://www.aaronmillerlaw.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,6822049631,,Tate Injury Law,,,https://www.tatelawoffices.com/?utm_source=GBP&utm_medium=FortWorth,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,8178993286,,McGee Law Firm,,,https://mcgeelawdfw.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,4698954333,,Dallas Probate Attorneys | Kreig LLC,,,https://dfw-probate-law.com/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB&utm_term=DPL&utm_content=probate,,mobile,Onvoy,success
+,,2145130125,,Christopher P. Hamm,,,https://www.thejimenezlawfirm.com/legal-team/christopher-p-hamm/,,nonFixedVoip,Bandwidth.com CLEC,success
+,,9725849382,,"Powell Law Offices, P.C.",,,https://www.powelllawoffices.com/?utm_source=google&utm_medium=local,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2147750817,,The Keller Firm,,,http://www.kellerfirm.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,8883410997,,"Kearney, McWilliams & Davis - DFW",,,https://www.kmd.law/,,tollFree,,success
+,,2142148800,,Fears Law - Texas Law Firm,,,http://www.fears.com/,,mobile,Onvoy,success
+,,8173381700,,"Brackett & Ellis, P.C.",,,http://www.belaw.com/,,landline,Teleport Communications America,success
+,,9729451610,,Crain & Wooley,,,https://www.estateplanningdfw.law/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2143028197,,Shutt Law Firm PLLC,,,http://www.shuttlawfirm.com/,,nonFixedVoip,Bandwidth/13 - Bandwidth.com - Infobip,success
+,,2146098787,,Toronjo & Prosser Law,,,https://www.t-plaw.com/,,mobile,AT&T Wireless,success
+,,8175917257,,"Livens & Reed, PLLC",,,https://www.livensreed.com/?npcmp=dir:local:2048796:76021,,nonFixedVoip,Bandwidth.com CLEC,success
+,,2147588681,,"DebnamRust, P.C.",,,https://www.debnamrust.com/,,nonFixedVoip,Twilio - SMS/MMS-SVR,success
+,,2145597202,,"The Ashmore Law Firm, P.C.",,,https://www.ashmorelaw.com/,,nonFixedVoip,Vonage/Nexmo - Sinch,success
+,,2147200102,,Michael B Cohen & Associates,,,http://www.dallaselderlawyer.com/,,nonFixedVoip,NUSO,success
+,,9724971010,,"The Johnson Firm, P.C.",,,http://www.johnsonfirmpc.com/,,nonFixedVoip,Bandwidth/RingCentral Messaging - Sinch,success
+,,8178419906,,"Brandy Austin Law Firm, PLLC",,,https://brandyaustinlaw.com/,,nonFixedVoip,Onvoy/4 - Sinch,success
+,,2149659999,,"Spencer, Johnson & Harvell, PLLC",,,https://www.dallasprobate.com/?utm_campaign=gmb,,fixedVoip,Charter Fiberlink,success

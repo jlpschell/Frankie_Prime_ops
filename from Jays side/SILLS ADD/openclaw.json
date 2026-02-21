@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.19-2"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "/home/plotting1/.openclaw/workspace",
+      "model": {
+        "primary": "anthropic/claude-sonnet-4-5",
+        "fallbacks": [
+          "anthropic/claude-haiku-3-5",
+          "openai/gpt-5.2",
+          "google/gemini-3-flash-preview",
+          "ollama/llama3.3"
+        ]
+      },
+      "models": {
+        "anthropic/claude-opus-4-6":     { "alias": "opus" },
+        "anthropic/claude-sonnet-4-5":   { "alias": "sonnet" },
+        "anthropic/claude-haiku-3-5":    { "alias": "haiku" },
+        "openai/gpt-5.2":                { "alias": "gpt" },
+        "openai/gpt-5-mini":             { "alias": "gpt-mini" },
+        "openai-codex/gpt-5.3-codex":    { "alias": "codex" },
+        "google/gemini-3-pro-preview":   { "alias": "gemini" },
+        "google/gemini-3-flash-preview": { "alias": "gemini-flash" },
+        "ollama/llama3.3":               { "alias": "llama" }
+      },
+      "subagents": {
+        "model": "anthropic/claude-haiku-3-5",
+        "maxConcurrent": 8
+      },
+      "heartbeat": {
+        "every": "30m",
+        "target": "telegram",
+        "model": "anthropic/claude-haiku-3-5"
+      },
+      "maxConcurrent": 4,
+      "contextPruning": {
+        "mode": "cache-ttl",
+        "ttl": "1h"
+      },
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "sandbox": {
+        "browser": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "models": {
+    "providers": {
+      "anthropic": {
+        "baseUrl": "https://api.anthropic.com",
+        "api": "anthropic-messages",
+        "models": [
+          {
+            "id": "claude-opus-4-6",
+            "name": "Claude Opus 4.6",
+            "api": "anthropic-messages",
+            "reasoning": true,
+            "input": ["text", "image"],
+            "cost": { "input": 5, "output": 25, "cacheRead": 0.5, "cacheWrite": 6.25 },
+            "contextWindow": 200000,
+            "maxTokens": 128000
+          },
+          {
+            "id": "claude-sonnet-4-5",
+            "name": "Claude Sonnet 4.5",
+            "api": "anthropic-messages",
+            "reasoning": false,
+            "input": ["text", "image"],
+            "cost": { "input": 3, "output": 15, "cacheRead": 0.3, "cacheWrite": 3.75 },
+            "contextWindow": 200000,
+            "maxTokens": 16384
+          },
+          {
+            "id": "claude-haiku-3-5",
+            "name": "Claude Haiku 3.5",
+            "api": "anthropic-messages",
+            "reasoning": false,
+            "input": ["text", "image"],
+            "cost": { "input": 0.8, "output": 4, "cacheRead": 0.08, "cacheWrite": 1 },
+            "contextWindow": 200000,
+            "maxTokens": 8192
+          }
+        ]
+      },
+      "openai": {
+        "apiKey": "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"
+      },
+      "google": {
+        "apiKey": "AIzaSyBucUyIMtwvPvR5DW58St_hdqbDfXgU2T4"
+      },
+      "groq": {
+        "baseUrl": "https://api.groq.com/openai/v1",
+        "apiKey": "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"
+      },
+      "ollama": {
+        "apiKey": "ollama-local"
+      }
+    }
+  },
+  "tools": {
+    "media": {
+      "audio": {
+        "enabled": true,
+        "models": [
+          {
+            "provider": "groq",
+            "model": "distil-whisper-large-v3-en"
+          },
+          {
+            "provider": "openai",
+            "model": "whisper-1"
+          }
+        ]
+      }
+    },
+    "allow": [
+      "read", "write", "edit", "bash",
+      "web_search", "web_fetch",
+      "memory_search", "memory_get",
+      "cron", "sessions_list", "sessions_send",
+      "message", "nodes"
+    ]
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    },
+    "load": {
+      "extraDirs": ["/home/plotting1/.openclaw/workspace/skills"]
+    },
+    "entries": {
+      "notion": {
+        "apiKey": "ntn_X3505412152apkgbauCkXYJo1jWExZRKkTB42aAxAQP2Nt"
+      },
+      "github": {
+        "token": "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"
+      },
+      "gh-issues": {
+        "token": "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"
+      },
+      "gog": {
+        "clientId": "87507520039-i8turt97psp0dg89fa7prjsebnpgon67.apps.googleusercontent.com",
+        "clientSecret": "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",
+        "refreshToken": "1//0f1psK3R6HgkqCgYIARAAGA8SNwF-L9Iru3vijx0_EZrYo7MVtDCXSU4ZgCxJjQdXgQARYJZYH9keagRhF_Milju8kh__Jz1u_zI"
+      },
+      "goplaces": {
+        "clientId": "87507520039-i8turt97psp0dg89fa7prjsebnpgon67.apps.googleusercontent.com",
+        "clientSecret": "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",
+        "refreshToken": "1//0f1psK3R6HgkqCgYIARAAGA8SNwF-L9Iru3vijx0_EZrYo7MVtDCXSU4ZgCxJjQdXgQARYJZYH9keagRhF_Milju8kh__Jz1u_zI"
+      },
+      "gemini-cli": {
+        "apiKey": "AIzaSyBucUyIMtwvPvR5DW58St_hdqbDfXgU2T4"
+      },
+      "openai-whisper-api": {
+        "apiKey": "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"
+      },
+      "openai-image-gen": {
+        "apiKey": "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"
+      },
+      "nano-banana-pro": {
+        "apiKey": "AIzaSyBucUyIMtwvPvR5DW58St_hdqbDfXgU2T4"
+      },
+      "elevenlabs-tts": {
+        "apiKey": "9a7ea3d8c90e8550990ec82da85a0f25e2a42c035081a942c12214bb50ee1e44"
+      },
+      "sag": {
+        "apiKey": "9a7ea3d8c90e8550990ec82da85a0f25e2a42c035081a942c12214bb50ee1e44"
+      }
+    }
+  },
+  "messages": {
+    "ackReactionScope": "group-mentions"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true
+  },
+  "cron": {
+    "enabled": true
+  },
+  "hooks": {
+    "enabled": true,
+    "path": "/hooks",
+    "token": "frankieHQ_prime_hook_2026"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token": "8587241208:AAGIaGr-lhfBf6L2bci2Jeah4u6zSyu8ZFI",
+      "dmPolicy": "allowlist",
+      "allowFrom": ["*"]
+    },
+    "discord": {
+      "enabled": true,
+      "token": "MTQ3MjMwMDAwMTIzNjYxNTI2MA.GvvMTl.QA1QeNvVHBtswBrd-tsx-zGfJYmQFDDryuOsNw",
+      "groupPolicy": "allowlist",
+      "guilds": {
+        "1467241186073776336": {
+          "channels": {
+            "1467241187353296918": { "allow": true },
+            "1473013845772603575": { "allow": true },
+            "1473007272463696170": { "allow": true },
+            "1473007274774495446": { "allow": true }
+          }
+        }
+      }
+    }
+  },
+  "gateway": {
+    "port": 28789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "44c91fbff91f2a781aa989e8ca173807f9787528e0937290"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "calendar.add",
+        "contacts.add",
+        "reminders.add"
+      ]
+    }
+  },
+  "plugins": {
+    "entries": {
+      "discord":                { "enabled": true },
+      "telegram":               { "enabled": true },
+      "google-gemini-cli-auth": { "enabled": true }
+    }
+  }
+}

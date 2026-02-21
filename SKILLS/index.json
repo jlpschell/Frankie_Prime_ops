@@ -1,0 +1,163 @@
+[
+  {
+    "name": "copywriting",
+    "tier": "core",
+    "triggers": ["email", "copy", "cold email", "subject line", "sales", "outreach", "follow up", "drip", "sequence"],
+    "path": "workspace/skills/copywriting/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "trading",
+    "tier": "core",
+    "triggers": ["trade", "futures", "MGC", "MNQ", "ES", "XAUUSD", "BTC", "ghost", "quantcrawler", "P&L", "drawdown", "prop firm"],
+    "path": "workspace/skills/trading/TRADING_SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "ghl-mastery",
+    "tier": "core",
+    "triggers": ["GHL", "GoHighLevel", "CRM", "pipeline", "workflow", "voice AI", "AI employee", "sub-account", "campaign"],
+    "path": "workspace/skills/ghl-mastery/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "brand-identity",
+    "tier": "core",
+    "triggers": ["brand", "logo", "identity", "Human Led AI", "GenX WealthStack", "voice", "tone"],
+    "path": "workspace/skills/brand-identity/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "frankie-voice",
+    "tier": "core",
+    "triggers": ["voice", "TTS", "ElevenLabs", "audio", "voicemail", "speak", "record"],
+    "path": "workspace/skills/frankie-voice/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "skill-factory",
+    "tier": "core",
+    "triggers": ["create skill", "new skill", "skill template", "build skill"],
+    "path": "workspace/skills/skill-factory/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "writing-skills",
+    "tier": "core",
+    "triggers": ["write", "content", "article", "blog", "documentation", "persuasion"],
+    "path": "workspace/skills/writing-skills/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "brainstorming",
+    "tier": "core",
+    "triggers": ["brainstorm", "ideas", "strategy", "plan", "think through", "options"],
+    "path": "workspace/skills/brainstorming/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "seo-fundamentals",
+    "tier": "core",
+    "triggers": ["SEO", "search engine", "keywords", "ranking", "Google My Business", "local SEO"],
+    "path": "workspace/skills/seo-fundamentals/SKILL.md",
+    "sub_agent": null
+  },
+  {
+    "name": "frontend-design",
+    "tier": "build",
+    "triggers": ["frontend", "UI", "UX", "CSS", "design", "layout", "responsive", "animation"],
+    "path": "workspace/skills/build/frontend-design/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "api-patterns",
+    "tier": "build",
+    "triggers": ["API", "REST", "GraphQL", "endpoint", "route", "middleware", "auth"],
+    "path": "workspace/skills/build/api-patterns/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "python-patterns",
+    "tier": "build",
+    "triggers": ["python", "pip", "flask", "fastapi", "django", "pytest"],
+    "path": "workspace/skills/build/python-patterns/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "mcp-builder",
+    "tier": "build",
+    "triggers": ["MCP", "model context protocol", "server", "tool"],
+    "path": "workspace/skills/build/mcp-builder/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "app-builder",
+    "tier": "build",
+    "triggers": ["scaffold", "new project", "boilerplate", "template", "starter", "init"],
+    "path": "workspace/skills/build/app-builder/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "database-design",
+    "tier": "build",
+    "triggers": ["database", "schema", "SQL", "Supabase", "Postgres", "migration", "ORM"],
+    "path": "workspace/skills/build/database-design/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "react-patterns",
+    "tier": "build",
+    "triggers": ["React", "component", "hook", "state", "props", "JSX", "TSX"],
+    "path": "workspace/skills/build/react-patterns/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "nextjs-best-practices",
+    "tier": "build",
+    "triggers": ["Next.js", "nextjs", "SSR", "SSG", "app router", "pages router"],
+    "path": "workspace/skills/build/nextjs-best-practices/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "systematic-debugging",
+    "tier": "build",
+    "triggers": ["debug", "error", "bug", "crash", "fix", "stack trace", "log"],
+    "path": "workspace/skills/build/systematic-debugging/SKILL.md",
+    "sub_agent": "build-agent"
+  },
+  {
+    "name": "parallel-agents",
+    "tier": "agents",
+    "triggers": ["parallel", "concurrent", "multiple agents", "fan out"],
+    "path": "workspace/skills/agents/parallel-agents/SKILL.md",
+    "sub_agent": "orchestrator"
+  },
+  {
+    "name": "subagent-driven-development",
+    "tier": "agents",
+    "triggers": ["subagent", "delegate", "spawn agent", "agent team"],
+    "path": "workspace/skills/agents/subagent-driven-development/SKILL.md",
+    "sub_agent": "orchestrator"
+  },
+  {
+    "name": "intelligent-routing",
+    "tier": "agents",
+    "triggers": ["route", "dispatch", "classify", "triage", "which agent"],
+    "path": "workspace/skills/agents/intelligent-routing/SKILL.md",
+    "sub_agent": "orchestrator"
+  },
+  {
+    "name": "executing-plans",
+    "tier": "agents",
+    "triggers": ["execute plan", "follow plan", "implementation", "build from spec"],
+    "path": "workspace/skills/agents/executing-plans/SKILL.md",
+    "sub_agent": "orchestrator"
+  },
+  {
+    "name": "verification-before-completion",
+    "tier": "agents",
+    "triggers": ["verify", "validate", "check", "test", "QA", "done"],
+    "path": "workspace/skills/agents/verification-before-completion/SKILL.md",
+    "sub_agent": "orchestrator"
+  }
+]

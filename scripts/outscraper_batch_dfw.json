@@ -1,0 +1,31 @@
+{
+  "description": "East DFW → Greenville/Tyler Lead Gen — Full enrichment",
+  "zone": "East Dallas corridor: Garland → Rockwall → Royse City → Greenville → Tyler",
+  "created": "2026-02-16",
+  "notes": "Run with: python outscraper_lead_gen.py --batch scripts/outscraper_batch_dfw.json",
+  "jobs": [
+    {"niche": "HVAC contractor", "limit": 200, "subcities": true, "zone": "east"},
+    {"niche": "Roofing contractor", "limit": 200, "subcities": true, "zone": "east"},
+    {"niche": "General contractor", "limit": 300, "subcities": true, "zone": "east"},
+    {"niche": "Water damage restoration", "limit": 300, "subcities": true, "zone": "east"},
+    {"niche": "Plumber", "limit": 200, "subcities": true, "zone": "east"},
+    {"niche": "Electrician", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "MedSpa", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Massage therapist", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Pool builder", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Septic system service", "limit": 200, "subcities": true, "zone": "east"},
+    {"niche": "Garage door repair", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Tree service", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Artificial turf installer", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Metal building contractor", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Foundation repair", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Retaining wall contractor", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Epoxy floor coating", "limit": 75, "subcities": true, "zone": "east"},
+    {"niche": "Heavy equipment repair", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Public adjuster", "limit": 100, "subcities": true, "zone": "east"},
+    {"niche": "Estate attorney", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Title company", "limit": 150, "subcities": true, "zone": "east"},
+    {"niche": "Asphalt contractor", "limit": 50, "subcities": true, "zone": "east"},
+    {"niche": "Painting contractor", "limit": 200, "subcities": true, "zone": "east"}
+  ]
+}

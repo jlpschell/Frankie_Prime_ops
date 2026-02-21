@@ -1,0 +1,31 @@
+# MEMORY — Curated Long-Term Facts
+
+## Identity
+- **Full Name:** Jay Schell
+- **Email:** jlpschell@gmail.com
+- **Cat:** Benso (tuxedo cat)
+- **Location:** Royse City, TX
+
+## Google Accounts
+- `jlpschell@gmail.com` — Personal/oldest account
+- `humanledai@gmail.com` — Business boss account
+- `jason@humanledai.net` — Google Workspace account
+
+## Tech Stack Rules
+- **Claude CLI** not SDK — runs on $0 Max subscription
+- **Gemini** is utility only: NotebookLM, YouTube analysis, search, emergency backup
+- **Google APIs** direct via `googleapis` npm packages
+- **All work happens in WSL** — never Windows native
+- **Validator pattern:** SAFE / CONFIRM / NEVER levels
+
+## Trading Rules
+- **Topstep:** Automation OK
+- **Lucid:** Automation OK
+- **Apex:** NO automation — they will ban you
+- Instruments: MGC, MNQ, ES, XAUUSD, BTC
+
+## Critical Warnings
+- Frankie CANNOT edit his own source files (src/*.ts) — verify everything with logs
+- AI fabrication warning: always verify claims against actual file contents
+- Never send emails without Jay's explicit approval (drafts only)
+- Never commit credentials or .env files

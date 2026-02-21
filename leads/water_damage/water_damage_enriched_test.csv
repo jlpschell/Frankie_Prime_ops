@@ -1,0 +1,6 @@
+First Name,Last Name,Phone,Email,Company Name,City,State,Website,Tags,scraped_email,email_verified,contact_name,contact_title,phone_valid,phone_type,phone_carrier,phone_formatted,enrichment_status
+,,9724335309,,Water Damage Restoration Dallas,,,https://www.wdrdallas.com/,,,False,,,True,mobile_or_landline,,+19724335309,success
+,,8175803172,,Water Damage Restoration Fort Worth,,,http://www.wdrfortworth.com/,,,False,,,True,mobile_or_landline,,+18175803172,success
+,,9725738872,INFO@DRYFORCECORP.COM,Dry Force Water Removal Specialists,,,https://dryforcecorp.com/water-damage-fort-worth-tx/?utm_source=GMB&utm_medium=local&utm_campaign=GMB-Profile-Clicks,,,,,,True,mobile_or_landline,,+19725738872,skipped_has_email
+Josh,,2148335053,,Dalworth Restoration,,,http://www.dalworthrestoration.com/,,,False,Values Family,Owner,True,mobile_or_landline,,+12148335053,success
+,,8172218858,,All Dry Services of Fort Worth,,,https://www.myalldry.com/fort-worth-texas/,,,False,countless property,Owner,True,mobile_or_landline,,+18172218858,success

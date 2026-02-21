@@ -28,6 +28,25 @@
 - Key challenge: Reducing the "scariness factor" of AI for contractor prospects
 - Revenue model: Monthly automation subscriptions for contractors
 
+## MANDATORY: Check .env BEFORE Asking Jay for ANY Key/Token/Credential
+**Location: /home/plotting1/.openclaw/.env AND /home/plotting1/frankie-bot/.env**
+Both files contain ALL API keys, tokens, and credentials. ALWAYS check these FIRST.
+Asking Jay for a key that exists in .env = VIOLATION. No exceptions.
+
+Available keys in .env:
+- Anthropic (auth-profiles.json)
+- Telegram bot token
+- Discord bot token + guild ID
+- Supabase (URL + anon + service role)
+- OpenAI API key
+- Groq API key (Whisper transcription)
+- Gemini (3 keys: main, fallback, flash)
+- GHL (API key + location ID)
+- ElevenLabs API key
+- Google OAuth (3 accounts: humanledai workspace, personal gmail, business gmail)
+- GitHub PAT
+- Notion API key
+
 ## Accounts
 - GitHub: jlpschell (PAT stored in .env as GITHUB_PAT)
 

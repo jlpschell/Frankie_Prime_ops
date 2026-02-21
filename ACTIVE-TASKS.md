@@ -1,5 +1,38 @@
 # Active Tasks
 
+## 🔴 Priority 1: Jarvis Memory System (Redis + Qdrant)
+- Status: READY TO INSTALL
+- Blocker: Docker Desktop installed but WSL integration not enabled
+- Jay needs to: Open Docker Desktop → Settings → Resources → WSL Integration → Enable Ubuntu-24.04
+- Once enabled: Run install.sh (~15 min), zero downtime, runs alongside current system
+- Repo: /tmp/openclaw-jarvis-memory
+
+## 🔴 Priority 2: Mission Control Upgrade
+- Status: PLANNING
+- Current: https://frankiesmissioncontrol.netlify.app/
+- Needs: Memory system visibility (Redis/Qdrant stats), more usable dashboard for Jay
+- Integration: Show lead pipeline status, memory health, task status, conversation logs
+
+## 🟡 Priority 3: Obsidian Integration
+- Status: WAITING — Jay researching API
+- Concept: Frankie generates curated .md files with Obsidian-style [[wiki links]]
+- Benefit: Visual knowledge graph of business operations, leads, decisions, contacts
+- Pairs with: Jarvis memory system (Qdrant feeds → Obsidian-ready .md files)
+- Blocker: Obsidian API access / local vault setup
+
+## 🟡 Priority 4: Social Media Scanner/Scraper/Repurposer
+- Status: PLANNING
+- Concept: Scan social media for content → scrape → repurpose for Human Led AI
+- Tools: Browser automation, content extraction, AI rewriting
+- Target platforms: TBD (ask Jay)
+
+## 🟢 Priority 5: Transcript Dedup + Knowledge Extraction
+- Status: READY
+- Location: /home/plotting1/.openclaw/workspace/from Jays side/transcripts/
+- 43 OpenClaw YouTube transcripts — need dedup check + knowledge extraction
+- Jay flagged: 57 (empty), 58 (7 skills), 59 (BMAD SaaS agents), 65 (memory upgrade = dupe of today's file)
+- Action: Extract actionable techniques, feed into memory system once built
+
 ## Priority 1: A2P Campaign Approval — BLOCKING EVERYTHING
 - Status: RESUBMITTED Feb 18 — waiting on carrier review (1-3 business days)
 - Previous rejection: MESSAGE_FLOW: Disallowed Content

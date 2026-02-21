@@ -1,0 +1,2235 @@
+[2026-02-19 00:13:10] ============================================================
+[2026-02-19 00:13:10] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 00:13:10] Niches: 7, Cities: 20
+[2026-02-19 00:13:10] ============================================================
+[2026-02-19 00:13:10] 
+🔍 Starting: Plumber (target: 200)
+[2026-02-19 00:13:10]   Searching: Plumber near Royse City, TX (limit 15)
+[2026-02-19 00:18:11]     ERROR on Royse City, TX: Response status code: 504
+[2026-02-19 00:18:16]   Searching: Plumber near Rockwall, TX (limit 15)
+[2026-02-19 00:18:40]     Got 15 results from Rockwall, TX
+[2026-02-19 00:18:42]   Searching: Plumber near Garland, TX (limit 15)
+[2026-02-19 00:18:51]     Got 15 results from Garland, TX
+[2026-02-19 00:18:53]   Searching: Plumber near Mesquite, TX (limit 15)
+[2026-02-19 00:19:08]     Got 15 results from Mesquite, TX
+[2026-02-19 00:19:10]   Searching: Plumber near Greenville, TX (limit 15)
+[2026-02-19 00:19:17]     Got 15 results from Greenville, TX
+[2026-02-19 00:19:19]   Searching: Plumber near Terrell, TX (limit 15)
+[2026-02-19 00:19:27]     Got 10 results from Terrell, TX
+[2026-02-19 00:19:29]   Searching: Plumber near Forney, TX (limit 15)
+[2026-02-19 00:19:45]     Got 10 results from Forney, TX
+[2026-02-19 00:19:47]   Searching: Plumber near Heath, TX (limit 15)
+[2026-02-19 00:19:55]     Got 5 results from Heath, TX
+[2026-02-19 00:19:57]   Searching: Plumber near Rowlett, TX (limit 15)
+[2026-02-19 00:24:58]     ERROR on Rowlett, TX: Response status code: 504
+[2026-02-19 00:25:03]   Searching: Plumber near Wylie, TX (limit 15)
+[2026-02-19 00:25:15]     Got 15 results from Wylie, TX
+[2026-02-19 00:25:17]   Searching: Plumber near Sachse, TX (limit 15)
+[2026-02-19 00:25:46]     Got 10 results from Sachse, TX
+[2026-02-19 00:25:48]   Searching: Plumber near Murphy, TX (limit 15)
+[2026-02-19 00:25:54]     Got 2 results from Murphy, TX
+[2026-02-19 00:25:56]   Searching: Plumber near Fate, TX (limit 15)
+[2026-02-19 00:26:04]     Got 10 results from Fate, TX
+[2026-02-19 00:26:06]   Searching: Plumber near Caddo Mills, TX (limit 15)
+[2026-02-19 00:31:07]     ERROR on Caddo Mills, TX: Response status code: 504
+[2026-02-19 00:31:12]   Searching: Plumber near Quinlan, TX (limit 15)
+[2026-02-19 00:31:27]     Got 5 results from Quinlan, TX
+[2026-02-19 00:31:29]   Searching: Plumber near Commerce, TX (limit 15)
+[2026-02-19 00:31:35]     Got 10 results from Commerce, TX
+[2026-02-19 00:31:37]   Searching: Plumber near Sulphur Springs, TX (limit 15)
+[2026-02-19 00:31:43]     Got 14 results from Sulphur Springs, TX
+[2026-02-19 00:31:45]   Searching: Plumber near Tyler, TX (limit 15)
+[2026-02-19 00:31:58]     Got 15 results from Tyler, TX
+[2026-02-19 00:32:00]   Searching: Plumber near Canton, TX (limit 15)
+[2026-02-19 00:37:00]     ERROR on Canton, TX: Response status code: 504
+[2026-02-19 00:37:05]   Searching: Plumber near Kaufman, TX (limit 15)
+[2026-02-19 00:37:17]     Got 7 results from Kaufman, TX
+[2026-02-19 00:37:19]   ✅ Plumber: 137 unique leads → /home/plotting1/frankie-bot/workspace/leads/plumbers/plumbers_overnight_20260219_0037.csv
+[2026-02-19 00:37:19]   Subtotal so far: 137 leads
+[2026-02-19 00:37:24] 
+🔍 Starting: Electrician (target: 200)
+[2026-02-19 00:37:24]   Searching: Electrician near Royse City, TX (limit 15)
+[2026-02-19 00:37:32]     Got 14 results from Royse City, TX
+[2026-02-19 00:37:34]   Searching: Electrician near Rockwall, TX (limit 15)
+[2026-02-19 00:37:43]     Got 15 results from Rockwall, TX
+[2026-02-19 00:37:45]   Searching: Electrician near Garland, TX (limit 15)
+[2026-02-19 00:42:45]     ERROR on Garland, TX: Response status code: 504
+[2026-02-19 00:42:50]   Searching: Electrician near Mesquite, TX (limit 15)
+[2026-02-19 00:43:06]     Got 15 results from Mesquite, TX
+[2026-02-19 00:43:08]   Searching: Electrician near Greenville, TX (limit 15)
+[2026-02-19 00:43:27] ============================================================
+[2026-02-19 00:43:27] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 00:43:27] Niches: 6, Cities: 20
+[2026-02-19 00:43:27] ============================================================
+[2026-02-19 00:43:27] 
+🔍 Starting: Electrician (target: 200)
+[2026-02-19 00:43:27]   Searching: Electrician near Royse City, TX (limit 15)
+[2026-02-19 00:44:54]     Got 13 results from Royse City, TX
+[2026-02-19 00:44:56]   Searching: Electrician near Rockwall, TX (limit 15)
+[2026-02-19 00:49:57]     ERROR on Rockwall, TX: Response status code: 504
+[2026-02-19 00:50:02]   Searching: Electrician near Garland, TX (limit 15)
+[2026-02-19 00:50:18]     Got 15 results from Garland, TX
+[2026-02-19 00:50:20]   Searching: Electrician near Mesquite, TX (limit 15)
+[2026-02-19 00:50:35]     Got 15 results from Mesquite, TX
+[2026-02-19 00:50:37]   Searching: Electrician near Greenville, TX (limit 15)
+[2026-02-19 00:50:49]     Got 6 results from Greenville, TX
+[2026-02-19 00:50:51]   Searching: Electrician near Terrell, TX (limit 15)
+[2026-02-19 00:51:06]     Got 14 results from Terrell, TX
+[2026-02-19 00:51:08]   Searching: Electrician near Forney, TX (limit 15)
+[2026-02-19 00:51:27]     Got 15 results from Forney, TX
+[2026-02-19 00:51:29]   Searching: Electrician near Heath, TX (limit 15)
+[2026-02-19 00:51:53]     Got 12 results from Heath, TX
+[2026-02-19 00:51:55]   Searching: Electrician near Rowlett, TX (limit 15)
+[2026-02-19 00:52:10]     Got 15 results from Rowlett, TX
+[2026-02-19 00:52:12]   Searching: Electrician near Wylie, TX (limit 15)
+[2026-02-19 00:52:19]     Got 15 results from Wylie, TX
+[2026-02-19 00:52:21]   Searching: Electrician near Sachse, TX (limit 15)
+[2026-02-19 00:52:29]     Got 14 results from Sachse, TX
+[2026-02-19 00:52:31]   Searching: Electrician near Murphy, TX (limit 15)
+[2026-02-19 00:53:12]     Got 14 results from Murphy, TX
+[2026-02-19 00:53:14]   Searching: Electrician near Fate, TX (limit 15)
+[2026-02-19 00:53:26]     Got 9 results from Fate, TX
+[2026-02-19 00:53:28]   Searching: Electrician near Caddo Mills, TX (limit 15)
+[2026-02-19 00:53:37]     Got 11 results from Caddo Mills, TX
+[2026-02-19 00:53:39]   Searching: Electrician near Quinlan, TX (limit 15)
+[2026-02-19 00:53:45]     Got 1 results from Quinlan, TX
+[2026-02-19 00:53:47]   Searching: Electrician near Commerce, TX (limit 15)
+[2026-02-19 00:53:58]     Got 11 results from Commerce, TX
+[2026-02-19 00:54:00]   Searching: Electrician near Sulphur Springs, TX (limit 15)
+[2026-02-19 00:54:16]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 00:54:18]   Searching: Electrician near Tyler, TX (limit 15)
+[2026-02-19 00:54:26]     Got 15 results from Tyler, TX
+[2026-02-19 00:54:28]   Searching: Electrician near Canton, TX (limit 15)
+[2026-02-19 00:54:37]     Got 3 results from Canton, TX
+[2026-02-19 00:54:39]   Searching: Electrician near Kaufman, TX (limit 15)
+[2026-02-19 00:54:58]     Got 14 results from Kaufman, TX
+[2026-02-19 00:55:00]   ✅ Electrician: 151 unique leads → /home/plotting1/frankie-bot/workspace/leads/electricians/electricians_overnight_20260219_0055.csv
+[2026-02-19 00:55:00]   Subtotal so far: 151 leads
+[2026-02-19 00:55:05] 
+🔍 Starting: Asphalt contractor (target: 100)
+[2026-02-19 00:55:05]   Searching: Asphalt contractor near Royse City, TX (limit 10)
+[2026-02-19 00:55:17]     Got 10 results from Royse City, TX
+[2026-02-19 00:55:19]   Searching: Asphalt contractor near Rockwall, TX (limit 10)
+[2026-02-19 00:55:25]     Got 10 results from Rockwall, TX
+[2026-02-19 00:55:27]   Searching: Asphalt contractor near Garland, TX (limit 10)
+[2026-02-19 00:55:39]     Got 10 results from Garland, TX
+[2026-02-19 00:55:41]   Searching: Asphalt contractor near Mesquite, TX (limit 10)
+[2026-02-19 00:55:50]     Got 10 results from Mesquite, TX
+[2026-02-19 00:55:52]   Searching: Asphalt contractor near Greenville, TX (limit 10)
+[2026-02-19 00:56:00]     Got 7 results from Greenville, TX
+[2026-02-19 00:56:02]   Searching: Asphalt contractor near Terrell, TX (limit 10)
+[2026-02-19 01:01:03]     ERROR on Terrell, TX: Response status code: 504
+[2026-02-19 01:01:08]   Searching: Asphalt contractor near Forney, TX (limit 10)
+[2026-02-19 01:01:23]     Got 10 results from Forney, TX
+[2026-02-19 01:01:25]   Searching: Asphalt contractor near Heath, TX (limit 10)
+[2026-02-19 01:06:26]     ERROR on Heath, TX: Response status code: 504
+[2026-02-19 01:06:31]   Searching: Asphalt contractor near Rowlett, TX (limit 10)
+[2026-02-19 01:11:31]     ERROR on Rowlett, TX: Response status code: 504
+[2026-02-19 01:11:36]   Searching: Asphalt contractor near Wylie, TX (limit 10)
+[2026-02-19 01:11:52]     Got 10 results from Wylie, TX
+[2026-02-19 01:11:54]   Searching: Asphalt contractor near Sachse, TX (limit 10)
+[2026-02-19 01:12:09]     Got 6 results from Sachse, TX
+[2026-02-19 01:12:11]   Searching: Asphalt contractor near Murphy, TX (limit 10)
+[2026-02-19 01:12:26]     Got 7 results from Murphy, TX
+[2026-02-19 01:12:28]   Searching: Asphalt contractor near Fate, TX (limit 10)
+[2026-02-19 01:12:34]     Got 10 results from Fate, TX
+[2026-02-19 01:12:36]   Searching: Asphalt contractor near Caddo Mills, TX (limit 10)
+[2026-02-19 01:13:00]     Got 10 results from Caddo Mills, TX
+[2026-02-19 01:13:02]   Searching: Asphalt contractor near Quinlan, TX (limit 10)
+[2026-02-19 01:13:09]     Got 5 results from Quinlan, TX
+[2026-02-19 01:13:11]   Searching: Asphalt contractor near Commerce, TX (limit 10)
+[2026-02-19 01:13:23]     Got 8 results from Commerce, TX
+[2026-02-19 01:13:25]   Searching: Asphalt contractor near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:13:31]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:13:33]   Searching: Asphalt contractor near Tyler, TX (limit 10)
+[2026-02-19 01:13:41]     Got 10 results from Tyler, TX
+[2026-02-19 01:13:43]   Searching: Asphalt contractor near Canton, TX (limit 10)
+[2026-02-19 01:13:52]     Got 4 results from Canton, TX
+[2026-02-19 01:13:54]   Searching: Asphalt contractor near Kaufman, TX (limit 10)
+[2026-02-19 01:14:03]     Got 9 results from Kaufman, TX
+[2026-02-19 01:14:05]   ✅ Asphalt contractor: 80 unique leads → /home/plotting1/frankie-bot/workspace/leads/asphalt_contractors/asphalt_contractors_overnight_20260219_0114.csv
+[2026-02-19 01:14:05]   Subtotal so far: 231 leads
+[2026-02-19 01:14:10] 
+🔍 Starting: Well drilling (target: 100)
+[2026-02-19 01:14:10]   Searching: Well drilling near Royse City, TX (limit 10)
+[2026-02-19 01:14:16]     Got 10 results from Royse City, TX
+[2026-02-19 01:14:18]   Searching: Well drilling near Rockwall, TX (limit 10)
+[2026-02-19 01:14:24]     Got 10 results from Rockwall, TX
+[2026-02-19 01:14:26]   Searching: Well drilling near Garland, TX (limit 10)
+[2026-02-19 01:14:32]     Got 10 results from Garland, TX
+[2026-02-19 01:14:34]   Searching: Well drilling near Mesquite, TX (limit 10)
+[2026-02-19 01:14:40]     Got 9 results from Mesquite, TX
+[2026-02-19 01:14:42]   Searching: Well drilling near Greenville, TX (limit 10)
+[2026-02-19 01:14:48]     Got 1 results from Greenville, TX
+[2026-02-19 01:14:50]   Searching: Well drilling near Terrell, TX (limit 10)
+[2026-02-19 01:14:57]     Got 10 results from Terrell, TX
+[2026-02-19 01:14:59]   Searching: Well drilling near Forney, TX (limit 10)
+[2026-02-19 01:15:28]     Got 1 results from Forney, TX
+[2026-02-19 01:15:30]   Searching: Well drilling near Heath, TX (limit 10)
+[2026-02-19 01:15:36]     Got 10 results from Heath, TX
+[2026-02-19 01:15:38]   Searching: Well drilling near Rowlett, TX (limit 10)
+[2026-02-19 01:15:47]     Got 10 results from Rowlett, TX
+[2026-02-19 01:15:49]   Searching: Well drilling near Wylie, TX (limit 10)
+[2026-02-19 01:15:57]     Got 10 results from Wylie, TX
+[2026-02-19 01:15:59]   Searching: Well drilling near Sachse, TX (limit 10)
+[2026-02-19 01:16:08]     Got 10 results from Sachse, TX
+[2026-02-19 01:16:10]   Searching: Well drilling near Murphy, TX (limit 10)
+[2026-02-19 01:16:19]     Got 10 results from Murphy, TX
+[2026-02-19 01:16:21]   Searching: Well drilling near Fate, TX (limit 10)
+[2026-02-19 00:43:27] ============================================================
+[2026-02-19 00:43:27] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 00:43:27] Niches: 6, Cities: 20
+[2026-02-19 00:43:27] ============================================================
+[2026-02-19 00:43:27] 
+🔍 Starting: Electrician (target: 200)
+[2026-02-19 00:43:27]   Searching: Electrician near Royse City, TX (limit 15)
+[2026-02-19 00:44:54]     Got 13 results from Royse City, TX
+[2026-02-19 00:44:56]   Searching: Electrician near Rockwall, TX (limit 15)
+[2026-02-19 00:49:57]     ERROR on Rockwall, TX: Response status code: 504
+[2026-02-19 00:50:02]   Searching: Electrician near Garland, TX (limit 15)
+[2026-02-19 00:50:18]     Got 15 results from Garland, TX
+[2026-02-19 00:50:20]   Searching: Electrician near Mesquite, TX (limit 15)
+[2026-02-19 00:50:35]     Got 15 results from Mesquite, TX
+[2026-02-19 00:50:37]   Searching: Electrician near Greenville, TX (limit 15)
+[2026-02-19 00:50:49]     Got 6 results from Greenville, TX
+[2026-02-19 00:50:51]   Searching: Electrician near Terrell, TX (limit 15)
+[2026-02-19 00:51:06]     Got 14 results from Terrell, TX
+[2026-02-19 00:51:08]   Searching: Electrician near Forney, TX (limit 15)
+[2026-02-19 00:51:27]     Got 15 results from Forney, TX
+[2026-02-19 00:51:29]   Searching: Electrician near Heath, TX (limit 15)
+[2026-02-19 00:51:53]     Got 12 results from Heath, TX
+[2026-02-19 00:51:55]   Searching: Electrician near Rowlett, TX (limit 15)
+[2026-02-19 00:52:10]     Got 15 results from Rowlett, TX
+[2026-02-19 00:52:12]   Searching: Electrician near Wylie, TX (limit 15)
+[2026-02-19 00:52:19]     Got 15 results from Wylie, TX
+[2026-02-19 00:52:21]   Searching: Electrician near Sachse, TX (limit 15)
+[2026-02-19 00:52:29]     Got 14 results from Sachse, TX
+[2026-02-19 00:52:31]   Searching: Electrician near Murphy, TX (limit 15)
+[2026-02-19 00:53:12]     Got 14 results from Murphy, TX
+[2026-02-19 00:53:14]   Searching: Electrician near Fate, TX (limit 15)
+[2026-02-19 00:53:26]     Got 9 results from Fate, TX
+[2026-02-19 00:53:28]   Searching: Electrician near Caddo Mills, TX (limit 15)
+[2026-02-19 00:53:37]     Got 11 results from Caddo Mills, TX
+[2026-02-19 00:53:39]   Searching: Electrician near Quinlan, TX (limit 15)
+[2026-02-19 00:53:45]     Got 1 results from Quinlan, TX
+[2026-02-19 00:53:47]   Searching: Electrician near Commerce, TX (limit 15)
+[2026-02-19 00:53:58]     Got 11 results from Commerce, TX
+[2026-02-19 00:54:00]   Searching: Electrician near Sulphur Springs, TX (limit 15)
+[2026-02-19 00:54:16]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 00:54:18]   Searching: Electrician near Tyler, TX (limit 15)
+[2026-02-19 00:54:26]     Got 15 results from Tyler, TX
+[2026-02-19 00:54:28]   Searching: Electrician near Canton, TX (limit 15)
+[2026-02-19 00:54:37]     Got 3 results from Canton, TX
+[2026-02-19 00:54:39]   Searching: Electrician near Kaufman, TX (limit 15)
+[2026-02-19 00:54:58]     Got 14 results from Kaufman, TX
+[2026-02-19 00:55:00]   ✅ Electrician: 151 unique leads → /home/plotting1/frankie-bot/workspace/leads/electricians/electricians_overnight_20260219_0055.csv
+[2026-02-19 00:55:00]   Subtotal so far: 151 leads
+[2026-02-19 00:55:05] 
+🔍 Starting: Asphalt contractor (target: 100)
+[2026-02-19 00:55:05]   Searching: Asphalt contractor near Royse City, TX (limit 10)
+[2026-02-19 00:55:17]     Got 10 results from Royse City, TX
+[2026-02-19 00:55:19]   Searching: Asphalt contractor near Rockwall, TX (limit 10)
+[2026-02-19 00:55:25]     Got 10 results from Rockwall, TX
+[2026-02-19 00:55:27]   Searching: Asphalt contractor near Garland, TX (limit 10)
+[2026-02-19 00:55:39]     Got 10 results from Garland, TX
+[2026-02-19 00:55:41]   Searching: Asphalt contractor near Mesquite, TX (limit 10)
+[2026-02-19 00:55:50]     Got 10 results from Mesquite, TX
+[2026-02-19 00:55:52]   Searching: Asphalt contractor near Greenville, TX (limit 10)
+[2026-02-19 00:56:00]     Got 7 results from Greenville, TX
+[2026-02-19 00:56:02]   Searching: Asphalt contractor near Terrell, TX (limit 10)
+[2026-02-19 01:01:03]     ERROR on Terrell, TX: Response status code: 504
+[2026-02-19 01:01:08]   Searching: Asphalt contractor near Forney, TX (limit 10)
+[2026-02-19 01:01:23]     Got 10 results from Forney, TX
+[2026-02-19 01:01:25]   Searching: Asphalt contractor near Heath, TX (limit 10)
+[2026-02-19 01:06:26]     ERROR on Heath, TX: Response status code: 504
+[2026-02-19 01:06:31]   Searching: Asphalt contractor near Rowlett, TX (limit 10)
+[2026-02-19 01:11:31]     ERROR on Rowlett, TX: Response status code: 504
+[2026-02-19 01:11:36]   Searching: Asphalt contractor near Wylie, TX (limit 10)
+[2026-02-19 01:11:52]     Got 10 results from Wylie, TX
+[2026-02-19 01:11:54]   Searching: Asphalt contractor near Sachse, TX (limit 10)
+[2026-02-19 01:12:09]     Got 6 results from Sachse, TX
+[2026-02-19 01:12:11]   Searching: Asphalt contractor near Murphy, TX (limit 10)
+[2026-02-19 01:12:26]     Got 7 results from Murphy, TX
+[2026-02-19 01:12:28]   Searching: Asphalt contractor near Fate, TX (limit 10)
+[2026-02-19 01:12:34]     Got 10 results from Fate, TX
+[2026-02-19 01:12:36]   Searching: Asphalt contractor near Caddo Mills, TX (limit 10)
+[2026-02-19 01:13:00]     Got 10 results from Caddo Mills, TX
+[2026-02-19 01:13:02]   Searching: Asphalt contractor near Quinlan, TX (limit 10)
+[2026-02-19 01:13:09]     Got 5 results from Quinlan, TX
+[2026-02-19 01:13:11]   Searching: Asphalt contractor near Commerce, TX (limit 10)
+[2026-02-19 01:13:23]     Got 8 results from Commerce, TX
+[2026-02-19 01:13:25]   Searching: Asphalt contractor near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:13:31]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:13:33]   Searching: Asphalt contractor near Tyler, TX (limit 10)
+[2026-02-19 01:13:41]     Got 10 results from Tyler, TX
+[2026-02-19 01:13:43]   Searching: Asphalt contractor near Canton, TX (limit 10)
+[2026-02-19 01:13:52]     Got 4 results from Canton, TX
+[2026-02-19 01:13:54]   Searching: Asphalt contractor near Kaufman, TX (limit 10)
+[2026-02-19 01:14:03]     Got 9 results from Kaufman, TX
+[2026-02-19 01:14:05]   ✅ Asphalt contractor: 80 unique leads → /home/plotting1/frankie-bot/workspace/leads/asphalt_contractors/asphalt_contractors_overnight_20260219_0114.csv
+[2026-02-19 01:14:05]   Subtotal so far: 231 leads
+[2026-02-19 01:14:10] 
+🔍 Starting: Well drilling (target: 100)
+[2026-02-19 01:14:10]   Searching: Well drilling near Royse City, TX (limit 10)
+[2026-02-19 01:14:16]     Got 10 results from Royse City, TX
+[2026-02-19 01:14:18]   Searching: Well drilling near Rockwall, TX (limit 10)
+[2026-02-19 01:14:24]     Got 10 results from Rockwall, TX
+[2026-02-19 01:14:26]   Searching: Well drilling near Garland, TX (limit 10)
+[2026-02-19 01:14:32]     Got 10 results from Garland, TX
+[2026-02-19 01:14:34]   Searching: Well drilling near Mesquite, TX (limit 10)
+[2026-02-19 01:14:40]     Got 9 results from Mesquite, TX
+[2026-02-19 01:14:42]   Searching: Well drilling near Greenville, TX (limit 10)
+[2026-02-19 01:14:48]     Got 1 results from Greenville, TX
+[2026-02-19 01:14:50]   Searching: Well drilling near Terrell, TX (limit 10)
+[2026-02-19 01:14:57]     Got 10 results from Terrell, TX
+[2026-02-19 01:14:59]   Searching: Well drilling near Forney, TX (limit 10)
+[2026-02-19 01:15:28]     Got 1 results from Forney, TX
+[2026-02-19 01:15:30]   Searching: Well drilling near Heath, TX (limit 10)
+[2026-02-19 01:15:36]     Got 10 results from Heath, TX
+[2026-02-19 01:15:38]   Searching: Well drilling near Rowlett, TX (limit 10)
+[2026-02-19 01:15:47]     Got 10 results from Rowlett, TX
+[2026-02-19 01:15:49]   Searching: Well drilling near Wylie, TX (limit 10)
+[2026-02-19 01:15:57]     Got 10 results from Wylie, TX
+[2026-02-19 01:15:59]   Searching: Well drilling near Sachse, TX (limit 10)
+[2026-02-19 01:16:08]     Got 10 results from Sachse, TX
+[2026-02-19 01:16:10]   Searching: Well drilling near Murphy, TX (limit 10)
+[2026-02-19 01:16:19]     Got 10 results from Murphy, TX
+[2026-02-19 01:16:21]   Searching: Well drilling near Fate, TX (limit 10)
+[2026-02-19 01:16:29]     Got 10 results from Fate, TX
+[2026-02-19 01:16:31]   Searching: Well drilling near Caddo Mills, TX (limit 10)
+[2026-02-19 01:16:40]     Got 10 results from Caddo Mills, TX
+[2026-02-19 01:16:42]   Searching: Well drilling near Quinlan, TX (limit 10)
+[2026-02-19 01:16:48]     Got 10 results from Quinlan, TX
+[2026-02-19 01:16:50]   Searching: Well drilling near Commerce, TX (limit 10)
+[2026-02-19 01:16:59]     Got 10 results from Commerce, TX
+[2026-02-19 01:17:01]   Searching: Well drilling near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:17:07]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:17:09]   Searching: Well drilling near Tyler, TX (limit 10)
+[2026-02-19 01:17:21]     Got 10 results from Tyler, TX
+[2026-02-19 01:17:23]   Searching: Well drilling near Canton, TX (limit 10)
+[2026-02-19 01:17:29]     Got 4 results from Canton, TX
+[2026-02-19 01:17:31]   Searching: Well drilling near Kaufman, TX (limit 10)
+[2026-02-19 01:17:37]     Got 10 results from Kaufman, TX
+[2026-02-19 01:17:39]   ✅ Well drilling: 56 unique leads → /home/plotting1/frankie-bot/workspace/leads/well_drilling/well_drilling_overnight_20260219_0117.csv
+[2026-02-19 01:17:39]   Subtotal so far: 287 leads
+[2026-02-19 01:17:44] 
+🔍 Starting: Tree service (target: 150)
+[2026-02-19 01:17:44]   Searching: Tree service near Royse City, TX (limit 12)
+[2026-02-19 01:17:53]     Got 2 results from Royse City, TX
+[2026-02-19 01:17:55]   Searching: Tree service near Rockwall, TX (limit 12)
+[2026-02-19 01:18:01]     Got 12 results from Rockwall, TX
+[2026-02-19 01:18:03]   Searching: Tree service near Garland, TX (limit 12)
+[2026-02-19 01:18:44]     Got 12 results from Garland, TX
+[2026-02-19 01:18:46]   Searching: Tree service near Mesquite, TX (limit 12)
+[2026-02-19 01:19:20]     Got 12 results from Mesquite, TX
+[2026-02-19 01:19:22]   Searching: Tree service near Greenville, TX (limit 12)
+[2026-02-19 01:19:31]     Got 12 results from Greenville, TX
+[2026-02-19 01:19:33]   Searching: Tree service near Terrell, TX (limit 12)
+[2026-02-19 01:19:41]     Got 9 results from Terrell, TX
+[2026-02-19 01:19:43]   Searching: Tree service near Forney, TX (limit 12)
+[2026-02-19 01:19:55]     Got 6 results from Forney, TX
+[2026-02-19 01:19:57]   Searching: Tree service near Heath, TX (limit 12)
+[2026-02-19 01:20:06]     Got 2 results from Heath, TX
+[2026-02-19 01:20:08]   Searching: Tree service near Rowlett, TX (limit 12)
+[2026-02-19 01:20:17]     Got 10 results from Rowlett, TX
+[2026-02-19 01:20:19]   Searching: Tree service near Wylie, TX (limit 12)
+[2026-02-19 01:20:25]     Got 6 results from Wylie, TX
+[2026-02-19 01:20:27]   Searching: Tree service near Sachse, TX (limit 12)
+[2026-02-19 01:20:42]     Got 6 results from Sachse, TX
+[2026-02-19 01:20:44]   Searching: Tree service near Murphy, TX (limit 12)
+[2026-02-19 01:20:53]     Got 12 results from Murphy, TX
+[2026-02-19 01:20:55]   Searching: Tree service near Fate, TX (limit 12)
+[2026-02-19 01:21:06]     Got 10 results from Fate, TX
+[2026-02-19 01:21:08]   Searching: Tree service near Caddo Mills, TX (limit 12)
+[2026-02-19 01:21:24]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:21:26]   Searching: Tree service near Quinlan, TX (limit 12)
+[2026-02-19 01:21:38]     Got 9 results from Quinlan, TX
+[2026-02-19 01:21:40]   Searching: Tree service near Commerce, TX (limit 12)
+[2026-02-19 01:22:08]     Got 7 results from Commerce, TX
+[2026-02-19 01:22:10]   Searching: Tree service near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:22:16]     Got 9 results from Sulphur Springs, TX
+[2026-02-19 01:22:18]   Searching: Tree service near Tyler, TX (limit 12)
+[2026-02-19 01:22:43]     Got 12 results from Tyler, TX
+[2026-02-19 01:22:45]   Searching: Tree service near Canton, TX (limit 12)
+[2026-02-19 01:22:51]     Got 1 results from Canton, TX
+[2026-02-19 01:22:53]   Searching: Tree service near Kaufman, TX (limit 12)
+[2026-02-19 01:23:01]     Got 4 results from Kaufman, TX
+[2026-02-19 01:23:03]   ✅ Tree service: 109 unique leads → /home/plotting1/frankie-bot/workspace/leads/tree_service/tree_service_overnight_20260219_0123.csv
+[2026-02-19 01:23:03]   Subtotal so far: 396 leads
+[2026-02-19 01:23:08] 
+🔍 Starting: Epoxy floor coating (target: 100)
+[2026-02-19 01:23:08]   Searching: Epoxy floor coating near Royse City, TX (limit 10)
+[2026-02-19 01:23:17]     Got 10 results from Royse City, TX
+[2026-02-19 01:23:19]   Searching: Epoxy floor coating near Rockwall, TX (limit 10)
+[2026-02-19 01:25:38]     Got 10 results from Rockwall, TX
+[2026-02-19 01:25:40]   Searching: Epoxy floor coating near Garland, TX (limit 10)
+[2026-02-19 01:25:46]     Got 10 results from Garland, TX
+[2026-02-19 01:25:48]   Searching: Epoxy floor coating near Mesquite, TX (limit 10)
+[2026-02-19 01:25:57]     Got 10 results from Mesquite, TX
+[2026-02-19 01:25:59]   Searching: Epoxy floor coating near Greenville, TX (limit 10)
+[2026-02-19 01:26:22]     Got 10 results from Greenville, TX
+[2026-02-19 01:26:24]   Searching: Epoxy floor coating near Terrell, TX (limit 10)
+[2026-02-19 01:26:39]     Got 10 results from Terrell, TX
+[2026-02-19 01:26:41]   Searching: Epoxy floor coating near Forney, TX (limit 10)
+[2026-02-19 01:27:01]     Got 10 results from Forney, TX
+[2026-02-19 01:27:03]   Searching: Epoxy floor coating near Heath, TX (limit 10)
+[2026-02-19 01:27:22]     Got 10 results from Heath, TX
+[2026-02-19 01:27:24]   Searching: Epoxy floor coating near Rowlett, TX (limit 10)
+[2026-02-19 01:27:35]     Got 10 results from Rowlett, TX
+[2026-02-19 01:27:37]   Searching: Epoxy floor coating near Wylie, TX (limit 10)
+[2026-02-19 01:27:50]     Got 10 results from Wylie, TX
+[2026-02-19 01:27:52]   Searching: Epoxy floor coating near Sachse, TX (limit 10)
+[2026-02-19 01:28:00]     Got 7 results from Sachse, TX
+[2026-02-19 01:28:02]   Searching: Epoxy floor coating near Murphy, TX (limit 10)
+[2026-02-19 01:28:37]     Got 10 results from Murphy, TX
+[2026-02-19 01:28:39]   Searching: Epoxy floor coating near Fate, TX (limit 10)
+[2026-02-19 01:29:33]     Got 10 results from Fate, TX
+[2026-02-19 01:29:35]   Searching: Epoxy floor coating near Caddo Mills, TX (limit 10)
+[2026-02-19 01:29:47]     Got 9 results from Caddo Mills, TX
+[2026-02-19 01:29:49]   Searching: Epoxy floor coating near Quinlan, TX (limit 10)
+[2026-02-19 01:30:13]     Got 10 results from Quinlan, TX
+[2026-02-19 01:30:15]   Searching: Epoxy floor coating near Commerce, TX (limit 10)
+[2026-02-19 01:30:44]     Got 10 results from Commerce, TX
+[2026-02-19 01:30:46]   Searching: Epoxy floor coating near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:30:52]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:30:54]   Searching: Epoxy floor coating near Tyler, TX (limit 10)
+[2026-02-19 01:31:05]     Got 10 results from Tyler, TX
+[2026-02-19 01:31:08]   Searching: Epoxy floor coating near Canton, TX (limit 10)
+[2026-02-19 01:31:23]     Got 10 results from Canton, TX
+[2026-02-19 01:31:25]   Searching: Epoxy floor coating near Kaufman, TX (limit 10)
+[2026-02-19 01:31:40]     Got 10 results from Kaufman, TX
+[2026-02-19 01:31:42]   ✅ Epoxy floor coating: 58 unique leads → /home/plotting1/frankie-bot/workspace/leads/epoxy_flooring/epoxy_flooring_overnight_20260219_0131.csv
+[2026-02-19 01:31:42]   Subtotal so far: 454 leads
+[2026-02-19 01:31:47] 
+🔍 Starting: Painting contractor (target: 200)
+[2026-02-19 01:31:47]   Searching: Painting contractor near Royse City, TX (limit 15)
+[2026-02-19 01:31:59]     Got 11 results from Royse City, TX
+[2026-02-19 01:32:01]   Searching: Painting contractor near Rockwall, TX (limit 15)
+[2026-02-19 01:32:16]     Got 15 results from Rockwall, TX
+[2026-02-19 01:32:18]   Searching: Painting contractor near Garland, TX (limit 15)
+[2026-02-19 01:32:33]     Got 12 results from Garland, TX
+[2026-02-19 01:32:35]   Searching: Painting contractor near Mesquite, TX (limit 15)
+[2026-02-19 01:32:47]     Got 11 results from Mesquite, TX
+[2026-02-19 01:32:49]   Searching: Painting contractor near Greenville, TX (limit 15)
+[2026-02-19 01:33:04]     Got 12 results from Greenville, TX
+[2026-02-19 01:16:29]     Got 10 results from Fate, TX
+[2026-02-19 01:16:31]   Searching: Well drilling near Caddo Mills, TX (limit 10)
+[2026-02-19 01:16:40]     Got 10 results from Caddo Mills, TX
+[2026-02-19 01:16:42]   Searching: Well drilling near Quinlan, TX (limit 10)
+[2026-02-19 01:16:48]     Got 10 results from Quinlan, TX
+[2026-02-19 01:16:50]   Searching: Well drilling near Commerce, TX (limit 10)
+[2026-02-19 01:16:59]     Got 10 results from Commerce, TX
+[2026-02-19 01:17:01]   Searching: Well drilling near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:17:07]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:17:09]   Searching: Well drilling near Tyler, TX (limit 10)
+[2026-02-19 01:17:21]     Got 10 results from Tyler, TX
+[2026-02-19 01:17:23]   Searching: Well drilling near Canton, TX (limit 10)
+[2026-02-19 01:17:29]     Got 4 results from Canton, TX
+[2026-02-19 01:17:31]   Searching: Well drilling near Kaufman, TX (limit 10)
+[2026-02-19 01:17:37]     Got 10 results from Kaufman, TX
+[2026-02-19 01:17:39]   ✅ Well drilling: 56 unique leads → /home/plotting1/frankie-bot/workspace/leads/well_drilling/well_drilling_overnight_20260219_0117.csv
+[2026-02-19 01:17:39]   Subtotal so far: 287 leads
+[2026-02-19 01:17:44] 
+🔍 Starting: Tree service (target: 150)
+[2026-02-19 01:17:44]   Searching: Tree service near Royse City, TX (limit 12)
+[2026-02-19 01:17:53]     Got 2 results from Royse City, TX
+[2026-02-19 01:17:55]   Searching: Tree service near Rockwall, TX (limit 12)
+[2026-02-19 01:18:01]     Got 12 results from Rockwall, TX
+[2026-02-19 01:18:03]   Searching: Tree service near Garland, TX (limit 12)
+[2026-02-19 01:18:44]     Got 12 results from Garland, TX
+[2026-02-19 01:18:46]   Searching: Tree service near Mesquite, TX (limit 12)
+[2026-02-19 01:19:20]     Got 12 results from Mesquite, TX
+[2026-02-19 01:19:22]   Searching: Tree service near Greenville, TX (limit 12)
+[2026-02-19 01:19:31]     Got 12 results from Greenville, TX
+[2026-02-19 01:19:33]   Searching: Tree service near Terrell, TX (limit 12)
+[2026-02-19 01:19:41]     Got 9 results from Terrell, TX
+[2026-02-19 01:19:43]   Searching: Tree service near Forney, TX (limit 12)
+[2026-02-19 01:19:55]     Got 6 results from Forney, TX
+[2026-02-19 01:19:57]   Searching: Tree service near Heath, TX (limit 12)
+[2026-02-19 01:20:06]     Got 2 results from Heath, TX
+[2026-02-19 01:20:08]   Searching: Tree service near Rowlett, TX (limit 12)
+[2026-02-19 01:20:17]     Got 10 results from Rowlett, TX
+[2026-02-19 01:20:19]   Searching: Tree service near Wylie, TX (limit 12)
+[2026-02-19 01:20:25]     Got 6 results from Wylie, TX
+[2026-02-19 01:20:27]   Searching: Tree service near Sachse, TX (limit 12)
+[2026-02-19 01:20:42]     Got 6 results from Sachse, TX
+[2026-02-19 01:20:44]   Searching: Tree service near Murphy, TX (limit 12)
+[2026-02-19 01:20:53]     Got 12 results from Murphy, TX
+[2026-02-19 01:20:55]   Searching: Tree service near Fate, TX (limit 12)
+[2026-02-19 01:21:06]     Got 10 results from Fate, TX
+[2026-02-19 01:21:08]   Searching: Tree service near Caddo Mills, TX (limit 12)
+[2026-02-19 01:21:24]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:21:26]   Searching: Tree service near Quinlan, TX (limit 12)
+[2026-02-19 01:21:38]     Got 9 results from Quinlan, TX
+[2026-02-19 01:21:40]   Searching: Tree service near Commerce, TX (limit 12)
+[2026-02-19 01:22:08]     Got 7 results from Commerce, TX
+[2026-02-19 01:22:10]   Searching: Tree service near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:22:16]     Got 9 results from Sulphur Springs, TX
+[2026-02-19 01:22:18]   Searching: Tree service near Tyler, TX (limit 12)
+[2026-02-19 01:22:43]     Got 12 results from Tyler, TX
+[2026-02-19 01:22:45]   Searching: Tree service near Canton, TX (limit 12)
+[2026-02-19 01:22:51]     Got 1 results from Canton, TX
+[2026-02-19 01:22:53]   Searching: Tree service near Kaufman, TX (limit 12)
+[2026-02-19 01:23:01]     Got 4 results from Kaufman, TX
+[2026-02-19 01:23:03]   ✅ Tree service: 109 unique leads → /home/plotting1/frankie-bot/workspace/leads/tree_service/tree_service_overnight_20260219_0123.csv
+[2026-02-19 01:23:03]   Subtotal so far: 396 leads
+[2026-02-19 01:23:08] 
+🔍 Starting: Epoxy floor coating (target: 100)
+[2026-02-19 01:23:08]   Searching: Epoxy floor coating near Royse City, TX (limit 10)
+[2026-02-19 01:23:17]     Got 10 results from Royse City, TX
+[2026-02-19 01:23:19]   Searching: Epoxy floor coating near Rockwall, TX (limit 10)
+[2026-02-19 01:25:38]     Got 10 results from Rockwall, TX
+[2026-02-19 01:25:40]   Searching: Epoxy floor coating near Garland, TX (limit 10)
+[2026-02-19 01:25:46]     Got 10 results from Garland, TX
+[2026-02-19 01:25:48]   Searching: Epoxy floor coating near Mesquite, TX (limit 10)
+[2026-02-19 01:25:57]     Got 10 results from Mesquite, TX
+[2026-02-19 01:25:59]   Searching: Epoxy floor coating near Greenville, TX (limit 10)
+[2026-02-19 01:26:22]     Got 10 results from Greenville, TX
+[2026-02-19 01:26:24]   Searching: Epoxy floor coating near Terrell, TX (limit 10)
+[2026-02-19 01:26:39]     Got 10 results from Terrell, TX
+[2026-02-19 01:26:41]   Searching: Epoxy floor coating near Forney, TX (limit 10)
+[2026-02-19 01:27:01]     Got 10 results from Forney, TX
+[2026-02-19 01:27:03]   Searching: Epoxy floor coating near Heath, TX (limit 10)
+[2026-02-19 01:27:22]     Got 10 results from Heath, TX
+[2026-02-19 01:27:24]   Searching: Epoxy floor coating near Rowlett, TX (limit 10)
+[2026-02-19 01:27:35]     Got 10 results from Rowlett, TX
+[2026-02-19 01:27:37]   Searching: Epoxy floor coating near Wylie, TX (limit 10)
+[2026-02-19 01:27:50]     Got 10 results from Wylie, TX
+[2026-02-19 01:27:52]   Searching: Epoxy floor coating near Sachse, TX (limit 10)
+[2026-02-19 01:28:00]     Got 7 results from Sachse, TX
+[2026-02-19 01:28:02]   Searching: Epoxy floor coating near Murphy, TX (limit 10)
+[2026-02-19 01:28:37]     Got 10 results from Murphy, TX
+[2026-02-19 01:28:39]   Searching: Epoxy floor coating near Fate, TX (limit 10)
+[2026-02-19 01:29:33]     Got 10 results from Fate, TX
+[2026-02-19 01:29:35]   Searching: Epoxy floor coating near Caddo Mills, TX (limit 10)
+[2026-02-19 01:29:47]     Got 9 results from Caddo Mills, TX
+[2026-02-19 01:29:49]   Searching: Epoxy floor coating near Quinlan, TX (limit 10)
+[2026-02-19 01:30:13]     Got 10 results from Quinlan, TX
+[2026-02-19 01:30:15]   Searching: Epoxy floor coating near Commerce, TX (limit 10)
+[2026-02-19 01:30:44]     Got 10 results from Commerce, TX
+[2026-02-19 01:30:46]   Searching: Epoxy floor coating near Sulphur Springs, TX (limit 10)
+[2026-02-19 01:30:52]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 01:30:54]   Searching: Epoxy floor coating near Tyler, TX (limit 10)
+[2026-02-19 01:31:05]     Got 10 results from Tyler, TX
+[2026-02-19 01:31:08]   Searching: Epoxy floor coating near Canton, TX (limit 10)
+[2026-02-19 01:31:23]     Got 10 results from Canton, TX
+[2026-02-19 01:31:25]   Searching: Epoxy floor coating near Kaufman, TX (limit 10)
+[2026-02-19 01:31:40]     Got 10 results from Kaufman, TX
+[2026-02-19 01:31:42]   ✅ Epoxy floor coating: 58 unique leads → /home/plotting1/frankie-bot/workspace/leads/epoxy_flooring/epoxy_flooring_overnight_20260219_0131.csv
+[2026-02-19 01:31:42]   Subtotal so far: 454 leads
+[2026-02-19 01:31:47] 
+🔍 Starting: Painting contractor (target: 200)
+[2026-02-19 01:31:47]   Searching: Painting contractor near Royse City, TX (limit 15)
+[2026-02-19 01:31:59]     Got 11 results from Royse City, TX
+[2026-02-19 01:32:01]   Searching: Painting contractor near Rockwall, TX (limit 15)
+[2026-02-19 01:32:16]     Got 15 results from Rockwall, TX
+[2026-02-19 01:32:18]   Searching: Painting contractor near Garland, TX (limit 15)
+[2026-02-19 01:32:33]     Got 12 results from Garland, TX
+[2026-02-19 01:32:35]   Searching: Painting contractor near Mesquite, TX (limit 15)
+[2026-02-19 01:32:47]     Got 11 results from Mesquite, TX
+[2026-02-19 01:32:49]   Searching: Painting contractor near Greenville, TX (limit 15)
+[2026-02-19 01:33:04]     Got 12 results from Greenville, TX
+[2026-02-19 01:33:06]   Searching: Painting contractor near Terrell, TX (limit 15)
+[2026-02-19 01:33:21]     Got 13 results from Terrell, TX
+[2026-02-19 01:33:23]   Searching: Painting contractor near Forney, TX (limit 15)
+[2026-02-19 01:33:42]     Got 7 results from Forney, TX
+[2026-02-19 01:33:44]   Searching: Painting contractor near Heath, TX (limit 15)
+[2026-02-19 01:33:56]     Got 11 results from Heath, TX
+[2026-02-19 01:33:58]   Searching: Painting contractor near Rowlett, TX (limit 15)
+[2026-02-19 01:34:09]     Got 8 results from Rowlett, TX
+[2026-02-19 01:34:11]   Searching: Painting contractor near Wylie, TX (limit 15)
+[2026-02-19 01:34:31]     Got 15 results from Wylie, TX
+[2026-02-19 01:34:33]   Searching: Painting contractor near Sachse, TX (limit 15)
+[2026-02-19 01:34:41]     Got 7 results from Sachse, TX
+[2026-02-19 01:34:43]   Searching: Painting contractor near Murphy, TX (limit 15)
+[2026-02-19 01:34:55]     Got 10 results from Murphy, TX
+[2026-02-19 01:34:57]   Searching: Painting contractor near Fate, TX (limit 15)
+[2026-02-19 01:35:12]     Got 12 results from Fate, TX
+[2026-02-19 01:35:14]   Searching: Painting contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 01:35:23]     Got 13 results from Caddo Mills, TX
+[2026-02-19 01:35:25]   Searching: Painting contractor near Quinlan, TX (limit 15)
+[2026-02-19 01:35:34]     Got 10 results from Quinlan, TX
+[2026-02-19 01:35:36]   Searching: Painting contractor near Commerce, TX (limit 15)
+[2026-02-19 01:35:44]     Got 3 results from Commerce, TX
+[2026-02-19 01:35:46]   Searching: Painting contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 01:36:02]     Got 8 results from Sulphur Springs, TX
+[2026-02-19 01:36:04]   Searching: Painting contractor near Tyler, TX (limit 15)
+[2026-02-19 01:36:15]     Got 13 results from Tyler, TX
+[2026-02-19 01:36:17]   Searching: Painting contractor near Canton, TX (limit 15)
+[2026-02-19 01:36:24]     Got 1 results from Canton, TX
+[2026-02-19 01:36:26]   Searching: Painting contractor near Kaufman, TX (limit 15)
+[2026-02-19 01:36:38]     Got 5 results from Kaufman, TX
+[2026-02-19 01:36:40]   ✅ Painting contractor: 132 unique leads → /home/plotting1/frankie-bot/workspace/leads/painting_contractors/painting_contractors_overnight_20260219_0136.csv
+[2026-02-19 01:36:40]   Subtotal so far: 586 leads
+[2026-02-19 01:36:45] 
+============================================================
+[2026-02-19 01:36:45] DONE — Total new leads: 586
+[2026-02-19 01:36:45] ============================================================
+[2026-02-19 01:33:06]   Searching: Painting contractor near Terrell, TX (limit 15)
+[2026-02-19 01:33:21]     Got 13 results from Terrell, TX
+[2026-02-19 01:33:23]   Searching: Painting contractor near Forney, TX (limit 15)
+[2026-02-19 01:33:42]     Got 7 results from Forney, TX
+[2026-02-19 01:33:44]   Searching: Painting contractor near Heath, TX (limit 15)
+[2026-02-19 01:33:56]     Got 11 results from Heath, TX
+[2026-02-19 01:33:58]   Searching: Painting contractor near Rowlett, TX (limit 15)
+[2026-02-19 01:34:09]     Got 8 results from Rowlett, TX
+[2026-02-19 01:34:11]   Searching: Painting contractor near Wylie, TX (limit 15)
+[2026-02-19 01:34:31]     Got 15 results from Wylie, TX
+[2026-02-19 01:34:33]   Searching: Painting contractor near Sachse, TX (limit 15)
+[2026-02-19 01:34:41]     Got 7 results from Sachse, TX
+[2026-02-19 01:34:43]   Searching: Painting contractor near Murphy, TX (limit 15)
+[2026-02-19 01:34:55]     Got 10 results from Murphy, TX
+[2026-02-19 01:34:57]   Searching: Painting contractor near Fate, TX (limit 15)
+[2026-02-19 01:35:12]     Got 12 results from Fate, TX
+[2026-02-19 01:35:14]   Searching: Painting contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 01:35:23]     Got 13 results from Caddo Mills, TX
+[2026-02-19 01:35:25]   Searching: Painting contractor near Quinlan, TX (limit 15)
+[2026-02-19 01:35:34]     Got 10 results from Quinlan, TX
+[2026-02-19 01:35:36]   Searching: Painting contractor near Commerce, TX (limit 15)
+[2026-02-19 01:35:44]     Got 3 results from Commerce, TX
+[2026-02-19 01:35:46]   Searching: Painting contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 01:36:02]     Got 8 results from Sulphur Springs, TX
+[2026-02-19 01:36:04]   Searching: Painting contractor near Tyler, TX (limit 15)
+[2026-02-19 01:36:15]     Got 13 results from Tyler, TX
+[2026-02-19 01:36:17]   Searching: Painting contractor near Canton, TX (limit 15)
+[2026-02-19 01:36:24]     Got 1 results from Canton, TX
+[2026-02-19 01:36:26]   Searching: Painting contractor near Kaufman, TX (limit 15)
+[2026-02-19 01:36:38]     Got 5 results from Kaufman, TX
+[2026-02-19 01:36:40]   ✅ Painting contractor: 132 unique leads → /home/plotting1/frankie-bot/workspace/leads/painting_contractors/painting_contractors_overnight_20260219_0136.csv
+[2026-02-19 01:36:40]   Subtotal so far: 586 leads
+[2026-02-19 01:36:45] 
+============================================================
+[2026-02-19 01:36:45] DONE — Total new leads: 586
+[2026-02-19 01:36:45] ============================================================
+[2026-02-19 01:38:33] ============================================================
+[2026-02-19 01:38:33] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 01:38:33] Niches: 6, Cities: 20
+[2026-02-19 01:38:33] ============================================================
+[2026-02-19 01:38:33] 
+🔍 Starting: Roofer (target: 200)
+[2026-02-19 01:38:33]   Searching: Roofer near Royse City, TX (limit 15)
+[2026-02-19 01:38:40]     Got 15 results from Royse City, TX
+[2026-02-19 01:38:42]   Searching: Roofer near Rockwall, TX (limit 15)
+[2026-02-19 01:38:50]     Got 15 results from Rockwall, TX
+[2026-02-19 01:38:52]   Searching: Roofer near Garland, TX (limit 15)
+[2026-02-19 01:39:01]     Got 15 results from Garland, TX
+[2026-02-19 01:39:03]   Searching: Roofer near Mesquite, TX (limit 15)
+[2026-02-19 01:39:31]     Got 15 results from Mesquite, TX
+[2026-02-19 01:39:33]   Searching: Roofer near Greenville, TX (limit 15)
+[2026-02-19 01:39:45]     Got 15 results from Greenville, TX
+[2026-02-19 01:39:47]   Searching: Roofer near Terrell, TX (limit 15)
+[2026-02-19 01:40:03]     Got 15 results from Terrell, TX
+[2026-02-19 01:40:05]   Searching: Roofer near Forney, TX (limit 15)
+[2026-02-19 01:40:11]     Got 15 results from Forney, TX
+[2026-02-19 01:40:13]   Searching: Roofer near Heath, TX (limit 15)
+[2026-02-19 01:40:20]     Got 9 results from Heath, TX
+[2026-02-19 01:40:22]   Searching: Roofer near Rowlett, TX (limit 15)
+[2026-02-19 01:40:31]     Got 15 results from Rowlett, TX
+[2026-02-19 01:40:33]   Searching: Roofer near Wylie, TX (limit 15)
+[2026-02-19 01:44:43]     Got 15 results from Wylie, TX
+[2026-02-19 01:44:45]   Searching: Roofer near Sachse, TX (limit 15)
+[2026-02-19 01:44:51]     Got 12 results from Sachse, TX
+[2026-02-19 01:44:53]   Searching: Roofer near Murphy, TX (limit 15)
+[2026-02-19 01:45:02]     Got 3 results from Murphy, TX
+[2026-02-19 01:45:04]   Searching: Roofer near Fate, TX (limit 15)
+[2026-02-19 01:45:13]     Got 15 results from Fate, TX
+[2026-02-19 01:45:15]   Searching: Roofer near Caddo Mills, TX (limit 15)
+[2026-02-19 01:45:27]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:45:29]   Searching: Roofer near Quinlan, TX (limit 15)
+[2026-02-19 01:45:41]     Got 15 results from Quinlan, TX
+[2026-02-19 01:45:43]   Searching: Roofer near Commerce, TX (limit 15)
+[2026-02-19 01:45:49]     Got 2 results from Commerce, TX
+[2026-02-19 01:45:51]   Searching: Roofer near Sulphur Springs, TX (limit 15)
+[2026-02-19 01:50:52]     ERROR on Sulphur Springs, TX: Response status code: 504
+[2026-02-19 01:50:57]   Searching: Roofer near Tyler, TX (limit 15)
+[2026-02-19 01:51:08]     Got 15 results from Tyler, TX
+[2026-02-19 01:51:10]   Searching: Roofer near Canton, TX (limit 15)
+[2026-02-19 01:51:26]     Got 11 results from Canton, TX
+[2026-02-19 01:51:28]   Searching: Roofer near Kaufman, TX (limit 15)
+[2026-02-19 01:51:34]     Got 12 results from Kaufman, TX
+[2026-02-19 01:51:36]   ✅ Roofer: 187 unique leads → /home/plotting1/frankie-bot/workspace/leads/roofers/roofers_overnight_20260219_0151.csv
+[2026-02-19 01:51:36]   Subtotal so far: 187 leads
+[2026-02-19 01:51:41] 
+🔍 Starting: Pool builder (target: 150)
+[2026-02-19 01:51:41]   Searching: Pool builder near Royse City, TX (limit 12)
+[2026-02-19 01:51:53]     Got 12 results from Royse City, TX
+[2026-02-19 01:51:55]   Searching: Pool builder near Rockwall, TX (limit 12)
+[2026-02-19 01:52:06]     Got 12 results from Rockwall, TX
+[2026-02-19 01:52:08]   Searching: Pool builder near Garland, TX (limit 12)
+[2026-02-19 01:52:15]     Got 12 results from Garland, TX
+[2026-02-19 01:52:17]   Searching: Pool builder near Mesquite, TX (limit 12)
+[2026-02-19 01:52:28]     Got 12 results from Mesquite, TX
+[2026-02-19 01:52:30]   Searching: Pool builder near Greenville, TX (limit 12)
+[2026-02-19 01:52:39]     Got 12 results from Greenville, TX
+[2026-02-19 01:52:41]   Searching: Pool builder near Terrell, TX (limit 12)
+[2026-02-19 01:52:50]     Got 10 results from Terrell, TX
+[2026-02-19 01:52:52]   Searching: Pool builder near Forney, TX (limit 12)
+[2026-02-19 01:52:58]     Got 8 results from Forney, TX
+[2026-02-19 01:53:00]   Searching: Pool builder near Heath, TX (limit 12)
+[2026-02-19 01:53:15]     Got 12 results from Heath, TX
+[2026-02-19 01:53:17]   Searching: Pool builder near Rowlett, TX (limit 12)
+[2026-02-19 01:53:24]     Got 12 results from Rowlett, TX
+[2026-02-19 01:53:26]   Searching: Pool builder near Wylie, TX (limit 12)
+[2026-02-19 01:53:34]     Got 12 results from Wylie, TX
+[2026-02-19 01:53:36]   Searching: Pool builder near Sachse, TX (limit 12)
+[2026-02-19 01:53:45]     Got 12 results from Sachse, TX
+[2026-02-19 01:53:47]   Searching: Pool builder near Murphy, TX (limit 12)
+[2026-02-19 01:54:02]     Got 1 results from Murphy, TX
+[2026-02-19 01:54:04]   Searching: Pool builder near Fate, TX (limit 12)
+[2026-02-19 01:54:13]     Got 12 results from Fate, TX
+[2026-02-19 01:54:15]   Searching: Pool builder near Caddo Mills, TX (limit 12)
+[2026-02-19 01:54:24]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:54:26]   Searching: Pool builder near Quinlan, TX (limit 12)
+[2026-02-19 01:54:34]     Got 12 results from Quinlan, TX
+[2026-02-19 01:54:36]   Searching: Pool builder near Commerce, TX (limit 12)
+[2026-02-19 01:54:45]     Got 12 results from Commerce, TX
+[2026-02-19 01:54:47]   Searching: Pool builder near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:54:59]     Got 9 results from Sulphur Springs, TX
+[2026-02-19 01:55:01]   Searching: Pool builder near Tyler, TX (limit 12)
+[2026-02-19 01:55:07]     Got 12 results from Tyler, TX
+[2026-02-19 01:55:09]   Searching: Pool builder near Canton, TX (limit 12)
+[2026-02-19 01:55:28]     Got 12 results from Canton, TX
+[2026-02-19 01:55:30]   Searching: Pool builder near Kaufman, TX (limit 12)
+[2026-02-19 01:55:42]     Got 5 results from Kaufman, TX
+[2026-02-19 01:55:44]   ✅ Pool builder: 100 unique leads → /home/plotting1/frankie-bot/workspace/leads/pool_contractors/pool_contractors_overnight_20260219_0155.csv
+[2026-02-19 01:55:44]   Subtotal so far: 287 leads
+[2026-02-19 01:55:49] 
+🔍 Starting: Garage door repair (target: 150)
+[2026-02-19 01:55:49]   Searching: Garage door repair near Royse City, TX (limit 12)
+[2026-02-19 01:55:57]     Got 12 results from Royse City, TX
+[2026-02-19 01:55:59]   Searching: Garage door repair near Rockwall, TX (limit 12)
+[2026-02-19 01:56:06]     Got 12 results from Rockwall, TX
+[2026-02-19 01:56:08]   Searching: Garage door repair near Garland, TX (limit 12)
+[2026-02-19 01:56:17]     Got 12 results from Garland, TX
+[2026-02-19 01:56:19]   Searching: Garage door repair near Mesquite, TX (limit 12)
+[2026-02-19 01:56:25]     Got 12 results from Mesquite, TX
+[2026-02-19 01:56:27]   Searching: Garage door repair near Greenville, TX (limit 12)
+[2026-02-19 01:56:36]     Got 8 results from Greenville, TX
+[2026-02-19 01:56:38]   Searching: Garage door repair near Terrell, TX (limit 12)
+[2026-02-19 01:56:44]     Got 4 results from Terrell, TX
+[2026-02-19 01:56:46]   Searching: Garage door repair near Forney, TX (limit 12)
+[2026-02-19 01:56:55]     Got 12 results from Forney, TX
+[2026-02-19 01:56:57]   Searching: Garage door repair near Heath, TX (limit 12)
+[2026-02-19 01:57:03]     Got 12 results from Heath, TX
+[2026-02-19 01:57:05]   Searching: Garage door repair near Rowlett, TX (limit 12)
+[2026-02-19 01:57:11]     Got 12 results from Rowlett, TX
+[2026-02-19 01:57:13]   Searching: Garage door repair near Wylie, TX (limit 12)
+[2026-02-19 01:57:24]     Got 12 results from Wylie, TX
+[2026-02-19 01:57:26]   Searching: Garage door repair near Sachse, TX (limit 12)
+[2026-02-19 01:57:33]     Got 12 results from Sachse, TX
+[2026-02-19 01:57:35]   Searching: Garage door repair near Murphy, TX (limit 12)
+[2026-02-19 01:57:46]     Got 10 results from Murphy, TX
+[2026-02-19 01:57:48]   Searching: Garage door repair near Fate, TX (limit 12)
+[2026-02-19 01:57:54]     Got 12 results from Fate, TX
+[2026-02-19 01:57:56]   Searching: Garage door repair near Caddo Mills, TX (limit 12)
+[2026-02-19 01:58:08]     Got 8 results from Caddo Mills, TX
+[2026-02-19 01:38:33] ============================================================
+[2026-02-19 01:38:33] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 01:38:33] Niches: 6, Cities: 20
+[2026-02-19 01:38:33] ============================================================
+[2026-02-19 01:38:33] 
+🔍 Starting: Roofer (target: 200)
+[2026-02-19 01:38:33]   Searching: Roofer near Royse City, TX (limit 15)
+[2026-02-19 01:38:40]     Got 15 results from Royse City, TX
+[2026-02-19 01:38:42]   Searching: Roofer near Rockwall, TX (limit 15)
+[2026-02-19 01:38:50]     Got 15 results from Rockwall, TX
+[2026-02-19 01:38:52]   Searching: Roofer near Garland, TX (limit 15)
+[2026-02-19 01:39:01]     Got 15 results from Garland, TX
+[2026-02-19 01:39:03]   Searching: Roofer near Mesquite, TX (limit 15)
+[2026-02-19 01:39:31]     Got 15 results from Mesquite, TX
+[2026-02-19 01:39:33]   Searching: Roofer near Greenville, TX (limit 15)
+[2026-02-19 01:39:45]     Got 15 results from Greenville, TX
+[2026-02-19 01:39:47]   Searching: Roofer near Terrell, TX (limit 15)
+[2026-02-19 01:40:03]     Got 15 results from Terrell, TX
+[2026-02-19 01:40:05]   Searching: Roofer near Forney, TX (limit 15)
+[2026-02-19 01:40:11]     Got 15 results from Forney, TX
+[2026-02-19 01:40:13]   Searching: Roofer near Heath, TX (limit 15)
+[2026-02-19 01:40:20]     Got 9 results from Heath, TX
+[2026-02-19 01:40:22]   Searching: Roofer near Rowlett, TX (limit 15)
+[2026-02-19 01:40:31]     Got 15 results from Rowlett, TX
+[2026-02-19 01:40:33]   Searching: Roofer near Wylie, TX (limit 15)
+[2026-02-19 01:44:43]     Got 15 results from Wylie, TX
+[2026-02-19 01:44:45]   Searching: Roofer near Sachse, TX (limit 15)
+[2026-02-19 01:44:51]     Got 12 results from Sachse, TX
+[2026-02-19 01:44:53]   Searching: Roofer near Murphy, TX (limit 15)
+[2026-02-19 01:45:02]     Got 3 results from Murphy, TX
+[2026-02-19 01:45:04]   Searching: Roofer near Fate, TX (limit 15)
+[2026-02-19 01:45:13]     Got 15 results from Fate, TX
+[2026-02-19 01:45:15]   Searching: Roofer near Caddo Mills, TX (limit 15)
+[2026-02-19 01:45:27]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:45:29]   Searching: Roofer near Quinlan, TX (limit 15)
+[2026-02-19 01:45:41]     Got 15 results from Quinlan, TX
+[2026-02-19 01:45:43]   Searching: Roofer near Commerce, TX (limit 15)
+[2026-02-19 01:45:49]     Got 2 results from Commerce, TX
+[2026-02-19 01:45:51]   Searching: Roofer near Sulphur Springs, TX (limit 15)
+[2026-02-19 01:50:52]     ERROR on Sulphur Springs, TX: Response status code: 504
+[2026-02-19 01:50:57]   Searching: Roofer near Tyler, TX (limit 15)
+[2026-02-19 01:51:08]     Got 15 results from Tyler, TX
+[2026-02-19 01:51:10]   Searching: Roofer near Canton, TX (limit 15)
+[2026-02-19 01:51:26]     Got 11 results from Canton, TX
+[2026-02-19 01:51:28]   Searching: Roofer near Kaufman, TX (limit 15)
+[2026-02-19 01:51:34]     Got 12 results from Kaufman, TX
+[2026-02-19 01:51:36]   ✅ Roofer: 187 unique leads → /home/plotting1/frankie-bot/workspace/leads/roofers/roofers_overnight_20260219_0151.csv
+[2026-02-19 01:51:36]   Subtotal so far: 187 leads
+[2026-02-19 01:51:41] 
+🔍 Starting: Pool builder (target: 150)
+[2026-02-19 01:51:41]   Searching: Pool builder near Royse City, TX (limit 12)
+[2026-02-19 01:51:53]     Got 12 results from Royse City, TX
+[2026-02-19 01:51:55]   Searching: Pool builder near Rockwall, TX (limit 12)
+[2026-02-19 01:52:06]     Got 12 results from Rockwall, TX
+[2026-02-19 01:52:08]   Searching: Pool builder near Garland, TX (limit 12)
+[2026-02-19 01:52:15]     Got 12 results from Garland, TX
+[2026-02-19 01:52:17]   Searching: Pool builder near Mesquite, TX (limit 12)
+[2026-02-19 01:52:28]     Got 12 results from Mesquite, TX
+[2026-02-19 01:52:30]   Searching: Pool builder near Greenville, TX (limit 12)
+[2026-02-19 01:52:39]     Got 12 results from Greenville, TX
+[2026-02-19 01:52:41]   Searching: Pool builder near Terrell, TX (limit 12)
+[2026-02-19 01:52:50]     Got 10 results from Terrell, TX
+[2026-02-19 01:52:52]   Searching: Pool builder near Forney, TX (limit 12)
+[2026-02-19 01:52:58]     Got 8 results from Forney, TX
+[2026-02-19 01:53:00]   Searching: Pool builder near Heath, TX (limit 12)
+[2026-02-19 01:53:15]     Got 12 results from Heath, TX
+[2026-02-19 01:53:17]   Searching: Pool builder near Rowlett, TX (limit 12)
+[2026-02-19 01:53:24]     Got 12 results from Rowlett, TX
+[2026-02-19 01:53:26]   Searching: Pool builder near Wylie, TX (limit 12)
+[2026-02-19 01:53:34]     Got 12 results from Wylie, TX
+[2026-02-19 01:53:36]   Searching: Pool builder near Sachse, TX (limit 12)
+[2026-02-19 01:53:45]     Got 12 results from Sachse, TX
+[2026-02-19 01:53:47]   Searching: Pool builder near Murphy, TX (limit 12)
+[2026-02-19 01:54:02]     Got 1 results from Murphy, TX
+[2026-02-19 01:54:04]   Searching: Pool builder near Fate, TX (limit 12)
+[2026-02-19 01:54:13]     Got 12 results from Fate, TX
+[2026-02-19 01:54:15]   Searching: Pool builder near Caddo Mills, TX (limit 12)
+[2026-02-19 01:54:24]     Got 12 results from Caddo Mills, TX
+[2026-02-19 01:54:26]   Searching: Pool builder near Quinlan, TX (limit 12)
+[2026-02-19 01:54:34]     Got 12 results from Quinlan, TX
+[2026-02-19 01:54:36]   Searching: Pool builder near Commerce, TX (limit 12)
+[2026-02-19 01:54:45]     Got 12 results from Commerce, TX
+[2026-02-19 01:54:47]   Searching: Pool builder near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:54:59]     Got 9 results from Sulphur Springs, TX
+[2026-02-19 01:55:01]   Searching: Pool builder near Tyler, TX (limit 12)
+[2026-02-19 01:55:07]     Got 12 results from Tyler, TX
+[2026-02-19 01:55:09]   Searching: Pool builder near Canton, TX (limit 12)
+[2026-02-19 01:55:28]     Got 12 results from Canton, TX
+[2026-02-19 01:55:30]   Searching: Pool builder near Kaufman, TX (limit 12)
+[2026-02-19 01:55:42]     Got 5 results from Kaufman, TX
+[2026-02-19 01:55:44]   ✅ Pool builder: 100 unique leads → /home/plotting1/frankie-bot/workspace/leads/pool_contractors/pool_contractors_overnight_20260219_0155.csv
+[2026-02-19 01:55:44]   Subtotal so far: 287 leads
+[2026-02-19 01:55:49] 
+🔍 Starting: Garage door repair (target: 150)
+[2026-02-19 01:55:49]   Searching: Garage door repair near Royse City, TX (limit 12)
+[2026-02-19 01:55:57]     Got 12 results from Royse City, TX
+[2026-02-19 01:55:59]   Searching: Garage door repair near Rockwall, TX (limit 12)
+[2026-02-19 01:56:06]     Got 12 results from Rockwall, TX
+[2026-02-19 01:56:08]   Searching: Garage door repair near Garland, TX (limit 12)
+[2026-02-19 01:56:17]     Got 12 results from Garland, TX
+[2026-02-19 01:56:19]   Searching: Garage door repair near Mesquite, TX (limit 12)
+[2026-02-19 01:56:25]     Got 12 results from Mesquite, TX
+[2026-02-19 01:56:27]   Searching: Garage door repair near Greenville, TX (limit 12)
+[2026-02-19 01:56:36]     Got 8 results from Greenville, TX
+[2026-02-19 01:56:38]   Searching: Garage door repair near Terrell, TX (limit 12)
+[2026-02-19 01:56:44]     Got 4 results from Terrell, TX
+[2026-02-19 01:56:46]   Searching: Garage door repair near Forney, TX (limit 12)
+[2026-02-19 01:56:55]     Got 12 results from Forney, TX
+[2026-02-19 01:56:57]   Searching: Garage door repair near Heath, TX (limit 12)
+[2026-02-19 01:57:03]     Got 12 results from Heath, TX
+[2026-02-19 01:57:05]   Searching: Garage door repair near Rowlett, TX (limit 12)
+[2026-02-19 01:57:11]     Got 12 results from Rowlett, TX
+[2026-02-19 01:57:13]   Searching: Garage door repair near Wylie, TX (limit 12)
+[2026-02-19 01:57:24]     Got 12 results from Wylie, TX
+[2026-02-19 01:57:26]   Searching: Garage door repair near Sachse, TX (limit 12)
+[2026-02-19 01:57:33]     Got 12 results from Sachse, TX
+[2026-02-19 01:57:35]   Searching: Garage door repair near Murphy, TX (limit 12)
+[2026-02-19 01:57:46]     Got 10 results from Murphy, TX
+[2026-02-19 01:57:48]   Searching: Garage door repair near Fate, TX (limit 12)
+[2026-02-19 01:57:54]     Got 12 results from Fate, TX
+[2026-02-19 01:57:56]   Searching: Garage door repair near Caddo Mills, TX (limit 12)
+[2026-02-19 01:58:08]     Got 8 results from Caddo Mills, TX
+[2026-02-19 01:58:10]   Searching: Garage door repair near Quinlan, TX (limit 12)
+[2026-02-19 01:58:19]     Got 12 results from Quinlan, TX
+[2026-02-19 01:58:21]   Searching: Garage door repair near Commerce, TX (limit 12)
+[2026-02-19 01:58:44]     Got 12 results from Commerce, TX
+[2026-02-19 01:58:46]   Searching: Garage door repair near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:58:52]     Got 0 results from Sulphur Springs, TX
+[2026-02-19 01:58:54]   Searching: Garage door repair near Tyler, TX (limit 12)
+[2026-02-19 01:59:23]     Got 12 results from Tyler, TX
+[2026-02-19 01:59:25]   Searching: Garage door repair near Canton, TX (limit 12)
+[2026-02-19 01:59:41]     Got 12 results from Canton, TX
+[2026-02-19 01:59:43]   Searching: Garage door repair near Kaufman, TX (limit 12)
+[2026-02-19 01:59:49]     Got 8 results from Kaufman, TX
+[2026-02-19 01:59:51]   ✅ Garage door repair: 89 unique leads → /home/plotting1/frankie-bot/workspace/leads/garage_door/garage_door_overnight_20260219_0159.csv
+[2026-02-19 01:59:51]   Subtotal so far: 376 leads
+[2026-02-19 01:59:56] 
+🔍 Starting: Foundation repair (target: 150)
+[2026-02-19 01:59:56]   Searching: Foundation repair near Royse City, TX (limit 12)
+[2026-02-19 02:00:09]     Got 12 results from Royse City, TX
+[2026-02-19 02:00:11]   Searching: Foundation repair near Rockwall, TX (limit 12)
+[2026-02-19 02:00:22]     Got 12 results from Rockwall, TX
+[2026-02-19 02:00:24]   Searching: Foundation repair near Garland, TX (limit 12)
+[2026-02-19 02:00:37]     Got 12 results from Garland, TX
+[2026-02-19 02:00:39]   Searching: Foundation repair near Mesquite, TX (limit 12)
+[2026-02-19 02:01:03]     Got 12 results from Mesquite, TX
+[2026-02-19 02:01:05]   Searching: Foundation repair near Greenville, TX (limit 12)
+[2026-02-19 02:01:14]     Got 5 results from Greenville, TX
+[2026-02-19 02:01:16]   Searching: Foundation repair near Terrell, TX (limit 12)
+[2026-02-19 02:01:27]     Got 7 results from Terrell, TX
+[2026-02-19 02:01:29]   Searching: Foundation repair near Forney, TX (limit 12)
+[2026-02-19 02:01:44]     Got 7 results from Forney, TX
+[2026-02-19 02:01:46]   Searching: Foundation repair near Heath, TX (limit 12)
+[2026-02-19 02:01:58]     Got 8 results from Heath, TX
+[2026-02-19 02:02:00]   Searching: Foundation repair near Rowlett, TX (limit 12)
+[2026-02-19 02:02:15]     Got 12 results from Rowlett, TX
+[2026-02-19 02:02:17]   Searching: Foundation repair near Wylie, TX (limit 12)
+[2026-02-19 02:02:29]     Got 12 results from Wylie, TX
+[2026-02-19 02:02:31]   Searching: Foundation repair near Sachse, TX (limit 12)
+[2026-02-19 02:02:40]     Got 6 results from Sachse, TX
+[2026-02-19 02:02:42]   Searching: Foundation repair near Murphy, TX (limit 12)
+[2026-02-19 02:02:50]     Got 11 results from Murphy, TX
+[2026-02-19 02:02:52]   Searching: Foundation repair near Fate, TX (limit 12)
+[2026-02-19 02:03:08]     Got 7 results from Fate, TX
+[2026-02-19 02:03:10]   Searching: Foundation repair near Caddo Mills, TX (limit 12)
+[2026-02-19 02:03:25]     Got 8 results from Caddo Mills, TX
+[2026-02-19 02:03:27]   Searching: Foundation repair near Quinlan, TX (limit 12)
+[2026-02-19 02:03:35]     Got 7 results from Quinlan, TX
+[2026-02-19 02:03:37]   Searching: Foundation repair near Commerce, TX (limit 12)
+[2026-02-19 02:04:39]     Got 9 results from Commerce, TX
+[2026-02-19 02:04:41]   Searching: Foundation repair near Sulphur Springs, TX (limit 12)
+[2026-02-19 02:04:47]     Got 0 results from Sulphur Springs, TX
+[2026-02-19 02:04:49]   Searching: Foundation repair near Tyler, TX (limit 12)
+[2026-02-19 02:04:56]     Got 4 results from Tyler, TX
+[2026-02-19 02:04:58]   Searching: Foundation repair near Canton, TX (limit 12)
+[2026-02-19 02:05:06]     Got 1 results from Canton, TX
+[2026-02-19 02:05:08]   Searching: Foundation repair near Kaufman, TX (limit 12)
+[2026-02-19 02:05:17]     Got 2 results from Kaufman, TX
+[2026-02-19 02:05:19]   ✅ Foundation repair: 63 unique leads → /home/plotting1/frankie-bot/workspace/leads/foundation_repair/foundation_repair_overnight_20260219_0205.csv
+[2026-02-19 02:05:19]   Subtotal so far: 439 leads
+[2026-02-19 02:05:24] 
+🔍 Starting: Metal building contractor (target: 150)
+[2026-02-19 02:05:24]   Searching: Metal building contractor near Royse City, TX (limit 12)
+[2026-02-19 02:05:44]     Got 12 results from Royse City, TX
+[2026-02-19 02:05:46]   Searching: Metal building contractor near Rockwall, TX (limit 12)
+[2026-02-19 02:05:52]     Got 11 results from Rockwall, TX
+[2026-02-19 02:05:54]   Searching: Metal building contractor near Garland, TX (limit 12)
+[2026-02-19 02:06:09]     Got 12 results from Garland, TX
+[2026-02-19 02:06:11]   Searching: Metal building contractor near Mesquite, TX (limit 12)
+[2026-02-19 02:06:26]     Got 12 results from Mesquite, TX
+[2026-02-19 02:06:28]   Searching: Metal building contractor near Greenville, TX (limit 12)
+[2026-02-19 02:06:43]     Got 12 results from Greenville, TX
+[2026-02-19 02:06:45]   Searching: Metal building contractor near Terrell, TX (limit 12)
+[2026-02-19 02:06:51]     Got 12 results from Terrell, TX
+[2026-02-19 02:06:53]   Searching: Metal building contractor near Forney, TX (limit 12)
+[2026-02-19 02:06:59]     Got 12 results from Forney, TX
+[2026-02-19 02:07:01]   Searching: Metal building contractor near Heath, TX (limit 12)
+[2026-02-19 02:07:07]     Got 12 results from Heath, TX
+[2026-02-19 02:07:09]   Searching: Metal building contractor near Rowlett, TX (limit 12)
+[2026-02-19 02:07:21]     Got 12 results from Rowlett, TX
+[2026-02-19 02:07:23]   Searching: Metal building contractor near Wylie, TX (limit 12)
+[2026-02-19 02:07:32]     Got 12 results from Wylie, TX
+[2026-02-19 02:07:34]   Searching: Metal building contractor near Sachse, TX (limit 12)
+[2026-02-19 02:07:40]     Got 12 results from Sachse, TX
+[2026-02-19 02:07:42]   Searching: Metal building contractor near Murphy, TX (limit 12)
+[2026-02-19 02:07:48]     Got 12 results from Murphy, TX
+[2026-02-19 02:07:51]   Searching: Metal building contractor near Fate, TX (limit 12)
+[2026-02-19 02:07:59]     Got 12 results from Fate, TX
+[2026-02-19 02:08:01]   Searching: Metal building contractor near Caddo Mills, TX (limit 12)
+[2026-02-19 02:08:11]     Got 12 results from Caddo Mills, TX
+[2026-02-19 02:08:13]   Searching: Metal building contractor near Quinlan, TX (limit 12)
+[2026-02-19 02:08:28]     Got 12 results from Quinlan, TX
+[2026-02-19 02:08:30]   Searching: Metal building contractor near Commerce, TX (limit 12)
+[2026-02-19 02:08:36]     Got 12 results from Commerce, TX
+[2026-02-19 02:08:38]   Searching: Metal building contractor near Sulphur Springs, TX (limit 12)
+[2026-02-19 02:08:45]     Got 12 results from Sulphur Springs, TX
+[2026-02-19 02:08:47]   Searching: Metal building contractor near Tyler, TX (limit 12)
+[2026-02-19 02:08:53]     Got 12 results from Tyler, TX
+[2026-02-19 02:08:55]   Searching: Metal building contractor near Canton, TX (limit 12)
+[2026-02-19 02:09:07]     Got 12 results from Canton, TX
+[2026-02-19 02:09:09]   Searching: Metal building contractor near Kaufman, TX (limit 12)
+[2026-02-19 02:09:28]     Got 12 results from Kaufman, TX
+[2026-02-19 02:09:30]   ✅ Metal building contractor: 102 unique leads → /home/plotting1/frankie-bot/workspace/leads/metal_buildings/metal_buildings_overnight_20260219_0209.csv
+[2026-02-19 02:09:30]   Subtotal so far: 541 leads
+[2026-02-19 02:09:35] 
+🔍 Starting: Retaining wall contractor (target: 100)
+[2026-02-19 02:09:35]   Searching: Retaining wall contractor near Royse City, TX (limit 10)
+[2026-02-19 02:09:47]     Got 10 results from Royse City, TX
+[2026-02-19 02:09:49]   Searching: Retaining wall contractor near Rockwall, TX (limit 10)
+[2026-02-19 02:10:00]     Got 10 results from Rockwall, TX
+[2026-02-19 02:10:02]   Searching: Retaining wall contractor near Garland, TX (limit 10)
+[2026-02-19 02:10:08]     Got 10 results from Garland, TX
+[2026-02-19 02:10:10]   Searching: Retaining wall contractor near Mesquite, TX (limit 10)
+[2026-02-19 02:10:22]     Got 10 results from Mesquite, TX
+[2026-02-19 02:10:24]   Searching: Retaining wall contractor near Greenville, TX (limit 10)
+[2026-02-19 01:58:10]   Searching: Garage door repair near Quinlan, TX (limit 12)
+[2026-02-19 01:58:19]     Got 12 results from Quinlan, TX
+[2026-02-19 01:58:21]   Searching: Garage door repair near Commerce, TX (limit 12)
+[2026-02-19 01:58:44]     Got 12 results from Commerce, TX
+[2026-02-19 01:58:46]   Searching: Garage door repair near Sulphur Springs, TX (limit 12)
+[2026-02-19 01:58:52]     Got 0 results from Sulphur Springs, TX
+[2026-02-19 01:58:54]   Searching: Garage door repair near Tyler, TX (limit 12)
+[2026-02-19 01:59:23]     Got 12 results from Tyler, TX
+[2026-02-19 01:59:25]   Searching: Garage door repair near Canton, TX (limit 12)
+[2026-02-19 01:59:41]     Got 12 results from Canton, TX
+[2026-02-19 01:59:43]   Searching: Garage door repair near Kaufman, TX (limit 12)
+[2026-02-19 01:59:49]     Got 8 results from Kaufman, TX
+[2026-02-19 01:59:51]   ✅ Garage door repair: 89 unique leads → /home/plotting1/frankie-bot/workspace/leads/garage_door/garage_door_overnight_20260219_0159.csv
+[2026-02-19 01:59:51]   Subtotal so far: 376 leads
+[2026-02-19 01:59:56] 
+🔍 Starting: Foundation repair (target: 150)
+[2026-02-19 01:59:56]   Searching: Foundation repair near Royse City, TX (limit 12)
+[2026-02-19 02:00:09]     Got 12 results from Royse City, TX
+[2026-02-19 02:00:11]   Searching: Foundation repair near Rockwall, TX (limit 12)
+[2026-02-19 02:00:22]     Got 12 results from Rockwall, TX
+[2026-02-19 02:00:24]   Searching: Foundation repair near Garland, TX (limit 12)
+[2026-02-19 02:00:37]     Got 12 results from Garland, TX
+[2026-02-19 02:00:39]   Searching: Foundation repair near Mesquite, TX (limit 12)
+[2026-02-19 02:01:03]     Got 12 results from Mesquite, TX
+[2026-02-19 02:01:05]   Searching: Foundation repair near Greenville, TX (limit 12)
+[2026-02-19 02:01:14]     Got 5 results from Greenville, TX
+[2026-02-19 02:01:16]   Searching: Foundation repair near Terrell, TX (limit 12)
+[2026-02-19 02:01:27]     Got 7 results from Terrell, TX
+[2026-02-19 02:01:29]   Searching: Foundation repair near Forney, TX (limit 12)
+[2026-02-19 02:01:44]     Got 7 results from Forney, TX
+[2026-02-19 02:01:46]   Searching: Foundation repair near Heath, TX (limit 12)
+[2026-02-19 02:01:58]     Got 8 results from Heath, TX
+[2026-02-19 02:02:00]   Searching: Foundation repair near Rowlett, TX (limit 12)
+[2026-02-19 02:02:15]     Got 12 results from Rowlett, TX
+[2026-02-19 02:02:17]   Searching: Foundation repair near Wylie, TX (limit 12)
+[2026-02-19 02:02:29]     Got 12 results from Wylie, TX
+[2026-02-19 02:02:31]   Searching: Foundation repair near Sachse, TX (limit 12)
+[2026-02-19 02:02:40]     Got 6 results from Sachse, TX
+[2026-02-19 02:02:42]   Searching: Foundation repair near Murphy, TX (limit 12)
+[2026-02-19 02:02:50]     Got 11 results from Murphy, TX
+[2026-02-19 02:02:52]   Searching: Foundation repair near Fate, TX (limit 12)
+[2026-02-19 02:03:08]     Got 7 results from Fate, TX
+[2026-02-19 02:03:10]   Searching: Foundation repair near Caddo Mills, TX (limit 12)
+[2026-02-19 02:03:25]     Got 8 results from Caddo Mills, TX
+[2026-02-19 02:03:27]   Searching: Foundation repair near Quinlan, TX (limit 12)
+[2026-02-19 02:03:35]     Got 7 results from Quinlan, TX
+[2026-02-19 02:03:37]   Searching: Foundation repair near Commerce, TX (limit 12)
+[2026-02-19 02:04:39]     Got 9 results from Commerce, TX
+[2026-02-19 02:04:41]   Searching: Foundation repair near Sulphur Springs, TX (limit 12)
+[2026-02-19 02:04:47]     Got 0 results from Sulphur Springs, TX
+[2026-02-19 02:04:49]   Searching: Foundation repair near Tyler, TX (limit 12)
+[2026-02-19 02:04:56]     Got 4 results from Tyler, TX
+[2026-02-19 02:04:58]   Searching: Foundation repair near Canton, TX (limit 12)
+[2026-02-19 02:05:06]     Got 1 results from Canton, TX
+[2026-02-19 02:05:08]   Searching: Foundation repair near Kaufman, TX (limit 12)
+[2026-02-19 02:05:17]     Got 2 results from Kaufman, TX
+[2026-02-19 02:05:19]   ✅ Foundation repair: 63 unique leads → /home/plotting1/frankie-bot/workspace/leads/foundation_repair/foundation_repair_overnight_20260219_0205.csv
+[2026-02-19 02:05:19]   Subtotal so far: 439 leads
+[2026-02-19 02:05:24] 
+🔍 Starting: Metal building contractor (target: 150)
+[2026-02-19 02:05:24]   Searching: Metal building contractor near Royse City, TX (limit 12)
+[2026-02-19 02:05:44]     Got 12 results from Royse City, TX
+[2026-02-19 02:05:46]   Searching: Metal building contractor near Rockwall, TX (limit 12)
+[2026-02-19 02:05:52]     Got 11 results from Rockwall, TX
+[2026-02-19 02:05:54]   Searching: Metal building contractor near Garland, TX (limit 12)
+[2026-02-19 02:06:09]     Got 12 results from Garland, TX
+[2026-02-19 02:06:11]   Searching: Metal building contractor near Mesquite, TX (limit 12)
+[2026-02-19 02:06:26]     Got 12 results from Mesquite, TX
+[2026-02-19 02:06:28]   Searching: Metal building contractor near Greenville, TX (limit 12)
+[2026-02-19 02:06:43]     Got 12 results from Greenville, TX
+[2026-02-19 02:06:45]   Searching: Metal building contractor near Terrell, TX (limit 12)
+[2026-02-19 02:06:51]     Got 12 results from Terrell, TX
+[2026-02-19 02:06:53]   Searching: Metal building contractor near Forney, TX (limit 12)
+[2026-02-19 02:06:59]     Got 12 results from Forney, TX
+[2026-02-19 02:07:01]   Searching: Metal building contractor near Heath, TX (limit 12)
+[2026-02-19 02:07:07]     Got 12 results from Heath, TX
+[2026-02-19 02:07:09]   Searching: Metal building contractor near Rowlett, TX (limit 12)
+[2026-02-19 02:07:21]     Got 12 results from Rowlett, TX
+[2026-02-19 02:07:23]   Searching: Metal building contractor near Wylie, TX (limit 12)
+[2026-02-19 02:07:32]     Got 12 results from Wylie, TX
+[2026-02-19 02:07:34]   Searching: Metal building contractor near Sachse, TX (limit 12)
+[2026-02-19 02:07:40]     Got 12 results from Sachse, TX
+[2026-02-19 02:07:42]   Searching: Metal building contractor near Murphy, TX (limit 12)
+[2026-02-19 02:07:48]     Got 12 results from Murphy, TX
+[2026-02-19 02:07:51]   Searching: Metal building contractor near Fate, TX (limit 12)
+[2026-02-19 02:07:59]     Got 12 results from Fate, TX
+[2026-02-19 02:08:01]   Searching: Metal building contractor near Caddo Mills, TX (limit 12)
+[2026-02-19 02:08:11]     Got 12 results from Caddo Mills, TX
+[2026-02-19 02:08:13]   Searching: Metal building contractor near Quinlan, TX (limit 12)
+[2026-02-19 02:08:28]     Got 12 results from Quinlan, TX
+[2026-02-19 02:08:30]   Searching: Metal building contractor near Commerce, TX (limit 12)
+[2026-02-19 02:08:36]     Got 12 results from Commerce, TX
+[2026-02-19 02:08:38]   Searching: Metal building contractor near Sulphur Springs, TX (limit 12)
+[2026-02-19 02:08:45]     Got 12 results from Sulphur Springs, TX
+[2026-02-19 02:08:47]   Searching: Metal building contractor near Tyler, TX (limit 12)
+[2026-02-19 02:08:53]     Got 12 results from Tyler, TX
+[2026-02-19 02:08:55]   Searching: Metal building contractor near Canton, TX (limit 12)
+[2026-02-19 02:09:07]     Got 12 results from Canton, TX
+[2026-02-19 02:09:09]   Searching: Metal building contractor near Kaufman, TX (limit 12)
+[2026-02-19 02:09:28]     Got 12 results from Kaufman, TX
+[2026-02-19 02:09:30]   ✅ Metal building contractor: 102 unique leads → /home/plotting1/frankie-bot/workspace/leads/metal_buildings/metal_buildings_overnight_20260219_0209.csv
+[2026-02-19 02:09:30]   Subtotal so far: 541 leads
+[2026-02-19 02:09:35] 
+🔍 Starting: Retaining wall contractor (target: 100)
+[2026-02-19 02:09:35]   Searching: Retaining wall contractor near Royse City, TX (limit 10)
+[2026-02-19 02:09:47]     Got 10 results from Royse City, TX
+[2026-02-19 02:09:49]   Searching: Retaining wall contractor near Rockwall, TX (limit 10)
+[2026-02-19 02:10:00]     Got 10 results from Rockwall, TX
+[2026-02-19 02:10:02]   Searching: Retaining wall contractor near Garland, TX (limit 10)
+[2026-02-19 02:10:08]     Got 10 results from Garland, TX
+[2026-02-19 02:10:10]   Searching: Retaining wall contractor near Mesquite, TX (limit 10)
+[2026-02-19 02:10:22]     Got 10 results from Mesquite, TX
+[2026-02-19 02:10:24]   Searching: Retaining wall contractor near Greenville, TX (limit 10)
+[2026-02-19 02:10:36]     Got 10 results from Greenville, TX
+[2026-02-19 02:10:38]   Searching: Retaining wall contractor near Terrell, TX (limit 10)
+[2026-02-19 02:10:49]     Got 10 results from Terrell, TX
+[2026-02-19 02:10:51]   Searching: Retaining wall contractor near Forney, TX (limit 10)
+[2026-02-19 02:11:11]     Got 10 results from Forney, TX
+[2026-02-19 02:11:13]   Searching: Retaining wall contractor near Heath, TX (limit 10)
+[2026-02-19 02:11:21]     Got 9 results from Heath, TX
+[2026-02-19 02:11:23]   Searching: Retaining wall contractor near Rowlett, TX (limit 10)
+[2026-02-19 02:11:42]     Got 10 results from Rowlett, TX
+[2026-02-19 02:11:44]   Searching: Retaining wall contractor near Wylie, TX (limit 10)
+[2026-02-19 02:11:51]     Got 10 results from Wylie, TX
+[2026-02-19 02:11:53]   Searching: Retaining wall contractor near Sachse, TX (limit 10)
+[2026-02-19 02:12:01]     Got 8 results from Sachse, TX
+[2026-02-19 02:12:03]   Searching: Retaining wall contractor near Murphy, TX (limit 10)
+[2026-02-19 02:13:40]     Got 10 results from Murphy, TX
+[2026-02-19 02:13:42]   Searching: Retaining wall contractor near Fate, TX (limit 10)
+[2026-02-19 02:13:53]     Got 10 results from Fate, TX
+[2026-02-19 02:13:55]   Searching: Retaining wall contractor near Caddo Mills, TX (limit 10)
+[2026-02-19 02:14:07]     Got 10 results from Caddo Mills, TX
+[2026-02-19 02:14:09]   Searching: Retaining wall contractor near Quinlan, TX (limit 10)
+[2026-02-19 02:14:21]     Got 10 results from Quinlan, TX
+[2026-02-19 02:14:23]   Searching: Retaining wall contractor near Commerce, TX (limit 10)
+[2026-02-19 02:14:29]     Got 1 results from Commerce, TX
+[2026-02-19 02:14:31]   Searching: Retaining wall contractor near Sulphur Springs, TX (limit 10)
+[2026-02-19 02:14:37]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 02:14:39]   Searching: Retaining wall contractor near Tyler, TX (limit 10)
+[2026-02-19 02:14:45]     Got 10 results from Tyler, TX
+[2026-02-19 02:14:47]   Searching: Retaining wall contractor near Canton, TX (limit 10)
+[2026-02-19 02:14:56]     Got 5 results from Canton, TX
+[2026-02-19 02:14:58]   Searching: Retaining wall contractor near Kaufman, TX (limit 10)
+[2026-02-19 02:15:04]     Got 10 results from Kaufman, TX
+[2026-02-19 02:15:06]   ✅ Retaining wall contractor: 104 unique leads → /home/plotting1/frankie-bot/workspace/leads/retaining_walls/retaining_walls_overnight_20260219_0215.csv
+[2026-02-19 02:15:06]   Subtotal so far: 645 leads
+[2026-02-19 02:15:11] 
+============================================================
+[2026-02-19 02:15:11] DONE — Total new leads: 645
+[2026-02-19 02:15:11] ============================================================
+[2026-02-19 02:10:36]     Got 10 results from Greenville, TX
+[2026-02-19 02:10:38]   Searching: Retaining wall contractor near Terrell, TX (limit 10)
+[2026-02-19 02:10:49]     Got 10 results from Terrell, TX
+[2026-02-19 02:10:51]   Searching: Retaining wall contractor near Forney, TX (limit 10)
+[2026-02-19 02:11:11]     Got 10 results from Forney, TX
+[2026-02-19 02:11:13]   Searching: Retaining wall contractor near Heath, TX (limit 10)
+[2026-02-19 02:11:21]     Got 9 results from Heath, TX
+[2026-02-19 02:11:23]   Searching: Retaining wall contractor near Rowlett, TX (limit 10)
+[2026-02-19 02:11:42]     Got 10 results from Rowlett, TX
+[2026-02-19 02:11:44]   Searching: Retaining wall contractor near Wylie, TX (limit 10)
+[2026-02-19 02:11:51]     Got 10 results from Wylie, TX
+[2026-02-19 02:11:53]   Searching: Retaining wall contractor near Sachse, TX (limit 10)
+[2026-02-19 02:12:01]     Got 8 results from Sachse, TX
+[2026-02-19 02:12:03]   Searching: Retaining wall contractor near Murphy, TX (limit 10)
+[2026-02-19 02:13:40]     Got 10 results from Murphy, TX
+[2026-02-19 02:13:42]   Searching: Retaining wall contractor near Fate, TX (limit 10)
+[2026-02-19 02:13:53]     Got 10 results from Fate, TX
+[2026-02-19 02:13:55]   Searching: Retaining wall contractor near Caddo Mills, TX (limit 10)
+[2026-02-19 02:14:07]     Got 10 results from Caddo Mills, TX
+[2026-02-19 02:14:09]   Searching: Retaining wall contractor near Quinlan, TX (limit 10)
+[2026-02-19 02:14:21]     Got 10 results from Quinlan, TX
+[2026-02-19 02:14:23]   Searching: Retaining wall contractor near Commerce, TX (limit 10)
+[2026-02-19 02:14:29]     Got 1 results from Commerce, TX
+[2026-02-19 02:14:31]   Searching: Retaining wall contractor near Sulphur Springs, TX (limit 10)
+[2026-02-19 02:14:37]     Got 10 results from Sulphur Springs, TX
+[2026-02-19 02:14:39]   Searching: Retaining wall contractor near Tyler, TX (limit 10)
+[2026-02-19 02:14:45]     Got 10 results from Tyler, TX
+[2026-02-19 02:14:47]   Searching: Retaining wall contractor near Canton, TX (limit 10)
+[2026-02-19 02:14:56]     Got 5 results from Canton, TX
+[2026-02-19 02:14:58]   Searching: Retaining wall contractor near Kaufman, TX (limit 10)
+[2026-02-19 02:15:04]     Got 10 results from Kaufman, TX
+[2026-02-19 02:15:06]   ✅ Retaining wall contractor: 104 unique leads → /home/plotting1/frankie-bot/workspace/leads/retaining_walls/retaining_walls_overnight_20260219_0215.csv
+[2026-02-19 02:15:06]   Subtotal so far: 645 leads
+[2026-02-19 02:15:11] 
+============================================================
+[2026-02-19 02:15:11] DONE — Total new leads: 645
+[2026-02-19 02:15:11] ============================================================
+[2026-02-19 02:38:29] ============================================================
+[2026-02-19 02:38:29] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 02:38:29] Niches: 6, Cities: 20
+[2026-02-19 02:38:29] ============================================================
+[2026-02-19 02:38:29] 
+🔍 Starting: HVAC contractor (target: 200)
+[2026-02-19 02:38:29]   Searching: HVAC contractor near Royse City, TX (limit 15)
+[2026-02-19 02:38:38]     Got 15 results from Royse City, TX
+[2026-02-19 02:38:40]   Searching: HVAC contractor near Rockwall, TX (limit 15)
+[2026-02-19 02:39:16]     Got 15 results from Rockwall, TX
+[2026-02-19 02:39:18]   Searching: HVAC contractor near Garland, TX (limit 15)
+[2026-02-19 02:39:41]     Got 15 results from Garland, TX
+[2026-02-19 02:39:43]   Searching: HVAC contractor near Mesquite, TX (limit 15)
+[2026-02-19 02:39:59]     Got 15 results from Mesquite, TX
+[2026-02-19 02:40:01]   Searching: HVAC contractor near Greenville, TX (limit 15)
+[2026-02-19 02:40:35]     Got 12 results from Greenville, TX
+[2026-02-19 02:40:37]   Searching: HVAC contractor near Terrell, TX (limit 15)
+[2026-02-19 02:43:22]     Got 15 results from Terrell, TX
+[2026-02-19 02:43:24]   Searching: HVAC contractor near Forney, TX (limit 15)
+[2026-02-19 02:43:48]     Got 15 results from Forney, TX
+[2026-02-19 02:43:50]   Searching: HVAC contractor near Heath, TX (limit 15)
+[2026-02-19 02:44:05]     Got 13 results from Heath, TX
+[2026-02-19 02:44:07]   Searching: HVAC contractor near Rowlett, TX (limit 15)
+[2026-02-19 02:44:16]     Got 15 results from Rowlett, TX
+[2026-02-19 02:44:18]   Searching: HVAC contractor near Wylie, TX (limit 15)
+[2026-02-19 02:44:24]     Got 15 results from Wylie, TX
+[2026-02-19 02:44:26]   Searching: HVAC contractor near Sachse, TX (limit 15)
+[2026-02-19 02:44:41]     Got 13 results from Sachse, TX
+[2026-02-19 02:44:43]   Searching: HVAC contractor near Murphy, TX (limit 15)
+[2026-02-19 02:44:53]     Got 15 results from Murphy, TX
+[2026-02-19 02:44:55]   Searching: HVAC contractor near Fate, TX (limit 15)
+[2026-02-19 02:45:11]     Got 13 results from Fate, TX
+[2026-02-19 02:45:13]   Searching: HVAC contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 02:45:19]     Got 15 results from Caddo Mills, TX
+[2026-02-19 02:45:21]   Searching: HVAC contractor near Quinlan, TX (limit 15)
+[2026-02-19 02:45:55]     Got 14 results from Quinlan, TX
+[2026-02-19 02:45:57]   Searching: HVAC contractor near Commerce, TX (limit 15)
+[2026-02-19 02:46:03]     Got 3 results from Commerce, TX
+[2026-02-19 02:46:05]   Searching: HVAC contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 02:46:14]     Got 13 results from Sulphur Springs, TX
+[2026-02-19 02:46:16]   Searching: HVAC contractor near Tyler, TX (limit 15)
+[2026-02-19 02:46:28]     Got 15 results from Tyler, TX
+[2026-02-19 02:46:30]   Searching: HVAC contractor near Canton, TX (limit 15)
+[2026-02-19 02:48:06]     Got 11 results from Canton, TX
+[2026-02-19 02:48:08]   Searching: HVAC contractor near Kaufman, TX (limit 15)
+[2026-02-19 02:48:32]     Got 14 results from Kaufman, TX
+[2026-02-19 02:48:34]   ✅ HVAC contractor: 213 unique leads → /home/plotting1/frankie-bot/workspace/leads/hvac/hvac_overnight_20260219_0248.csv
+[2026-02-19 02:48:34]   Subtotal so far: 213 leads
+[2026-02-19 02:48:39] 
+🔍 Starting: General contractor (target: 200)
+[2026-02-19 02:48:39]   Searching: General contractor near Royse City, TX (limit 15)
+[2026-02-19 02:48:51]     Got 15 results from Royse City, TX
+[2026-02-19 02:48:53]   Searching: General contractor near Rockwall, TX (limit 15)
+[2026-02-19 02:49:12]     Got 15 results from Rockwall, TX
+[2026-02-19 02:49:14]   Searching: General contractor near Garland, TX (limit 15)
+[2026-02-19 02:49:23]     Got 15 results from Garland, TX
+[2026-02-19 02:49:25]   Searching: General contractor near Mesquite, TX (limit 15)
+[2026-02-19 02:49:44]     Got 15 results from Mesquite, TX
+[2026-02-19 02:49:46]   Searching: General contractor near Greenville, TX (limit 15)
+[2026-02-19 02:50:06]     Got 15 results from Greenville, TX
+[2026-02-19 02:50:08]   Searching: General contractor near Terrell, TX (limit 15)
+[2026-02-19 02:50:17]     Got 14 results from Terrell, TX
+[2026-02-19 02:50:19]   Searching: General contractor near Forney, TX (limit 15)
+[2026-02-19 02:50:34]     Got 15 results from Forney, TX
+[2026-02-19 02:50:36]   Searching: General contractor near Heath, TX (limit 15)
+[2026-02-19 02:50:51]     Got 10 results from Heath, TX
+[2026-02-19 02:50:53]   Searching: General contractor near Rowlett, TX (limit 15)
+[2026-02-19 02:51:05]     Got 14 results from Rowlett, TX
+[2026-02-19 02:51:07]   Searching: General contractor near Wylie, TX (limit 15)
+[2026-02-19 02:51:22]     Got 15 results from Wylie, TX
+[2026-02-19 02:51:24]   Searching: General contractor near Sachse, TX (limit 15)
+[2026-02-19 02:51:39]     Got 15 results from Sachse, TX
+[2026-02-19 02:51:41]   Searching: General contractor near Murphy, TX (limit 15)
+[2026-02-19 02:52:05]     Got 15 results from Murphy, TX
+[2026-02-19 02:52:07]   Searching: General contractor near Fate, TX (limit 15)
+[2026-02-19 02:52:31]     Got 15 results from Fate, TX
+[2026-02-19 02:52:33]   Searching: General contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 02:52:53]     Got 15 results from Caddo Mills, TX
+[2026-02-19 02:52:55]   Searching: General contractor near Quinlan, TX (limit 15)
+[2026-02-19 02:53:01]     Got 7 results from Quinlan, TX
+[2026-02-19 02:53:03]   Searching: General contractor near Commerce, TX (limit 15)
+[2026-02-19 02:53:12]     Got 14 results from Commerce, TX
+[2026-02-19 02:53:14]   Searching: General contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 02:53:22]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 02:53:24]   Searching: General contractor near Tyler, TX (limit 15)
+[2026-02-19 02:53:30]     Got 15 results from Tyler, TX
+[2026-02-19 02:53:32]   Searching: General contractor near Canton, TX (limit 15)
+[2026-02-19 02:53:48]     Got 15 results from Canton, TX
+[2026-02-19 02:53:50]   Searching: General contractor near Kaufman, TX (limit 15)
+[2026-02-19 02:54:05]     Got 10 results from Kaufman, TX
+[2026-02-19 02:54:07]   ✅ General contractor: 247 unique leads → /home/plotting1/frankie-bot/workspace/leads/general_contractors/general_contractors_overnight_20260219_0254.csv
+[2026-02-19 02:54:07]   Subtotal so far: 460 leads
+[2026-02-19 02:54:12] 
+🔍 Starting: Water damage restoration (target: 200)
+[2026-02-19 02:54:12]   Searching: Water damage restoration near Royse City, TX (limit 15)
+[2026-02-19 02:54:42]     Got 13 results from Royse City, TX
+[2026-02-19 02:54:44]   Searching: Water damage restoration near Rockwall, TX (limit 15)
+[2026-02-19 02:55:08]     Got 15 results from Rockwall, TX
+[2026-02-19 02:55:10]   Searching: Water damage restoration near Garland, TX (limit 15)
+[2026-02-19 03:00:11]     ERROR on Garland, TX: Response status code: 504
+[2026-02-19 03:00:16]   Searching: Water damage restoration near Mesquite, TX (limit 15)
+[2026-02-19 03:00:28]     Got 15 results from Mesquite, TX
+[2026-02-19 03:00:30]   Searching: Water damage restoration near Greenville, TX (limit 15)
+[2026-02-19 03:01:07]     Got 15 results from Greenville, TX
+[2026-02-19 03:01:09]   Searching: Water damage restoration near Terrell, TX (limit 15)
+[2026-02-19 03:01:44]     Got 15 results from Terrell, TX
+[2026-02-19 03:01:46]   Searching: Water damage restoration near Forney, TX (limit 15)
+[2026-02-19 03:02:05]     Got 14 results from Forney, TX
+[2026-02-19 03:02:07]   Searching: Water damage restoration near Heath, TX (limit 15)
+[2026-02-19 03:02:42]     Got 15 results from Heath, TX
+[2026-02-19 03:02:44]   Searching: Water damage restoration near Rowlett, TX (limit 15)
+[2026-02-19 03:03:18]     Got 15 results from Rowlett, TX
+[2026-02-19 03:03:20]   Searching: Water damage restoration near Wylie, TX (limit 15)
+[2026-02-19 03:08:21]     ERROR on Wylie, TX: Response status code: 504
+[2026-02-19 03:08:26]   Searching: Water damage restoration near Sachse, TX (limit 15)
+[2026-02-19 03:09:00]     Got 11 results from Sachse, TX
+[2026-02-19 02:38:29] ============================================================
+[2026-02-19 02:38:29] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 02:38:29] Niches: 6, Cities: 20
+[2026-02-19 02:38:29] ============================================================
+[2026-02-19 02:38:29] 
+🔍 Starting: HVAC contractor (target: 200)
+[2026-02-19 02:38:29]   Searching: HVAC contractor near Royse City, TX (limit 15)
+[2026-02-19 02:38:38]     Got 15 results from Royse City, TX
+[2026-02-19 02:38:40]   Searching: HVAC contractor near Rockwall, TX (limit 15)
+[2026-02-19 02:39:16]     Got 15 results from Rockwall, TX
+[2026-02-19 02:39:18]   Searching: HVAC contractor near Garland, TX (limit 15)
+[2026-02-19 02:39:41]     Got 15 results from Garland, TX
+[2026-02-19 02:39:43]   Searching: HVAC contractor near Mesquite, TX (limit 15)
+[2026-02-19 02:39:59]     Got 15 results from Mesquite, TX
+[2026-02-19 02:40:01]   Searching: HVAC contractor near Greenville, TX (limit 15)
+[2026-02-19 02:40:35]     Got 12 results from Greenville, TX
+[2026-02-19 02:40:37]   Searching: HVAC contractor near Terrell, TX (limit 15)
+[2026-02-19 02:43:22]     Got 15 results from Terrell, TX
+[2026-02-19 02:43:24]   Searching: HVAC contractor near Forney, TX (limit 15)
+[2026-02-19 02:43:48]     Got 15 results from Forney, TX
+[2026-02-19 02:43:50]   Searching: HVAC contractor near Heath, TX (limit 15)
+[2026-02-19 02:44:05]     Got 13 results from Heath, TX
+[2026-02-19 02:44:07]   Searching: HVAC contractor near Rowlett, TX (limit 15)
+[2026-02-19 02:44:16]     Got 15 results from Rowlett, TX
+[2026-02-19 02:44:18]   Searching: HVAC contractor near Wylie, TX (limit 15)
+[2026-02-19 02:44:24]     Got 15 results from Wylie, TX
+[2026-02-19 02:44:26]   Searching: HVAC contractor near Sachse, TX (limit 15)
+[2026-02-19 02:44:41]     Got 13 results from Sachse, TX
+[2026-02-19 02:44:43]   Searching: HVAC contractor near Murphy, TX (limit 15)
+[2026-02-19 02:44:53]     Got 15 results from Murphy, TX
+[2026-02-19 02:44:55]   Searching: HVAC contractor near Fate, TX (limit 15)
+[2026-02-19 02:45:11]     Got 13 results from Fate, TX
+[2026-02-19 02:45:13]   Searching: HVAC contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 02:45:19]     Got 15 results from Caddo Mills, TX
+[2026-02-19 02:45:21]   Searching: HVAC contractor near Quinlan, TX (limit 15)
+[2026-02-19 02:45:55]     Got 14 results from Quinlan, TX
+[2026-02-19 02:45:57]   Searching: HVAC contractor near Commerce, TX (limit 15)
+[2026-02-19 02:46:03]     Got 3 results from Commerce, TX
+[2026-02-19 02:46:05]   Searching: HVAC contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 02:46:14]     Got 13 results from Sulphur Springs, TX
+[2026-02-19 02:46:16]   Searching: HVAC contractor near Tyler, TX (limit 15)
+[2026-02-19 02:46:28]     Got 15 results from Tyler, TX
+[2026-02-19 02:46:30]   Searching: HVAC contractor near Canton, TX (limit 15)
+[2026-02-19 02:48:06]     Got 11 results from Canton, TX
+[2026-02-19 02:48:08]   Searching: HVAC contractor near Kaufman, TX (limit 15)
+[2026-02-19 02:48:32]     Got 14 results from Kaufman, TX
+[2026-02-19 02:48:34]   ✅ HVAC contractor: 213 unique leads → /home/plotting1/frankie-bot/workspace/leads/hvac/hvac_overnight_20260219_0248.csv
+[2026-02-19 02:48:34]   Subtotal so far: 213 leads
+[2026-02-19 02:48:39] 
+🔍 Starting: General contractor (target: 200)
+[2026-02-19 02:48:39]   Searching: General contractor near Royse City, TX (limit 15)
+[2026-02-19 02:48:51]     Got 15 results from Royse City, TX
+[2026-02-19 02:48:53]   Searching: General contractor near Rockwall, TX (limit 15)
+[2026-02-19 02:49:12]     Got 15 results from Rockwall, TX
+[2026-02-19 02:49:14]   Searching: General contractor near Garland, TX (limit 15)
+[2026-02-19 02:49:23]     Got 15 results from Garland, TX
+[2026-02-19 02:49:25]   Searching: General contractor near Mesquite, TX (limit 15)
+[2026-02-19 02:49:44]     Got 15 results from Mesquite, TX
+[2026-02-19 02:49:46]   Searching: General contractor near Greenville, TX (limit 15)
+[2026-02-19 02:50:06]     Got 15 results from Greenville, TX
+[2026-02-19 02:50:08]   Searching: General contractor near Terrell, TX (limit 15)
+[2026-02-19 02:50:17]     Got 14 results from Terrell, TX
+[2026-02-19 02:50:19]   Searching: General contractor near Forney, TX (limit 15)
+[2026-02-19 02:50:34]     Got 15 results from Forney, TX
+[2026-02-19 02:50:36]   Searching: General contractor near Heath, TX (limit 15)
+[2026-02-19 02:50:51]     Got 10 results from Heath, TX
+[2026-02-19 02:50:53]   Searching: General contractor near Rowlett, TX (limit 15)
+[2026-02-19 02:51:05]     Got 14 results from Rowlett, TX
+[2026-02-19 02:51:07]   Searching: General contractor near Wylie, TX (limit 15)
+[2026-02-19 02:51:22]     Got 15 results from Wylie, TX
+[2026-02-19 02:51:24]   Searching: General contractor near Sachse, TX (limit 15)
+[2026-02-19 02:51:39]     Got 15 results from Sachse, TX
+[2026-02-19 02:51:41]   Searching: General contractor near Murphy, TX (limit 15)
+[2026-02-19 02:52:05]     Got 15 results from Murphy, TX
+[2026-02-19 02:52:07]   Searching: General contractor near Fate, TX (limit 15)
+[2026-02-19 02:52:31]     Got 15 results from Fate, TX
+[2026-02-19 02:52:33]   Searching: General contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 02:52:53]     Got 15 results from Caddo Mills, TX
+[2026-02-19 02:52:55]   Searching: General contractor near Quinlan, TX (limit 15)
+[2026-02-19 02:53:01]     Got 7 results from Quinlan, TX
+[2026-02-19 02:53:03]   Searching: General contractor near Commerce, TX (limit 15)
+[2026-02-19 02:53:12]     Got 14 results from Commerce, TX
+[2026-02-19 02:53:14]   Searching: General contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 02:53:22]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 02:53:24]   Searching: General contractor near Tyler, TX (limit 15)
+[2026-02-19 02:53:30]     Got 15 results from Tyler, TX
+[2026-02-19 02:53:32]   Searching: General contractor near Canton, TX (limit 15)
+[2026-02-19 02:53:48]     Got 15 results from Canton, TX
+[2026-02-19 02:53:50]   Searching: General contractor near Kaufman, TX (limit 15)
+[2026-02-19 02:54:05]     Got 10 results from Kaufman, TX
+[2026-02-19 02:54:07]   ✅ General contractor: 247 unique leads → /home/plotting1/frankie-bot/workspace/leads/general_contractors/general_contractors_overnight_20260219_0254.csv
+[2026-02-19 02:54:07]   Subtotal so far: 460 leads
+[2026-02-19 02:54:12] 
+🔍 Starting: Water damage restoration (target: 200)
+[2026-02-19 02:54:12]   Searching: Water damage restoration near Royse City, TX (limit 15)
+[2026-02-19 02:54:42]     Got 13 results from Royse City, TX
+[2026-02-19 02:54:44]   Searching: Water damage restoration near Rockwall, TX (limit 15)
+[2026-02-19 02:55:08]     Got 15 results from Rockwall, TX
+[2026-02-19 02:55:10]   Searching: Water damage restoration near Garland, TX (limit 15)
+[2026-02-19 03:00:11]     ERROR on Garland, TX: Response status code: 504
+[2026-02-19 03:00:16]   Searching: Water damage restoration near Mesquite, TX (limit 15)
+[2026-02-19 03:00:28]     Got 15 results from Mesquite, TX
+[2026-02-19 03:00:30]   Searching: Water damage restoration near Greenville, TX (limit 15)
+[2026-02-19 03:01:07]     Got 15 results from Greenville, TX
+[2026-02-19 03:01:09]   Searching: Water damage restoration near Terrell, TX (limit 15)
+[2026-02-19 03:01:44]     Got 15 results from Terrell, TX
+[2026-02-19 03:01:46]   Searching: Water damage restoration near Forney, TX (limit 15)
+[2026-02-19 03:02:05]     Got 14 results from Forney, TX
+[2026-02-19 03:02:07]   Searching: Water damage restoration near Heath, TX (limit 15)
+[2026-02-19 03:02:42]     Got 15 results from Heath, TX
+[2026-02-19 03:02:44]   Searching: Water damage restoration near Rowlett, TX (limit 15)
+[2026-02-19 03:03:18]     Got 15 results from Rowlett, TX
+[2026-02-19 03:03:20]   Searching: Water damage restoration near Wylie, TX (limit 15)
+[2026-02-19 03:08:21]     ERROR on Wylie, TX: Response status code: 504
+[2026-02-19 03:08:26]   Searching: Water damage restoration near Sachse, TX (limit 15)
+[2026-02-19 03:09:00]     Got 11 results from Sachse, TX
+[2026-02-19 03:09:02]   Searching: Water damage restoration near Murphy, TX (limit 15)
+[2026-02-19 03:09:37]     Got 15 results from Murphy, TX
+[2026-02-19 03:09:39]   Searching: Water damage restoration near Fate, TX (limit 15)
+[2026-02-19 03:09:54]     Got 15 results from Fate, TX
+[2026-02-19 03:09:56]   Searching: Water damage restoration near Caddo Mills, TX (limit 15)
+[2026-02-19 03:10:11]     Got 13 results from Caddo Mills, TX
+[2026-02-19 03:10:13]   Searching: Water damage restoration near Quinlan, TX (limit 15)
+[2026-02-19 03:10:48]     Got 14 results from Quinlan, TX
+[2026-02-19 03:10:50]   Searching: Water damage restoration near Commerce, TX (limit 15)
+[2026-02-19 03:11:09]     Got 12 results from Commerce, TX
+[2026-02-19 03:11:11]   Searching: Water damage restoration near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:11:38]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 03:11:40]   Searching: Water damage restoration near Tyler, TX (limit 15)
+[2026-02-19 03:12:14]     Got 13 results from Tyler, TX
+[2026-02-19 03:12:16]   Searching: Water damage restoration near Canton, TX (limit 15)
+[2026-02-19 03:12:42]     Got 14 results from Canton, TX
+[2026-02-19 03:12:44]   Searching: Water damage restoration near Kaufman, TX (limit 15)
+[2026-02-19 03:12:59]     Got 12 results from Kaufman, TX
+[2026-02-19 03:13:01]   ✅ Water damage restoration: 114 unique leads → /home/plotting1/frankie-bot/workspace/leads/water_damage/water_damage_overnight_20260219_0313.csv
+[2026-02-19 03:13:01]   Subtotal so far: 574 leads
+[2026-02-19 03:13:06] 
+🔍 Starting: Septic system service (target: 150)
+[2026-02-19 03:13:06]   Searching: Septic system service near Royse City, TX (limit 12)
+[2026-02-19 03:13:08]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:13:13]   Searching: Septic system service near Rockwall, TX (limit 12)
+[2026-02-19 03:13:22]     Got 12 results from Rockwall, TX
+[2026-02-19 03:13:24]   Searching: Septic system service near Garland, TX (limit 12)
+[2026-02-19 03:13:25]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:13:30]   Searching: Septic system service near Mesquite, TX (limit 12)
+[2026-02-19 03:13:38]     Got 12 results from Mesquite, TX
+[2026-02-19 03:13:40]   Searching: Septic system service near Greenville, TX (limit 12)
+[2026-02-19 03:13:46]     Got 9 results from Greenville, TX
+[2026-02-19 03:13:48]   Searching: Septic system service near Terrell, TX (limit 12)
+[2026-02-19 03:13:49]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:13:54]   Searching: Septic system service near Forney, TX (limit 12)
+[2026-02-19 03:14:00]     Got 5 results from Forney, TX
+[2026-02-19 03:14:02]   Searching: Septic system service near Heath, TX (limit 12)
+[2026-02-19 03:14:14]     Got 12 results from Heath, TX
+[2026-02-19 03:14:16]   Searching: Septic system service near Rowlett, TX (limit 12)
+[2026-02-19 03:14:25]     Got 12 results from Rowlett, TX
+[2026-02-19 03:14:27]   Searching: Septic system service near Wylie, TX (limit 12)
+[2026-02-19 03:14:27]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:14:32]   Searching: Septic system service near Sachse, TX (limit 12)
+[2026-02-19 03:14:38]     Got 8 results from Sachse, TX
+[2026-02-19 03:14:40]   Searching: Septic system service near Murphy, TX (limit 12)
+[2026-02-19 03:15:27]     Got 8 results from Murphy, TX
+[2026-02-19 03:15:29]   Searching: Septic system service near Fate, TX (limit 12)
+[2026-02-19 03:15:35]     Got 12 results from Fate, TX
+[2026-02-19 03:15:37]   Searching: Septic system service near Caddo Mills, TX (limit 12)
+[2026-02-19 03:15:38]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:15:43]   Searching: Septic system service near Quinlan, TX (limit 12)
+[2026-02-19 03:15:54]     Got 9 results from Quinlan, TX
+[2026-02-19 03:15:56]   Searching: Septic system service near Commerce, TX (limit 12)
+[2026-02-19 03:15:57]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:16:02]   Searching: Septic system service near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:16:08]     Got 2 results from Sulphur Springs, TX
+[2026-02-19 03:16:10]   Searching: Septic system service near Tyler, TX (limit 12)
+[2026-02-19 03:16:25]     Got 12 results from Tyler, TX
+[2026-02-19 03:16:27]   Searching: Septic system service near Canton, TX (limit 12)
+[2026-02-19 03:16:33]     Got 6 results from Canton, TX
+[2026-02-19 03:16:35]   Searching: Septic system service near Kaufman, TX (limit 12)
+[2026-02-19 03:16:36]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:16:41]   ✅ Septic system service: 51 unique leads → /home/plotting1/frankie-bot/workspace/leads/septic_services/septic_services_overnight_20260219_0316.csv
+[2026-02-19 03:16:41]   Subtotal so far: 625 leads
+[2026-02-19 03:16:46] 
+🔍 Starting: MedSpa (target: 150)
+[2026-02-19 03:16:46]   Searching: MedSpa near Royse City, TX (limit 12)
+[2026-02-19 03:16:52]     Got 12 results from Royse City, TX
+[2026-02-19 03:16:54]   Searching: MedSpa near Rockwall, TX (limit 12)
+[2026-02-19 03:17:00]     Got 12 results from Rockwall, TX
+[2026-02-19 03:17:02]   Searching: MedSpa near Garland, TX (limit 12)
+[2026-02-19 03:17:08]     Got 12 results from Garland, TX
+[2026-02-19 03:17:10]   Searching: MedSpa near Mesquite, TX (limit 12)
+[2026-02-19 03:17:26]     Got 12 results from Mesquite, TX
+[2026-02-19 03:17:28]   Searching: MedSpa near Greenville, TX (limit 12)
+[2026-02-19 03:17:34]     Got 5 results from Greenville, TX
+[2026-02-19 03:17:36]   Searching: MedSpa near Terrell, TX (limit 12)
+[2026-02-19 03:17:37]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:17:42]   Searching: MedSpa near Forney, TX (limit 12)
+[2026-02-19 03:17:43]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:17:48]   Searching: MedSpa near Heath, TX (limit 12)
+[2026-02-19 03:17:48]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:17:53]   Searching: MedSpa near Rowlett, TX (limit 12)
+[2026-02-19 03:17:55]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:18:00]   Searching: MedSpa near Wylie, TX (limit 12)
+[2026-02-19 03:18:00]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:18:05]   Searching: MedSpa near Sachse, TX (limit 12)
+[2026-02-19 03:18:06]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:18:11]   Searching: MedSpa near Murphy, TX (limit 12)
+[2026-02-19 03:18:19]     Got 5 results from Murphy, TX
+[2026-02-19 03:18:21]   Searching: MedSpa near Fate, TX (limit 12)
+[2026-02-19 03:18:22]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:18:27]   Searching: MedSpa near Caddo Mills, TX (limit 12)
+[2026-02-19 03:18:28]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:18:33]   Searching: MedSpa near Quinlan, TX (limit 12)
+[2026-02-19 03:18:33]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:18:38]   Searching: MedSpa near Commerce, TX (limit 12)
+[2026-02-19 03:18:39]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:18:44]   Searching: MedSpa near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:18:45]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:18:50]   Searching: MedSpa near Tyler, TX (limit 12)
+[2026-02-19 03:18:50]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:18:55]   Searching: MedSpa near Canton, TX (limit 12)
+[2026-02-19 03:19:19]     Got 8 results from Canton, TX
+[2026-02-19 03:19:21]   Searching: MedSpa near Kaufman, TX (limit 12)
+[2026-02-19 03:19:22]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:19:27]   ✅ MedSpa: 62 unique leads → /home/plotting1/frankie-bot/workspace/leads/medspas/medspas_overnight_20260219_0319.csv
+[2026-02-19 03:19:27]   Subtotal so far: 687 leads
+[2026-02-19 03:19:32] 
+🔍 Starting: Massage therapist (target: 150)
+[2026-02-19 03:19:32]   Searching: Massage therapist near Royse City, TX (limit 12)
+[2026-02-19 03:19:38]     Got 12 results from Royse City, TX
+[2026-02-19 03:19:40]   Searching: Massage therapist near Rockwall, TX (limit 12)
+[2026-02-19 03:09:02]   Searching: Water damage restoration near Murphy, TX (limit 15)
+[2026-02-19 03:09:37]     Got 15 results from Murphy, TX
+[2026-02-19 03:09:39]   Searching: Water damage restoration near Fate, TX (limit 15)
+[2026-02-19 03:09:54]     Got 15 results from Fate, TX
+[2026-02-19 03:09:56]   Searching: Water damage restoration near Caddo Mills, TX (limit 15)
+[2026-02-19 03:10:11]     Got 13 results from Caddo Mills, TX
+[2026-02-19 03:10:13]   Searching: Water damage restoration near Quinlan, TX (limit 15)
+[2026-02-19 03:10:48]     Got 14 results from Quinlan, TX
+[2026-02-19 03:10:50]   Searching: Water damage restoration near Commerce, TX (limit 15)
+[2026-02-19 03:11:09]     Got 12 results from Commerce, TX
+[2026-02-19 03:11:11]   Searching: Water damage restoration near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:11:38]     Got 15 results from Sulphur Springs, TX
+[2026-02-19 03:11:40]   Searching: Water damage restoration near Tyler, TX (limit 15)
+[2026-02-19 03:12:14]     Got 13 results from Tyler, TX
+[2026-02-19 03:12:16]   Searching: Water damage restoration near Canton, TX (limit 15)
+[2026-02-19 03:12:42]     Got 14 results from Canton, TX
+[2026-02-19 03:12:44]   Searching: Water damage restoration near Kaufman, TX (limit 15)
+[2026-02-19 03:12:59]     Got 12 results from Kaufman, TX
+[2026-02-19 03:13:01]   ✅ Water damage restoration: 114 unique leads → /home/plotting1/frankie-bot/workspace/leads/water_damage/water_damage_overnight_20260219_0313.csv
+[2026-02-19 03:13:01]   Subtotal so far: 574 leads
+[2026-02-19 03:13:06] 
+🔍 Starting: Septic system service (target: 150)
+[2026-02-19 03:13:06]   Searching: Septic system service near Royse City, TX (limit 12)
+[2026-02-19 03:13:08]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:13:13]   Searching: Septic system service near Rockwall, TX (limit 12)
+[2026-02-19 03:13:22]     Got 12 results from Rockwall, TX
+[2026-02-19 03:13:24]   Searching: Septic system service near Garland, TX (limit 12)
+[2026-02-19 03:13:25]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:13:30]   Searching: Septic system service near Mesquite, TX (limit 12)
+[2026-02-19 03:13:38]     Got 12 results from Mesquite, TX
+[2026-02-19 03:13:40]   Searching: Septic system service near Greenville, TX (limit 12)
+[2026-02-19 03:13:46]     Got 9 results from Greenville, TX
+[2026-02-19 03:13:48]   Searching: Septic system service near Terrell, TX (limit 12)
+[2026-02-19 03:13:49]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:13:54]   Searching: Septic system service near Forney, TX (limit 12)
+[2026-02-19 03:14:00]     Got 5 results from Forney, TX
+[2026-02-19 03:14:02]   Searching: Septic system service near Heath, TX (limit 12)
+[2026-02-19 03:14:14]     Got 12 results from Heath, TX
+[2026-02-19 03:14:16]   Searching: Septic system service near Rowlett, TX (limit 12)
+[2026-02-19 03:14:25]     Got 12 results from Rowlett, TX
+[2026-02-19 03:14:27]   Searching: Septic system service near Wylie, TX (limit 12)
+[2026-02-19 03:14:27]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:14:32]   Searching: Septic system service near Sachse, TX (limit 12)
+[2026-02-19 03:14:38]     Got 8 results from Sachse, TX
+[2026-02-19 03:14:40]   Searching: Septic system service near Murphy, TX (limit 12)
+[2026-02-19 03:15:27]     Got 8 results from Murphy, TX
+[2026-02-19 03:15:29]   Searching: Septic system service near Fate, TX (limit 12)
+[2026-02-19 03:15:35]     Got 12 results from Fate, TX
+[2026-02-19 03:15:37]   Searching: Septic system service near Caddo Mills, TX (limit 12)
+[2026-02-19 03:15:38]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:15:43]   Searching: Septic system service near Quinlan, TX (limit 12)
+[2026-02-19 03:15:54]     Got 9 results from Quinlan, TX
+[2026-02-19 03:15:56]   Searching: Septic system service near Commerce, TX (limit 12)
+[2026-02-19 03:15:57]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:16:02]   Searching: Septic system service near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:16:08]     Got 2 results from Sulphur Springs, TX
+[2026-02-19 03:16:10]   Searching: Septic system service near Tyler, TX (limit 12)
+[2026-02-19 03:16:25]     Got 12 results from Tyler, TX
+[2026-02-19 03:16:27]   Searching: Septic system service near Canton, TX (limit 12)
+[2026-02-19 03:16:33]     Got 6 results from Canton, TX
+[2026-02-19 03:16:35]   Searching: Septic system service near Kaufman, TX (limit 12)
+[2026-02-19 03:16:36]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:16:41]   ✅ Septic system service: 51 unique leads → /home/plotting1/frankie-bot/workspace/leads/septic_services/septic_services_overnight_20260219_0316.csv
+[2026-02-19 03:16:41]   Subtotal so far: 625 leads
+[2026-02-19 03:16:46] 
+🔍 Starting: MedSpa (target: 150)
+[2026-02-19 03:16:46]   Searching: MedSpa near Royse City, TX (limit 12)
+[2026-02-19 03:16:52]     Got 12 results from Royse City, TX
+[2026-02-19 03:16:54]   Searching: MedSpa near Rockwall, TX (limit 12)
+[2026-02-19 03:17:00]     Got 12 results from Rockwall, TX
+[2026-02-19 03:17:02]   Searching: MedSpa near Garland, TX (limit 12)
+[2026-02-19 03:17:08]     Got 12 results from Garland, TX
+[2026-02-19 03:17:10]   Searching: MedSpa near Mesquite, TX (limit 12)
+[2026-02-19 03:17:26]     Got 12 results from Mesquite, TX
+[2026-02-19 03:17:28]   Searching: MedSpa near Greenville, TX (limit 12)
+[2026-02-19 03:17:34]     Got 5 results from Greenville, TX
+[2026-02-19 03:17:36]   Searching: MedSpa near Terrell, TX (limit 12)
+[2026-02-19 03:17:37]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:17:42]   Searching: MedSpa near Forney, TX (limit 12)
+[2026-02-19 03:17:43]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:17:48]   Searching: MedSpa near Heath, TX (limit 12)
+[2026-02-19 03:17:48]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:17:53]   Searching: MedSpa near Rowlett, TX (limit 12)
+[2026-02-19 03:17:55]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:18:00]   Searching: MedSpa near Wylie, TX (limit 12)
+[2026-02-19 03:18:00]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:18:05]   Searching: MedSpa near Sachse, TX (limit 12)
+[2026-02-19 03:18:06]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:18:11]   Searching: MedSpa near Murphy, TX (limit 12)
+[2026-02-19 03:18:19]     Got 5 results from Murphy, TX
+[2026-02-19 03:18:21]   Searching: MedSpa near Fate, TX (limit 12)
+[2026-02-19 03:18:22]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:18:27]   Searching: MedSpa near Caddo Mills, TX (limit 12)
+[2026-02-19 03:18:28]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:18:33]   Searching: MedSpa near Quinlan, TX (limit 12)
+[2026-02-19 03:18:33]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:18:38]   Searching: MedSpa near Commerce, TX (limit 12)
+[2026-02-19 03:18:39]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:18:44]   Searching: MedSpa near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:18:45]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:18:50]   Searching: MedSpa near Tyler, TX (limit 12)
+[2026-02-19 03:18:50]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:18:55]   Searching: MedSpa near Canton, TX (limit 12)
+[2026-02-19 03:19:19]     Got 8 results from Canton, TX
+[2026-02-19 03:19:21]   Searching: MedSpa near Kaufman, TX (limit 12)
+[2026-02-19 03:19:22]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:19:27]   ✅ MedSpa: 62 unique leads → /home/plotting1/frankie-bot/workspace/leads/medspas/medspas_overnight_20260219_0319.csv
+[2026-02-19 03:19:27]   Subtotal so far: 687 leads
+[2026-02-19 03:19:32] 
+🔍 Starting: Massage therapist (target: 150)
+[2026-02-19 03:19:32]   Searching: Massage therapist near Royse City, TX (limit 12)
+[2026-02-19 03:19:38]     Got 12 results from Royse City, TX
+[2026-02-19 03:19:40]   Searching: Massage therapist near Rockwall, TX (limit 12)
+[2026-02-19 03:19:41]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:19:46]   Searching: Massage therapist near Garland, TX (limit 12)
+[2026-02-19 03:24:46]     ERROR on Garland, TX: Response status code: 504
+[2026-02-19 03:24:51]   Searching: Massage therapist near Mesquite, TX (limit 12)
+[2026-02-19 03:24:52]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:24:57]   Searching: Massage therapist near Greenville, TX (limit 12)
+[2026-02-19 03:24:58]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:25:03]   Searching: Massage therapist near Terrell, TX (limit 12)
+[2026-02-19 03:25:19]     Got 12 results from Terrell, TX
+[2026-02-19 03:25:21]   Searching: Massage therapist near Forney, TX (limit 12)
+[2026-02-19 03:25:22]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:25:27]   Searching: Massage therapist near Heath, TX (limit 12)
+[2026-02-19 03:25:27]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:25:32]   Searching: Massage therapist near Rowlett, TX (limit 12)
+[2026-02-19 03:25:48]     Got 12 results from Rowlett, TX
+[2026-02-19 03:25:50]   Searching: Massage therapist near Wylie, TX (limit 12)
+[2026-02-19 03:26:44]     Got 12 results from Wylie, TX
+[2026-02-19 03:26:46]   Searching: Massage therapist near Sachse, TX (limit 12)
+[2026-02-19 03:26:47]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:26:52]   Searching: Massage therapist near Murphy, TX (limit 12)
+[2026-02-19 03:26:53]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:26:58]   Searching: Massage therapist near Fate, TX (limit 12)
+[2026-02-19 03:26:58]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:27:03]   Searching: Massage therapist near Caddo Mills, TX (limit 12)
+[2026-02-19 03:27:04]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:27:09]   Searching: Massage therapist near Quinlan, TX (limit 12)
+[2026-02-19 03:27:10]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:27:15]   Searching: Massage therapist near Commerce, TX (limit 12)
+[2026-02-19 03:27:15]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:27:20]   Searching: Massage therapist near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:27:21]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:27:26]   Searching: Massage therapist near Tyler, TX (limit 12)
+[2026-02-19 03:27:27]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:27:32]   Searching: Massage therapist near Canton, TX (limit 12)
+[2026-02-19 03:27:32]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:27:37]   Searching: Massage therapist near Kaufman, TX (limit 12)
+[2026-02-19 03:27:38]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:27:43]   ✅ Massage therapist: 48 unique leads → /home/plotting1/frankie-bot/workspace/leads/massage_therapy/massage_therapy_overnight_20260219_0327.csv
+[2026-02-19 03:27:43]   Subtotal so far: 735 leads
+[2026-02-19 03:27:48] 
+============================================================
+[2026-02-19 03:27:48] DONE — Total new leads: 735
+[2026-02-19 03:27:48] ============================================================
+[2026-02-19 03:19:41]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:19:46]   Searching: Massage therapist near Garland, TX (limit 12)
+[2026-02-19 03:24:46]     ERROR on Garland, TX: Response status code: 504
+[2026-02-19 03:24:51]   Searching: Massage therapist near Mesquite, TX (limit 12)
+[2026-02-19 03:24:52]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:24:57]   Searching: Massage therapist near Greenville, TX (limit 12)
+[2026-02-19 03:24:58]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:25:03]   Searching: Massage therapist near Terrell, TX (limit 12)
+[2026-02-19 03:25:19]     Got 12 results from Terrell, TX
+[2026-02-19 03:25:21]   Searching: Massage therapist near Forney, TX (limit 12)
+[2026-02-19 03:25:22]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:25:27]   Searching: Massage therapist near Heath, TX (limit 12)
+[2026-02-19 03:25:27]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:25:32]   Searching: Massage therapist near Rowlett, TX (limit 12)
+[2026-02-19 03:25:48]     Got 12 results from Rowlett, TX
+[2026-02-19 03:25:50]   Searching: Massage therapist near Wylie, TX (limit 12)
+[2026-02-19 03:26:44]     Got 12 results from Wylie, TX
+[2026-02-19 03:26:46]   Searching: Massage therapist near Sachse, TX (limit 12)
+[2026-02-19 03:26:47]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:26:52]   Searching: Massage therapist near Murphy, TX (limit 12)
+[2026-02-19 03:26:53]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:26:58]   Searching: Massage therapist near Fate, TX (limit 12)
+[2026-02-19 03:26:58]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:27:03]   Searching: Massage therapist near Caddo Mills, TX (limit 12)
+[2026-02-19 03:27:04]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:27:09]   Searching: Massage therapist near Quinlan, TX (limit 12)
+[2026-02-19 03:27:10]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:27:15]   Searching: Massage therapist near Commerce, TX (limit 12)
+[2026-02-19 03:27:15]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:27:20]   Searching: Massage therapist near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:27:21]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:27:26]   Searching: Massage therapist near Tyler, TX (limit 12)
+[2026-02-19 03:27:27]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:27:32]   Searching: Massage therapist near Canton, TX (limit 12)
+[2026-02-19 03:27:32]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:27:37]   Searching: Massage therapist near Kaufman, TX (limit 12)
+[2026-02-19 03:27:38]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:27:43]   ✅ Massage therapist: 48 unique leads → /home/plotting1/frankie-bot/workspace/leads/massage_therapy/massage_therapy_overnight_20260219_0327.csv
+[2026-02-19 03:27:43]   Subtotal so far: 735 leads
+[2026-02-19 03:27:48] 
+============================================================
+[2026-02-19 03:27:48] DONE — Total new leads: 735
+[2026-02-19 03:27:48] ============================================================
+[2026-02-19 03:38:30] ============================================================
+[2026-02-19 03:38:30] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 03:38:30] Niches: 6, Cities: 20
+[2026-02-19 03:38:30] ============================================================
+[2026-02-19 03:38:30] 
+🔍 Starting: Public adjuster (target: 150)
+[2026-02-19 03:38:30]   Searching: Public adjuster near Royse City, TX (limit 12)
+[2026-02-19 03:38:32]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:38:37]   Searching: Public adjuster near Rockwall, TX (limit 12)
+[2026-02-19 03:38:38]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:38:43]   Searching: Public adjuster near Garland, TX (limit 12)
+[2026-02-19 03:38:43]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:38:48]   Searching: Public adjuster near Mesquite, TX (limit 12)
+[2026-02-19 03:38:49]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:38:54]   Searching: Public adjuster near Greenville, TX (limit 12)
+[2026-02-19 03:38:55]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:39:00]   Searching: Public adjuster near Terrell, TX (limit 12)
+[2026-02-19 03:39:01]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:39:06]   Searching: Public adjuster near Forney, TX (limit 12)
+[2026-02-19 03:39:06]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:39:11]   Searching: Public adjuster near Heath, TX (limit 12)
+[2026-02-19 03:39:12]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:39:17]   Searching: Public adjuster near Rowlett, TX (limit 12)
+[2026-02-19 03:39:18]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:39:23]   Searching: Public adjuster near Wylie, TX (limit 12)
+[2026-02-19 03:39:23]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:39:28]   Searching: Public adjuster near Sachse, TX (limit 12)
+[2026-02-19 03:39:29]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:39:34]   Searching: Public adjuster near Murphy, TX (limit 12)
+[2026-02-19 03:39:35]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:39:40]   Searching: Public adjuster near Fate, TX (limit 12)
+[2026-02-19 03:39:40]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:39:45]   Searching: Public adjuster near Caddo Mills, TX (limit 12)
+[2026-02-19 03:39:46]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:39:51]   Searching: Public adjuster near Quinlan, TX (limit 12)
+[2026-02-19 03:39:52]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:39:57]   Searching: Public adjuster near Commerce, TX (limit 12)
+[2026-02-19 03:39:58]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:40:03]   Searching: Public adjuster near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:40:04]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:40:09]   Searching: Public adjuster near Tyler, TX (limit 12)
+[2026-02-19 03:40:09]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:40:14]   Searching: Public adjuster near Canton, TX (limit 12)
+[2026-02-19 03:40:15]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:40:20]   Searching: Public adjuster near Kaufman, TX (limit 12)
+[2026-02-19 03:40:21]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:40:26]   No results for Public adjuster — skipping
+[2026-02-19 03:40:26]   Subtotal so far: 0 leads
+[2026-02-19 03:40:31] 
+🔍 Starting: Estate attorney (target: 150)
+[2026-02-19 03:40:31]   Searching: Estate attorney near Royse City, TX (limit 12)
+[2026-02-19 03:40:31]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:40:36]   Searching: Estate attorney near Rockwall, TX (limit 12)
+[2026-02-19 03:40:37]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:40:42]   Searching: Estate attorney near Garland, TX (limit 12)
+[2026-02-19 03:40:43]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:40:48]   Searching: Estate attorney near Mesquite, TX (limit 12)
+[2026-02-19 03:40:48]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:40:53]   Searching: Estate attorney near Greenville, TX (limit 12)
+[2026-02-19 03:40:54]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:40:59]   Searching: Estate attorney near Terrell, TX (limit 12)
+[2026-02-19 03:40:59]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:41:04]   Searching: Estate attorney near Forney, TX (limit 12)
+[2026-02-19 03:41:05]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:41:10]   Searching: Estate attorney near Heath, TX (limit 12)
+[2026-02-19 03:41:11]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:41:16]   Searching: Estate attorney near Rowlett, TX (limit 12)
+[2026-02-19 03:41:16]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:41:21]   Searching: Estate attorney near Wylie, TX (limit 12)
+[2026-02-19 03:41:22]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:41:27]   Searching: Estate attorney near Sachse, TX (limit 12)
+[2026-02-19 03:41:28]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:41:33]   Searching: Estate attorney near Murphy, TX (limit 12)
+[2026-02-19 03:41:33]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:41:38]   Searching: Estate attorney near Fate, TX (limit 12)
+[2026-02-19 03:41:39]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:41:44]   Searching: Estate attorney near Caddo Mills, TX (limit 12)
+[2026-02-19 03:41:45]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:41:50]   Searching: Estate attorney near Quinlan, TX (limit 12)
+[2026-02-19 03:41:51]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:41:56]   Searching: Estate attorney near Commerce, TX (limit 12)
+[2026-02-19 03:41:57]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:42:02]   Searching: Estate attorney near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:42:02]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:42:07]   Searching: Estate attorney near Tyler, TX (limit 12)
+[2026-02-19 03:42:08]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:42:13]   Searching: Estate attorney near Canton, TX (limit 12)
+[2026-02-19 03:42:14]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:42:19]   Searching: Estate attorney near Kaufman, TX (limit 12)
+[2026-02-19 03:42:19]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:42:24]   No results for Estate attorney — skipping
+[2026-02-19 03:42:24]   Subtotal so far: 0 leads
+[2026-02-19 03:42:29] 
+🔍 Starting: Title company (target: 150)
+[2026-02-19 03:42:29]   Searching: Title company near Royse City, TX (limit 12)
+[2026-02-19 03:42:30]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:42:35]   Searching: Title company near Rockwall, TX (limit 12)
+[2026-02-19 03:42:36]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:42:41]   Searching: Title company near Garland, TX (limit 12)
+[2026-02-19 03:42:41]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:42:46]   Searching: Title company near Mesquite, TX (limit 12)
+[2026-02-19 03:42:47]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:42:52]   Searching: Title company near Greenville, TX (limit 12)
+[2026-02-19 03:42:53]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:42:58]   Searching: Title company near Terrell, TX (limit 12)
+[2026-02-19 03:42:58]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:43:03]   Searching: Title company near Forney, TX (limit 12)
+[2026-02-19 03:43:04]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:43:09]   Searching: Title company near Heath, TX (limit 12)
+[2026-02-19 03:43:10]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:43:15]   Searching: Title company near Rowlett, TX (limit 12)
+[2026-02-19 03:38:30] ============================================================
+[2026-02-19 03:38:30] OVERNIGHT LEAD GEN — Starting
+[2026-02-19 03:38:30] Niches: 6, Cities: 20
+[2026-02-19 03:38:30] ============================================================
+[2026-02-19 03:38:30] 
+🔍 Starting: Public adjuster (target: 150)
+[2026-02-19 03:38:30]   Searching: Public adjuster near Royse City, TX (limit 12)
+[2026-02-19 03:38:32]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:38:37]   Searching: Public adjuster near Rockwall, TX (limit 12)
+[2026-02-19 03:38:38]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:38:43]   Searching: Public adjuster near Garland, TX (limit 12)
+[2026-02-19 03:38:43]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:38:48]   Searching: Public adjuster near Mesquite, TX (limit 12)
+[2026-02-19 03:38:49]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:38:54]   Searching: Public adjuster near Greenville, TX (limit 12)
+[2026-02-19 03:38:55]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:39:00]   Searching: Public adjuster near Terrell, TX (limit 12)
+[2026-02-19 03:39:01]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:39:06]   Searching: Public adjuster near Forney, TX (limit 12)
+[2026-02-19 03:39:06]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:39:11]   Searching: Public adjuster near Heath, TX (limit 12)
+[2026-02-19 03:39:12]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:39:17]   Searching: Public adjuster near Rowlett, TX (limit 12)
+[2026-02-19 03:39:18]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:39:23]   Searching: Public adjuster near Wylie, TX (limit 12)
+[2026-02-19 03:39:23]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:39:28]   Searching: Public adjuster near Sachse, TX (limit 12)
+[2026-02-19 03:39:29]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:39:34]   Searching: Public adjuster near Murphy, TX (limit 12)
+[2026-02-19 03:39:35]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:39:40]   Searching: Public adjuster near Fate, TX (limit 12)
+[2026-02-19 03:39:40]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:39:45]   Searching: Public adjuster near Caddo Mills, TX (limit 12)
+[2026-02-19 03:39:46]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:39:51]   Searching: Public adjuster near Quinlan, TX (limit 12)
+[2026-02-19 03:39:52]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:39:57]   Searching: Public adjuster near Commerce, TX (limit 12)
+[2026-02-19 03:39:58]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:40:03]   Searching: Public adjuster near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:40:04]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:40:09]   Searching: Public adjuster near Tyler, TX (limit 12)
+[2026-02-19 03:40:09]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:40:14]   Searching: Public adjuster near Canton, TX (limit 12)
+[2026-02-19 03:40:15]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:40:20]   Searching: Public adjuster near Kaufman, TX (limit 12)
+[2026-02-19 03:40:21]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:40:26]   No results for Public adjuster — skipping
+[2026-02-19 03:40:26]   Subtotal so far: 0 leads
+[2026-02-19 03:40:31] 
+🔍 Starting: Estate attorney (target: 150)
+[2026-02-19 03:40:31]   Searching: Estate attorney near Royse City, TX (limit 12)
+[2026-02-19 03:40:31]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:40:36]   Searching: Estate attorney near Rockwall, TX (limit 12)
+[2026-02-19 03:40:37]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:40:42]   Searching: Estate attorney near Garland, TX (limit 12)
+[2026-02-19 03:40:43]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:40:48]   Searching: Estate attorney near Mesquite, TX (limit 12)
+[2026-02-19 03:40:48]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:40:53]   Searching: Estate attorney near Greenville, TX (limit 12)
+[2026-02-19 03:40:54]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:40:59]   Searching: Estate attorney near Terrell, TX (limit 12)
+[2026-02-19 03:40:59]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:41:04]   Searching: Estate attorney near Forney, TX (limit 12)
+[2026-02-19 03:41:05]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:41:10]   Searching: Estate attorney near Heath, TX (limit 12)
+[2026-02-19 03:41:11]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:41:16]   Searching: Estate attorney near Rowlett, TX (limit 12)
+[2026-02-19 03:41:16]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:41:21]   Searching: Estate attorney near Wylie, TX (limit 12)
+[2026-02-19 03:41:22]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:41:27]   Searching: Estate attorney near Sachse, TX (limit 12)
+[2026-02-19 03:41:28]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:41:33]   Searching: Estate attorney near Murphy, TX (limit 12)
+[2026-02-19 03:41:33]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:41:38]   Searching: Estate attorney near Fate, TX (limit 12)
+[2026-02-19 03:41:39]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:41:44]   Searching: Estate attorney near Caddo Mills, TX (limit 12)
+[2026-02-19 03:41:45]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:41:50]   Searching: Estate attorney near Quinlan, TX (limit 12)
+[2026-02-19 03:41:51]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:41:56]   Searching: Estate attorney near Commerce, TX (limit 12)
+[2026-02-19 03:41:57]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:42:02]   Searching: Estate attorney near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:42:02]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:42:07]   Searching: Estate attorney near Tyler, TX (limit 12)
+[2026-02-19 03:42:08]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:42:13]   Searching: Estate attorney near Canton, TX (limit 12)
+[2026-02-19 03:42:14]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:42:19]   Searching: Estate attorney near Kaufman, TX (limit 12)
+[2026-02-19 03:42:19]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:42:24]   No results for Estate attorney — skipping
+[2026-02-19 03:42:24]   Subtotal so far: 0 leads
+[2026-02-19 03:42:29] 
+🔍 Starting: Title company (target: 150)
+[2026-02-19 03:42:29]   Searching: Title company near Royse City, TX (limit 12)
+[2026-02-19 03:42:30]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:42:35]   Searching: Title company near Rockwall, TX (limit 12)
+[2026-02-19 03:42:36]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:42:41]   Searching: Title company near Garland, TX (limit 12)
+[2026-02-19 03:42:41]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:42:46]   Searching: Title company near Mesquite, TX (limit 12)
+[2026-02-19 03:42:47]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:42:52]   Searching: Title company near Greenville, TX (limit 12)
+[2026-02-19 03:42:53]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:42:58]   Searching: Title company near Terrell, TX (limit 12)
+[2026-02-19 03:42:58]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:43:03]   Searching: Title company near Forney, TX (limit 12)
+[2026-02-19 03:43:04]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:43:09]   Searching: Title company near Heath, TX (limit 12)
+[2026-02-19 03:43:10]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:43:15]   Searching: Title company near Rowlett, TX (limit 12)
+[2026-02-19 03:43:15]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:43:20]   Searching: Title company near Wylie, TX (limit 12)
+[2026-02-19 03:43:21]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:43:26]   Searching: Title company near Sachse, TX (limit 12)
+[2026-02-19 03:43:27]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:43:32]   Searching: Title company near Murphy, TX (limit 12)
+[2026-02-19 03:43:32]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:43:37]   Searching: Title company near Fate, TX (limit 12)
+[2026-02-19 03:43:38]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:43:43]   Searching: Title company near Caddo Mills, TX (limit 12)
+[2026-02-19 03:43:44]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:43:49]   Searching: Title company near Quinlan, TX (limit 12)
+[2026-02-19 03:43:49]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:43:54]   Searching: Title company near Commerce, TX (limit 12)
+[2026-02-19 03:43:55]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:44:00]   Searching: Title company near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:44:01]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:44:06]   Searching: Title company near Tyler, TX (limit 12)
+[2026-02-19 03:44:06]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:44:11]   Searching: Title company near Canton, TX (limit 12)
+[2026-02-19 03:44:12]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:44:17]   Searching: Title company near Kaufman, TX (limit 12)
+[2026-02-19 03:44:18]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:44:23]   No results for Title company — skipping
+[2026-02-19 03:44:23]   Subtotal so far: 0 leads
+[2026-02-19 03:44:28] 
+🔍 Starting: Artificial turf installer (target: 150)
+[2026-02-19 03:44:28]   Searching: Artificial turf installer near Royse City, TX (limit 12)
+[2026-02-19 03:44:28]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:44:33]   Searching: Artificial turf installer near Rockwall, TX (limit 12)
+[2026-02-19 03:44:34]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:44:39]   Searching: Artificial turf installer near Garland, TX (limit 12)
+[2026-02-19 03:44:40]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:44:45]   Searching: Artificial turf installer near Mesquite, TX (limit 12)
+[2026-02-19 03:44:45]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:44:50]   Searching: Artificial turf installer near Greenville, TX (limit 12)
+[2026-02-19 03:44:51]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:44:56]   Searching: Artificial turf installer near Terrell, TX (limit 12)
+[2026-02-19 03:44:57]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:45:02]   Searching: Artificial turf installer near Forney, TX (limit 12)
+[2026-02-19 03:45:03]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:45:08]   Searching: Artificial turf installer near Heath, TX (limit 12)
+[2026-02-19 03:45:08]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:45:13]   Searching: Artificial turf installer near Rowlett, TX (limit 12)
+[2026-02-19 03:45:14]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:45:19]   Searching: Artificial turf installer near Wylie, TX (limit 12)
+[2026-02-19 03:45:20]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:45:25]   Searching: Artificial turf installer near Sachse, TX (limit 12)
+[2026-02-19 03:45:25]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:45:30]   Searching: Artificial turf installer near Murphy, TX (limit 12)
+[2026-02-19 03:45:31]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:45:36]   Searching: Artificial turf installer near Fate, TX (limit 12)
+[2026-02-19 03:45:36]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:45:41]   Searching: Artificial turf installer near Caddo Mills, TX (limit 12)
+[2026-02-19 03:45:42]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:45:47]   Searching: Artificial turf installer near Quinlan, TX (limit 12)
+[2026-02-19 03:45:48]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:45:53]   Searching: Artificial turf installer near Commerce, TX (limit 12)
+[2026-02-19 03:45:53]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:45:58]   Searching: Artificial turf installer near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:45:59]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:46:04]   Searching: Artificial turf installer near Tyler, TX (limit 12)
+[2026-02-19 03:46:05]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:46:10]   Searching: Artificial turf installer near Canton, TX (limit 12)
+[2026-02-19 03:46:10]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:46:15]   Searching: Artificial turf installer near Kaufman, TX (limit 12)
+[2026-02-19 03:46:16]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:46:21]   No results for Artificial turf installer — skipping
+[2026-02-19 03:46:21]   Subtotal so far: 0 leads
+[2026-02-19 03:46:26] 
+🔍 Starting: Fence contractor (target: 200)
+[2026-02-19 03:46:26]   Searching: Fence contractor near Royse City, TX (limit 15)
+[2026-02-19 03:46:27]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:46:32]   Searching: Fence contractor near Rockwall, TX (limit 15)
+[2026-02-19 03:46:32]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:46:37]   Searching: Fence contractor near Garland, TX (limit 15)
+[2026-02-19 03:46:38]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:46:43]   Searching: Fence contractor near Mesquite, TX (limit 15)
+[2026-02-19 03:46:43]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:46:49]   Searching: Fence contractor near Greenville, TX (limit 15)
+[2026-02-19 03:46:49]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:46:54]   Searching: Fence contractor near Terrell, TX (limit 15)
+[2026-02-19 03:46:55]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:47:00]   Searching: Fence contractor near Forney, TX (limit 15)
+[2026-02-19 03:47:01]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:47:06]   Searching: Fence contractor near Heath, TX (limit 15)
+[2026-02-19 03:47:06]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:47:11]   Searching: Fence contractor near Rowlett, TX (limit 15)
+[2026-02-19 03:47:12]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:47:17]   Searching: Fence contractor near Wylie, TX (limit 15)
+[2026-02-19 03:47:18]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:47:23]   Searching: Fence contractor near Sachse, TX (limit 15)
+[2026-02-19 03:47:23]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:47:28]   Searching: Fence contractor near Murphy, TX (limit 15)
+[2026-02-19 03:47:29]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:47:34]   Searching: Fence contractor near Fate, TX (limit 15)
+[2026-02-19 03:47:34]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:47:39]   Searching: Fence contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 03:47:40]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:47:45]   Searching: Fence contractor near Quinlan, TX (limit 15)
+[2026-02-19 03:47:46]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:47:51]   Searching: Fence contractor near Commerce, TX (limit 15)
+[2026-02-19 03:47:51]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:47:56]   Searching: Fence contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:47:57]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:48:02]   Searching: Fence contractor near Tyler, TX (limit 15)
+[2026-02-19 03:43:15]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:43:20]   Searching: Title company near Wylie, TX (limit 12)
+[2026-02-19 03:43:21]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:43:26]   Searching: Title company near Sachse, TX (limit 12)
+[2026-02-19 03:43:27]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:43:32]   Searching: Title company near Murphy, TX (limit 12)
+[2026-02-19 03:43:32]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:43:37]   Searching: Title company near Fate, TX (limit 12)
+[2026-02-19 03:43:38]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:43:43]   Searching: Title company near Caddo Mills, TX (limit 12)
+[2026-02-19 03:43:44]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:43:49]   Searching: Title company near Quinlan, TX (limit 12)
+[2026-02-19 03:43:49]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:43:54]   Searching: Title company near Commerce, TX (limit 12)
+[2026-02-19 03:43:55]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:44:00]   Searching: Title company near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:44:01]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:44:06]   Searching: Title company near Tyler, TX (limit 12)
+[2026-02-19 03:44:06]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:44:11]   Searching: Title company near Canton, TX (limit 12)
+[2026-02-19 03:44:12]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:44:17]   Searching: Title company near Kaufman, TX (limit 12)
+[2026-02-19 03:44:18]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:44:23]   No results for Title company — skipping
+[2026-02-19 03:44:23]   Subtotal so far: 0 leads
+[2026-02-19 03:44:28] 
+🔍 Starting: Artificial turf installer (target: 150)
+[2026-02-19 03:44:28]   Searching: Artificial turf installer near Royse City, TX (limit 12)
+[2026-02-19 03:44:28]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:44:33]   Searching: Artificial turf installer near Rockwall, TX (limit 12)
+[2026-02-19 03:44:34]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:44:39]   Searching: Artificial turf installer near Garland, TX (limit 12)
+[2026-02-19 03:44:40]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:44:45]   Searching: Artificial turf installer near Mesquite, TX (limit 12)
+[2026-02-19 03:44:45]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:44:50]   Searching: Artificial turf installer near Greenville, TX (limit 12)
+[2026-02-19 03:44:51]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:44:56]   Searching: Artificial turf installer near Terrell, TX (limit 12)
+[2026-02-19 03:44:57]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:45:02]   Searching: Artificial turf installer near Forney, TX (limit 12)
+[2026-02-19 03:45:03]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:45:08]   Searching: Artificial turf installer near Heath, TX (limit 12)
+[2026-02-19 03:45:08]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:45:13]   Searching: Artificial turf installer near Rowlett, TX (limit 12)
+[2026-02-19 03:45:14]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:45:19]   Searching: Artificial turf installer near Wylie, TX (limit 12)
+[2026-02-19 03:45:20]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:45:25]   Searching: Artificial turf installer near Sachse, TX (limit 12)
+[2026-02-19 03:45:25]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:45:30]   Searching: Artificial turf installer near Murphy, TX (limit 12)
+[2026-02-19 03:45:31]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:45:36]   Searching: Artificial turf installer near Fate, TX (limit 12)
+[2026-02-19 03:45:36]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:45:41]   Searching: Artificial turf installer near Caddo Mills, TX (limit 12)
+[2026-02-19 03:45:42]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:45:47]   Searching: Artificial turf installer near Quinlan, TX (limit 12)
+[2026-02-19 03:45:48]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:45:53]   Searching: Artificial turf installer near Commerce, TX (limit 12)
+[2026-02-19 03:45:53]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:45:58]   Searching: Artificial turf installer near Sulphur Springs, TX (limit 12)
+[2026-02-19 03:45:59]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:46:04]   Searching: Artificial turf installer near Tyler, TX (limit 12)
+[2026-02-19 03:46:05]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:46:10]   Searching: Artificial turf installer near Canton, TX (limit 12)
+[2026-02-19 03:46:10]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:46:15]   Searching: Artificial turf installer near Kaufman, TX (limit 12)
+[2026-02-19 03:46:16]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:46:21]   No results for Artificial turf installer — skipping
+[2026-02-19 03:46:21]   Subtotal so far: 0 leads
+[2026-02-19 03:46:26] 
+🔍 Starting: Fence contractor (target: 200)
+[2026-02-19 03:46:26]   Searching: Fence contractor near Royse City, TX (limit 15)
+[2026-02-19 03:46:27]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:46:32]   Searching: Fence contractor near Rockwall, TX (limit 15)
+[2026-02-19 03:46:32]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:46:37]   Searching: Fence contractor near Garland, TX (limit 15)
+[2026-02-19 03:46:38]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:46:43]   Searching: Fence contractor near Mesquite, TX (limit 15)
+[2026-02-19 03:46:43]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:46:49]   Searching: Fence contractor near Greenville, TX (limit 15)
+[2026-02-19 03:46:49]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:46:54]   Searching: Fence contractor near Terrell, TX (limit 15)
+[2026-02-19 03:46:55]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:47:00]   Searching: Fence contractor near Forney, TX (limit 15)
+[2026-02-19 03:47:01]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:47:06]   Searching: Fence contractor near Heath, TX (limit 15)
+[2026-02-19 03:47:06]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:47:11]   Searching: Fence contractor near Rowlett, TX (limit 15)
+[2026-02-19 03:47:12]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:47:17]   Searching: Fence contractor near Wylie, TX (limit 15)
+[2026-02-19 03:47:18]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:47:23]   Searching: Fence contractor near Sachse, TX (limit 15)
+[2026-02-19 03:47:23]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:47:28]   Searching: Fence contractor near Murphy, TX (limit 15)
+[2026-02-19 03:47:29]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:47:34]   Searching: Fence contractor near Fate, TX (limit 15)
+[2026-02-19 03:47:34]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:47:39]   Searching: Fence contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 03:47:40]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:47:45]   Searching: Fence contractor near Quinlan, TX (limit 15)
+[2026-02-19 03:47:46]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:47:51]   Searching: Fence contractor near Commerce, TX (limit 15)
+[2026-02-19 03:47:51]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:47:56]   Searching: Fence contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:47:57]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:48:02]   Searching: Fence contractor near Tyler, TX (limit 15)
+[2026-02-19 03:48:03]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:48:08]   Searching: Fence contractor near Canton, TX (limit 15)
+[2026-02-19 03:48:09]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:48:14]   Searching: Fence contractor near Kaufman, TX (limit 15)
+[2026-02-19 03:48:14]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:48:19]   No results for Fence contractor — skipping
+[2026-02-19 03:48:19]   Subtotal so far: 0 leads
+[2026-02-19 03:48:24] 
+🔍 Starting: Concrete contractor (target: 200)
+[2026-02-19 03:48:24]   Searching: Concrete contractor near Royse City, TX (limit 15)
+[2026-02-19 03:48:25]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:48:30]   Searching: Concrete contractor near Rockwall, TX (limit 15)
+[2026-02-19 03:48:31]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:48:36]   Searching: Concrete contractor near Garland, TX (limit 15)
+[2026-02-19 03:48:36]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:48:41]   Searching: Concrete contractor near Mesquite, TX (limit 15)
+[2026-02-19 03:48:42]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:48:47]   Searching: Concrete contractor near Greenville, TX (limit 15)
+[2026-02-19 03:48:48]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:48:53]   Searching: Concrete contractor near Terrell, TX (limit 15)
+[2026-02-19 03:48:53]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:48:58]   Searching: Concrete contractor near Forney, TX (limit 15)
+[2026-02-19 03:48:59]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:49:04]   Searching: Concrete contractor near Heath, TX (limit 15)
+[2026-02-19 03:49:05]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:49:10]   Searching: Concrete contractor near Rowlett, TX (limit 15)
+[2026-02-19 03:49:10]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:49:15]   Searching: Concrete contractor near Wylie, TX (limit 15)
+[2026-02-19 03:49:16]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:49:21]   Searching: Concrete contractor near Sachse, TX (limit 15)
+[2026-02-19 03:49:22]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:49:27]   Searching: Concrete contractor near Murphy, TX (limit 15)
+[2026-02-19 03:49:27]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:49:32]   Searching: Concrete contractor near Fate, TX (limit 15)
+[2026-02-19 03:49:33]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:49:38]   Searching: Concrete contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 03:49:39]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:49:44]   Searching: Concrete contractor near Quinlan, TX (limit 15)
+[2026-02-19 03:49:44]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:49:49]   Searching: Concrete contractor near Commerce, TX (limit 15)
+[2026-02-19 03:49:50]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:49:55]   Searching: Concrete contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:49:55]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:50:00]   Searching: Concrete contractor near Tyler, TX (limit 15)
+[2026-02-19 03:50:01]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:50:06]   Searching: Concrete contractor near Canton, TX (limit 15)
+[2026-02-19 03:50:07]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:50:12]   Searching: Concrete contractor near Kaufman, TX (limit 15)
+[2026-02-19 03:50:12]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:50:17]   No results for Concrete contractor — skipping
+[2026-02-19 03:50:17]   Subtotal so far: 0 leads
+[2026-02-19 03:50:22] 
+============================================================
+[2026-02-19 03:50:22] DONE — Total new leads: 0
+[2026-02-19 03:50:22] ============================================================
+[2026-02-19 03:48:03]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:48:08]   Searching: Fence contractor near Canton, TX (limit 15)
+[2026-02-19 03:48:09]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:48:14]   Searching: Fence contractor near Kaufman, TX (limit 15)
+[2026-02-19 03:48:14]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:48:19]   No results for Fence contractor — skipping
+[2026-02-19 03:48:19]   Subtotal so far: 0 leads
+[2026-02-19 03:48:24] 
+🔍 Starting: Concrete contractor (target: 200)
+[2026-02-19 03:48:24]   Searching: Concrete contractor near Royse City, TX (limit 15)
+[2026-02-19 03:48:25]     ERROR on Royse City, TX: Response status code: 402
+[2026-02-19 03:48:30]   Searching: Concrete contractor near Rockwall, TX (limit 15)
+[2026-02-19 03:48:31]     ERROR on Rockwall, TX: Response status code: 402
+[2026-02-19 03:48:36]   Searching: Concrete contractor near Garland, TX (limit 15)
+[2026-02-19 03:48:36]     ERROR on Garland, TX: Response status code: 402
+[2026-02-19 03:48:41]   Searching: Concrete contractor near Mesquite, TX (limit 15)
+[2026-02-19 03:48:42]     ERROR on Mesquite, TX: Response status code: 402
+[2026-02-19 03:48:47]   Searching: Concrete contractor near Greenville, TX (limit 15)
+[2026-02-19 03:48:48]     ERROR on Greenville, TX: Response status code: 402
+[2026-02-19 03:48:53]   Searching: Concrete contractor near Terrell, TX (limit 15)
+[2026-02-19 03:48:53]     ERROR on Terrell, TX: Response status code: 402
+[2026-02-19 03:48:58]   Searching: Concrete contractor near Forney, TX (limit 15)
+[2026-02-19 03:48:59]     ERROR on Forney, TX: Response status code: 402
+[2026-02-19 03:49:04]   Searching: Concrete contractor near Heath, TX (limit 15)
+[2026-02-19 03:49:05]     ERROR on Heath, TX: Response status code: 402
+[2026-02-19 03:49:10]   Searching: Concrete contractor near Rowlett, TX (limit 15)
+[2026-02-19 03:49:10]     ERROR on Rowlett, TX: Response status code: 402
+[2026-02-19 03:49:15]   Searching: Concrete contractor near Wylie, TX (limit 15)
+[2026-02-19 03:49:16]     ERROR on Wylie, TX: Response status code: 402
+[2026-02-19 03:49:21]   Searching: Concrete contractor near Sachse, TX (limit 15)
+[2026-02-19 03:49:22]     ERROR on Sachse, TX: Response status code: 402
+[2026-02-19 03:49:27]   Searching: Concrete contractor near Murphy, TX (limit 15)
+[2026-02-19 03:49:27]     ERROR on Murphy, TX: Response status code: 402
+[2026-02-19 03:49:32]   Searching: Concrete contractor near Fate, TX (limit 15)
+[2026-02-19 03:49:33]     ERROR on Fate, TX: Response status code: 402
+[2026-02-19 03:49:38]   Searching: Concrete contractor near Caddo Mills, TX (limit 15)
+[2026-02-19 03:49:39]     ERROR on Caddo Mills, TX: Response status code: 402
+[2026-02-19 03:49:44]   Searching: Concrete contractor near Quinlan, TX (limit 15)
+[2026-02-19 03:49:44]     ERROR on Quinlan, TX: Response status code: 402
+[2026-02-19 03:49:49]   Searching: Concrete contractor near Commerce, TX (limit 15)
+[2026-02-19 03:49:50]     ERROR on Commerce, TX: Response status code: 402
+[2026-02-19 03:49:55]   Searching: Concrete contractor near Sulphur Springs, TX (limit 15)
+[2026-02-19 03:49:55]     ERROR on Sulphur Springs, TX: Response status code: 402
+[2026-02-19 03:50:00]   Searching: Concrete contractor near Tyler, TX (limit 15)
+[2026-02-19 03:50:01]     ERROR on Tyler, TX: Response status code: 402
+[2026-02-19 03:50:06]   Searching: Concrete contractor near Canton, TX (limit 15)
+[2026-02-19 03:50:07]     ERROR on Canton, TX: Response status code: 402
+[2026-02-19 03:50:12]   Searching: Concrete contractor near Kaufman, TX (limit 15)
+[2026-02-19 03:50:12]     ERROR on Kaufman, TX: Response status code: 402
+[2026-02-19 03:50:17]   No results for Concrete contractor — skipping
+[2026-02-19 03:50:17]   Subtotal so far: 0 leads
+[2026-02-19 03:50:22] 
+============================================================
+[2026-02-19 03:50:22] DONE — Total new leads: 0
+[2026-02-19 03:50:22] ============================================================
