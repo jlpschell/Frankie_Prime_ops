@@ -1,7 +1,7 @@
 # Product Requirements Document (PRD)
 # Human Led AI — Autonomous Agent Operations Platform
-**Version:** 1.0
-**Date:** February 21, 2026
+**Version:** 2.0
+**Date:** February 21, 2026 (Updated with Claude analysis feedback)
 **Author:** Jay Schell (CEO) + Frankie Prime (COO/AI)
 **Status:** Design Complete — Pre-Implementation
 
@@ -9,12 +9,17 @@
 
 ## 1. Executive Summary
 
-Build a multi-agent autonomous operations platform that generates revenue through three parallel channels:
-1. **Content Machine** — Daily AI news content for humanledai.net and social platforms
-2. **Fiverr/Upwork Gig Fulfillment** — AI-powered service delivery for freelance gigs
-3. **Auto-Prospecting** — Automated job discovery and proposal submission on freelance platforms
+Build a multi-agent autonomous operations platform that generates recurring revenue through a phased go-to-market strategy:
 
-The platform runs on two physical machines (Dell 5810 + Vivobook) coordinated through Supabase, managed by an AI orchestrator (Frankie Prime), with a human CEO (Jay Schell) as final approver on all outbound deliverables.
+**Phase 1 — Sandbox (Weeks 1-3):** Use Fiverr/Upwork gigs as live-fire testing to stress-test every agent. Mistakes cost $75 refunds, not $1,500/month clients walking away.
+
+**Phase 2 — Harden (Weeks 3-6):** Run the content machine for Human Led AI. Prove it works in production. Fix everything GUARD catches. Build a portfolio of real deliverables.
+
+**Phase 3 — Productize (Weeks 6+):** Sell the Content Machine as a monthly subscription to small businesses. Setup fee + managed service. Recurring revenue, not gig hustle.
+
+**Phase 4 — Platform (Month 3+):** Deploy client instances on Orgo.ai cloud computers. Each client gets their own isolated Content Machine. Scale to 20-50 clients.
+
+The platform runs on two physical machines (Dell 5810 + Vivobook) coordinated through Supabase, with Orgo.ai as the client deployment infrastructure. Managed by Frankie Prime (AI COO), with Jay Schell (CEO) as final approver.
 
 ---
 
@@ -148,7 +153,11 @@ JAY SCHELL (CEO)
 - **Daily (1 run):** ~$0.53
 - **Monthly:** ~$16
 
-### 5.2 Fiverr/Upwork Gig Fulfillment (PRIORITY 2)
+### 5.2 Fiverr/Upwork Sandbox — Live-Fire Testing (PRIORITY 2)
+
+**Purpose:** Stress-test agents on real orders where failure is cheap. NOT a long-term revenue channel — Fiverr takes 20%, it's a race to the bottom, and Jay's time managing revisions isn't scalable. This is the QA process for the real product.
+
+**Exit criteria:** Each agent has fulfilled 3+ real gigs with GUARD passing QA. Once proven, pivot to direct client subscriptions.
 
 #### Available Gigs
 | Gig | Agent | Model | AI Cost | Sell Price | Margin |
@@ -180,13 +189,53 @@ JAY SCHELL (CEO)
 
 #### PROSPECTOR Agent
 - **Scans:** Upwork and Fiverr for jobs matching our capabilities
-- **Filters:** Content writing, lead generation, SEO, social media, competitor research, video scripts
+- **Filters:** Content writing, lead generation, SEO, social media, competitor research, video scripts, email sequences/newsletters
 - **Scores:** Can we deliver? Is the pay worth it? (minimum $50/gig)
 - **Writes:** Custom proposal tailored to each job posting
-- **Phase 1:** Stages proposals for Jay's approval before submitting
-- **Phase 2:** Auto-submits proposals (with spending limits)
+- **ALWAYS Jay-approved before submission** — auto-apply has real platform ban risk. Fiverr and Upwork actively detect and ban automated proposal submission. Manual approval is permanent, not just Phase 1.
 - **Model:** Haiku for scanning, Sonnet for proposal writing
 - **Schedule:** Every 2 hours during business hours
+
+### 5.4 Productized Service — Content Machine as a Subscription (PRIORITY 1B)
+
+**This is the real business.** Everything else builds toward this.
+
+#### Service Tiers
+| Tier | What They Get | Setup Fee | Monthly | Margin |
+|------|--------------|-----------|---------|--------|
+| **Starter** | Daily social posts (2 platforms) + weekly blog | $500 | $300/mo | ~90% |
+| **Growth** | Daily posts (4 platforms) + daily blog + video scripts | $1,000 | $500/mo | ~92% |
+| **Full Stack** | Everything + competitor monitoring + lead gen + newsletter | $1,500 | $800/mo | ~93% |
+
+#### Delivery via Orgo.ai (Phase 4)
+- Each client gets isolated Orgo cloud computer ($2-4/mo per instance)
+- Content Machine deployed per client with their brand voice, niche, platforms
+- Client can optionally log in to approve content directly
+- Jay maintains all instances from Prime
+
+#### Revenue Projections — Subscription Model
+| Milestone | Clients | Avg Monthly | Revenue | AI + Orgo Cost | Net |
+|-----------|---------|-------------|---------|---------------|-----|
+| Month 2 | 3 | $400 | $1,200 | ~$50 | $1,150 |
+| Month 4 | 10 | $450 | $4,500 | ~$150 | $4,350 |
+| Month 6 | 20 | $500 | $10,000 | ~$300 | $9,700 |
+| Month 12 | 50 | $500 | $25,000 | ~$600 | $24,400 |
+
+#### Why This Beats Fiverr
+- **Recurring** — client pays every month, not per gig
+- **No platform fees** — direct relationship, no 20% Fiverr cut
+- **Scalable** — add clients without adding Jay's time (Orgo isolates each one)
+- **Higher value** — $500/mo subscription vs $75 one-off gig
+- **Portfolio proof** — "Here's what we produce for 20 businesses like yours"
+
+### 5.5 Additional Gig: Email Sequence Writer (identified gap)
+
+#### MAILER Agent
+- **Fiverr Gig:** "I will write a 5-email welcome/nurture sequence for your business"
+- **Model:** Sonnet (~$0.40/gig)
+- **Price:** $150 (basic 3 emails) / $250 (standard 5 emails) / $400 (premium 7 emails + A/B variants)
+- **High demand, easy to automate, strong margins**
+- **Can upsell to managed monthly newsletter as part of subscription tiers**
 
 ---
 
@@ -294,6 +343,13 @@ JAY SCHELL (CEO)
 - VC OpenClaw instance (needs reinstall/reconfigure on Vivobook)
 - Supabase task_queue table (needs to be created)
 
+### Phase 4: Orgo.ai Client Deployment 🚀
+- Orgo.ai account (free tier: 5 computers, $99/mo: 50 computers, $199/mo: 100 computers)
+- Deployment script: auto-provision client instance with Content Machine + brand config
+- Client onboarding flow: intake form → Jay configures → Orgo spins up → agents start
+- Monitoring dashboard: all client instances visible from Prime
+- SLA: content delivered daily by 7 AM client's timezone
+
 ### Future Enhancements 🔮
 - Auto-posting APIs (GHL social planner, Buffer, or direct platform APIs)
 - Remotion video generation from DIRECTOR scripts
@@ -306,24 +362,32 @@ JAY SCHELL (CEO)
 
 ## 10. Success Metrics
 
-### Month 1 (Launch)
-- [ ] Content machine running daily (auto, no intervention)
-- [ ] 3+ Fiverr gigs listed and active
-- [ ] First Fiverr revenue ($100+)
+### Phase 1: Sandbox (Weeks 1-3)
+- [ ] Content machine running daily on humanledai.net
+- [ ] 3+ Fiverr gig listings live
+- [ ] Each agent stress-tested on 3+ real gigs
+- [ ] GUARD catching real issues (proves QA works)
+- [ ] Failure log documenting what broke and how it was fixed
+
+### Phase 2: Harden (Weeks 3-6)
+- [ ] All agents passing GUARD QA consistently (90%+ first-pass approval)
 - [ ] humanledai.net blog has 30+ posts
 - [ ] Social accounts posting 5x/week minimum
+- [ ] Portfolio of 10+ real client deliverables
+- [ ] VC handling delegated tasks reliably
 
-### Month 3 (Growth)
-- [ ] 10+ Fiverr gigs fulfilled
-- [ ] $1,000+ monthly Fiverr/Upwork revenue
-- [ ] Content machine producing across all 6 platforms
-- [ ] PROSPECTOR finding 5+ viable gigs/week
-- [ ] VC handling 30%+ of task volume
+### Phase 3: Productize (Weeks 6-12)
+- [ ] First 3 subscription clients signed ($300-800/mo each)
+- [ ] $1,500+/month recurring revenue
+- [ ] Client onboarding takes <2 hours
+- [ ] Inbound leads from humanledai.net content
+- [ ] Email sequence service (MAILER) live and tested
 
-### Month 6 (Scale)
-- [ ] $3,000+/month from gig work
-- [ ] Auto-posting live (Phase 2)
-- [ ] Inbound leads from content (humanledai.net → GHL)
+### Phase 4: Platform (Month 3+)
+- [ ] Orgo.ai account active
+- [ ] 5+ client instances deployed
+- [ ] $5,000+/month recurring revenue
+- [ ] Auto-posting live (clients approve → system posts)
 - [ ] 50+ blog posts indexed in Google
 - [ ] Video content pipeline active (Remotion + ElevenLabs)
 
@@ -341,6 +405,8 @@ JAY SCHELL (CEO)
 | Brave Search API rate limit hit | Scout degraded | Medium | RSS feeds work without it. Rotate queries. Cache results. |
 | Client data leak | Legal liability | Low | Client data stays local. No Supabase storage of client briefs. .env for all keys. |
 | Jay becomes bottleneck (approval queue) | Delivery delays | High | Phase 2 auto-approve for repeat clients. GUARD pre-clears routine content. |
+| Agent concurrency collision | Missed deadlines | Medium | Priority queue in Supabase — content machine gets priority, lower-priority agents pause/queue automatically. Not just a hard cap. |
+| Fiverr/Upwork detects PROSPECTOR auto-apply | Account ban | High | PROSPECTOR NEVER auto-submits. Always Jay-approved. This is permanent policy, not just Phase 1. |
 | YouTube transcript API breaks | Scout degraded | Low | Fallback to web_fetch + browser automation. |
 | Supabase downtime | Coordination loss | Low | Local memory files as fallback. Both machines can operate independently. |
 
