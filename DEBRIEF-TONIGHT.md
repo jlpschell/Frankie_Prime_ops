@@ -23,8 +23,8 @@ Screens ARE built and coded properly. They just can't connect to Supabase becaus
 2. Add these 3 variables (all environments: Production, Preview, Development):
 
    - `NEXT_PUBLIC_SUPABASE_URL` = `https://jcwfpfjdaufyygwxvttx.supabase.co`
-   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA1ODcwNDksImV4cCI6MjA4NjE2MzA0OX0.vX8_61e6-AVUN200aTnfz3KOtlzfGSyF9x_-0bdqScA`
-   - `SUPABASE_SERVICE_ROLE_KEY` = `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74`
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = `[REDACTED]`
+   - `SUPABASE_SERVICE_ROLE_KEY` = `[REDACTED]`
 
 3. Save → go to Deployments → redeploy latest
 

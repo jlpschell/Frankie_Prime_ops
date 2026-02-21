@@ -19,12 +19,12 @@ Vercel doesn't have the Supabase credentials. The `.env.local` file exists local
 
 **Variable 2:**
 - Key: `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-- Value: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA1ODcwNDksImV4cCI6MjA4NjE2MzA0OX0.vX8_61e6-AVUN200aTnfz3KOtlzfGSyF9x_-0bdqScA`
+- Value: `[REDACTED]`
 - Environment: Production, Preview, Development (check all 3)
 
 **Variable 3:**
 - Key: `SUPABASE_SERVICE_ROLE_KEY`
-- Value: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74`
+- Value: `[REDACTED]`
 - Environment: Production, Preview, Development (check all 3)
 
 3. Click "Save"

@@ -143,7 +143,7 @@ The dashboard JS needs these tokens (already in the current code):
 PRIME_API = 'https://plotting.tail4c8a54.ts.net'
 PRIME_TOKEN = '[REDACTED - see .env]'
 VC_API = 'https://jasus-1.tail4c8a54.ts.net'
-VC_TOKEN = 'frankieHQ_vc_2026_x9k2m'
+VC_TOKEN = '[REDACTED]'
 ```
 
 ### GHL API for Dashboard Lead Stats

@@ -11,8 +11,8 @@
 
 ### Supabase (SHARED BRAIN — both MUST use)
 - SUPABASE_URL=https://jcwfpfjdaufyygwxvttx.supabase.co
-- SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA1ODcwNDksImV4cCI6MjA4NjE2MzA0OX0.vX8_61e6-AVUN200aTnfz3KOtlzfGSyF9x_-0bdqScA
-- SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74
+- SUPABASE_ANON_KEY=[REDACTED]
+- SUPABASE_SERVICE_ROLE_KEY=[REDACTED]
 
 ### Go High Level (Prime owns, VC read-only for dashboard)
 - GHL_API_KEY=[REDACTED - see .env]
@@ -26,12 +26,12 @@
 - Voice IDs: Eric=9T9vSqRrPPxIs5wpyZfK, Chris=iP95p4xoKVk53GoZ742B
 
 ### OpenAI (Both)
-- OPENAI_API_KEY=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
+- OPENAI_API_KEY=[REDACTED]
 
 ### Gemini (Both — 3 keys for rotation)
-- GEMINI_API_KEY=AIzaSyBucUyIMtwvPvR5DW58St_hdqbDfXgU2T4
-- GEMINI_API_KEY_FALLBACK=AIzaSyB4FAJ64r_zsNt0EWqPzk9CUjcuzbIBfZg
-- GEMINI_API_KEY_FLASH=AIzaSyDmXZGi5Cx_Z39VxZiq6ofeupOnJjH3Gng
+- GEMINI_API_KEY=[REDACTED - see .env]
+- GEMINI_API_KEY_FALLBACK=[REDACTED - see .env]
+- GEMINI_API_KEY_FLASH=[REDACTED - see .env]
 
 ### Google Workspace
 - Personal (jlpschell@gmail.com):
@@ -57,8 +57,8 @@
 
 ### Bridge API Tokens
 - Prime Bridge: [REDACTED - see .env] (port 3001)
-- VC Bridge: frankieHQ_vc_2026_x9k2m
-- Prime OpenClaw Hook: frankieHQ_prime_hook_2026
+- VC Bridge: [REDACTED]
+- Prime OpenClaw Hook: [REDACTED]
 
 ### Tailscale Endpoints
 - Prime: https://plotting.tail4c8a54.ts.net (100.97.30.40)

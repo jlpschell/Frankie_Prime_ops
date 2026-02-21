@@ -6,7 +6,7 @@ Add these two lines to your `.env` file:
 
 ```bash
 SUPABASE_URL=https://jcwfpfjdaufyygwxvttx.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74
+SUPABASE_SERVICE_ROLE_KEY=[REDACTED]
 ```
 
 ## Step 2: Get the sb-sync.sh script
@@ -15,8 +15,8 @@ Run this to download it from Supabase:
 
 ```bash
 curl -s "https://jcwfpfjdaufyygwxvttx.supabase.co/rest/v1/shared_files?file_path=eq.scripts/sb-sync.sh&select=content" \
-  -H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74" \
-  -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impjd2ZwZmpkYXVmeXlnd3h2dHR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDU4NzA0OSwiZXhwIjoyMDg2MTYzMDQ5fQ.hgslj4vngqBr950UrhG-2-5AaUNY1uvxOO9TcbHkB74" | python3 -c "import json,sys; print(json.load(sys.stdin)[0]['content'])" > ~/sb-sync.sh
+  -H "apikey: [REDACTED]" \
+  -H "Authorization: Bearer [REDACTED]" | python3 -c "import json,sys; print(json.load(sys.stdin)[0]['content'])" > ~/sb-sync.sh
 
 chmod +x ~/sb-sync.sh
 ```
