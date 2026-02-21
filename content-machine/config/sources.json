@@ -1,0 +1,37 @@
+{
+  "youtube_channels": [
+    "Matt Wolfe",
+    "AI Explained",
+    "Fireship",
+    "The AI Grip",
+    "All-In Podcast"
+  ],
+  "rss_feeds": [
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/"},
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
+    {"name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss"}
+  ],
+  "reddit_subs": [
+    "r/artificial",
+    "r/ChatGPT",
+    "r/LocalLLaMA",
+    "r/smallbusiness"
+  ],
+  "twitter_accounts": [
+    "@OpenAI",
+    "@AnthropicAI",
+    "@GoogleAI",
+    "@elaboratepod",
+    "@emaborsky"
+  ],
+  "search_queries": [
+    "AI business impact 2026",
+    "AI automation small business",
+    "AI tools contractors",
+    "AI regulation news",
+    "voice AI business",
+    "AI replacing jobs 2026"
+  ]
+}

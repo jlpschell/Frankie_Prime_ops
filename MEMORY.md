@@ -28,6 +28,15 @@
 - Key challenge: Reducing the "scariness factor" of AI for contractor prospects
 - Revenue model: Monthly automation subscriptions for contractors
 
+## MANDATORY: Check INVENTORY.md BEFORE Building or Installing ANYTHING
+**Location: /home/plotting1/.openclaw/workspace/INVENTORY.md**
+Before writing new code, installing new packages, or designing new tools:
+1. CHECK INVENTORY.md — it lists every package, script, service, and binary already available
+2. CHECK frankie-bot/src/library/ — built services (YouTube, Drive, Google Auth, etc.)
+3. CHECK frankie-bot/workspace/scripts/ — existing Python scripts
+4. If it already exists = USE IT. Do not rebuild. Do not redesign. Do not "find a better way."
+Rebuilding something that exists = VIOLATION. No exceptions.
+
 ## MANDATORY: Check .env BEFORE Asking Jay for ANY Key/Token/Credential
 **Location: /home/plotting1/.openclaw/.env AND /home/plotting1/frankie-bot/.env**
 Both files contain ALL API keys, tokens, and credentials. ALWAYS check these FIRST.
