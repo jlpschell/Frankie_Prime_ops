@@ -1,0 +1,207 @@
+{
+  "scrape_date": "2026-02-21",
+  "items": [
+    {
+      "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+      "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "snippet": "It also takes a lot of energy to train a human.",
+      "tags_suggested": [
+        "OpenAI",
+        "energy",
+        "AI infrastructure"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "Microsoft's new gaming CEO vows not to flood the ecosystem with endless AI slop",
+      "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+      "snippet": "Is Microsoft gaming division doubling down on AI?",
+      "tags_suggested": [
+        "Microsoft",
+        "gaming",
+        "AI content"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "Google VP warns that two types of AI startups may not survive",
+      "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+      "snippet": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+      "tags_suggested": [
+        "startups",
+        "Google",
+        "LLM wrappers",
+        "business strategy"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+      "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+      "snippet": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+      "tags_suggested": [
+        "fintech",
+        "funding",
+        "automation",
+        "accounting"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "AI's promise to indie filmmakers: Faster, cheaper, lonelier",
+      "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+      "snippet": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+      "tags_suggested": [
+        "AI video",
+        "content creation",
+        "Google Veo"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "snippet": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols.",
+      "tags_suggested": [
+        "policy",
+        "regulation",
+        "Anthropic"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "India Sarvam launches Indus AI chat app as competition heats up",
+      "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "snippet": "Sarvam Indus chat app is currently available in beta.",
+      "tags_suggested": [
+        "startups",
+        "India",
+        "chatbots"
+      ],
+      "source": "techcrunch"
+    },
+    {
+      "title": "Amazon blames human employees for an AI coding agent mistake",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+      "snippet": "Amazon Web Services suffered a 13-hour outage in December as a result of its AI coding assistant Kiro actions. Kiro chose to delete and recreate the environment it was working on, causing the outage.",
+      "tags_suggested": [
+        "Amazon",
+        "AI agents",
+        "coding",
+        "outages",
+        "enterprise risk"
+      ],
+      "source": "theverge"
+    },
+    {
+      "title": "OpenAI first ChatGPT gadget could be a smart speaker with a camera",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+      "snippet": "OpenAI first hardware release will be a smart speaker with a camera costing between $200 and $300. The device will recognize items on a nearby table and conversations people are having.",
+      "tags_suggested": [
+        "OpenAI",
+        "hardware",
+        "smart home",
+        "product launch"
+      ],
+      "source": "theverge"
+    },
+    {
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "snippet": "Trump administration tossed out Biden-era restrictions on mercury and toxic pollutants from power plants, repealing Mercury and Air Toxics Standards just as AI data center electricity demand ticks up.",
+      "tags_suggested": [
+        "energy",
+        "policy",
+        "data centers",
+        "regulation"
+      ],
+      "source": "theverge"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "snippet": "Railway, a cloud platform with 2M developers, raised $100M Series B. Deployments in under one second, 10x developer velocity, up to 65% cost savings vs traditional cloud. 31% of Fortune 500 use it.",
+      "tags_suggested": [
+        "cloud",
+        "infrastructure",
+        "funding",
+        "developer tools",
+        "startups"
+      ],
+      "source": "venturebeat"
+    },
+    {
+      "title": "Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload",
+      "url": "https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/",
+      "snippet": "His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.",
+      "tags_suggested": [
+        "Google",
+        "NotebookLM",
+        "censorship",
+        "legal"
+      ],
+      "source": "reddit_r_artificial"
+    },
+    {
+      "title": "Fake faces generated by AI are now too good to be true, researchers warn",
+      "url": "https://reddit.com/r/artificial/comments/1rb0619/",
+      "snippet": "AI-generated fake faces have become so realistic that researchers warn they are now too good to be true, raising concerns about deepfakes and identity fraud.",
+      "tags_suggested": [
+        "deepfakes",
+        "security",
+        "trust"
+      ],
+      "source": "reddit_r_artificial"
+    },
+    {
+      "title": "ChatGPT is a closet narcissist",
+      "url": "https://reddit.com/r/ChatGPT/comments/1ramv84/",
+      "snippet": "Validates and promotes every delulu. Discussion about ChatGPT sycophancy problem and its implications for business users relying on AI for honest feedback.",
+      "tags_suggested": [
+        "ChatGPT",
+        "sycophancy",
+        "AI behavior",
+        "user experience"
+      ],
+      "source": "reddit_r_ChatGPT"
+    },
+    {
+      "title": "Which Black Mirror episode is this?",
+      "url": "https://reddit.com/r/ChatGPT/comments/1radwgl/",
+      "snippet": "Community discussion comparing current AI developments to dystopian Black Mirror scenarios, reflecting public sentiment on AI advancement pace.",
+      "tags_suggested": [
+        "public sentiment",
+        "AI ethics",
+        "culture"
+      ],
+      "source": "reddit_r_ChatGPT"
+    },
+    {
+      "title": "xAI engineers pulled off projects to make Grok answer Baldur Gate questions",
+      "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+      "snippet": "A Business Insider report reveals high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur Gate.",
+      "source": "techcrunch",
+      "tags_suggested": [
+        "xAI",
+        "Grok",
+        "Elon Musk",
+        "priorities"
+      ]
+    },
+    {
+      "title": "Creator economy ad revenue problem and India AI ambitions",
+      "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "snippet": "The creator economy is evolving fast, ad revenue alone is not cutting it. YouTubers are launching product lines, acquiring startups, building business empires. MrBeast bought fintech startup Step.",
+      "source": "techcrunch",
+      "tags_suggested": [
+        "creator economy",
+        "business models",
+        "India AI"
+      ]
+    }
+  ],
+  "notes": {
+    "youtube_transcripts": "SKIPPED - YouTube search did not render video IDs via web_fetch (requires JS), and Brave Search API key not configured. Recommend adding BRAVE_API_KEY for future runs.",
+    "total_items": 17
+  }
+}

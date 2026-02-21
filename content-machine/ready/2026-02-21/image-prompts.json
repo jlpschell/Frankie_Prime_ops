@@ -1,0 +1,26 @@
+{
+  "date": "2026-02-21",
+  "style_guide": "Blue tones dominant, modern, clean, professional. Deep navy backgrounds with glowing blue accents.",
+  "prompts": {
+    "blog": {
+      "description": "Hero image for daily briefing and deep dive blog posts",
+      "prompt": "A modern office desk viewed from above with a laptop displaying financial charts, a coffee cup, and scattered receipts being organized by translucent blue AI holographic hands. Deep navy blue background with soft blue ambient lighting. Clean, minimalist, professional. No text. 16:9 aspect ratio."
+    },
+    "linkedin": {
+      "description": "Professional thought leadership image",
+      "prompt": "A business professional standing at a crossroads between a traditional filing cabinet and a glowing blue AI interface. Corporate modern aesthetic with deep blue tones and clean lines. Subtle light rays in blue tones. Professional and aspirational mood. Square format, no text."
+    },
+    "twitter": {
+      "description": "Eye-catching thread opener image",
+      "prompt": "Five glowing blue news headline cards floating in a dark navy space, slightly overlapping like a card spread. Each card has a subtle icon: a lock, a dollar sign, a warning triangle, a speech bubble, and a speaker. Modern, clean design with blue holographic glow effects. 16:9 aspect ratio, no text."
+    },
+    "instagram": {
+      "description": "Scroll-stopping visual for feed post",
+      "prompt": "A cracked smartphone screen showing a locked account icon, set against a deep blue gradient background with subtle circuit board patterns. Modern and clean with slightly dramatic lighting. Blue tones dominate with white and dark navy accents. Text overlay space on left third. Square 1:1 format."
+    },
+    "facebook": {
+      "description": "Engaging social share image",
+      "prompt": "A small business storefront with a glowing blue AI shield hovering protectively in front of it. Warm interior light contrasts with cool blue AI elements outside. Modern, approachable, clean design. Deep blue sky with subtle digital patterns. 1200x630 landscape format, no text."
+    }
+  }
+}
