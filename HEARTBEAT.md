@@ -23,6 +23,10 @@
 - Run: `grep -E "Status:|Updated:" ACTIVE-TASKS.md | head -20`
   - Scan for "in progress" + old timestamps (simple date math)
   - Flag if >24h idle
+- **If ACTIVE-TASKS.md is stale** (tasks completed but not updated):
+  - Read latest daily notes to identify what changed
+  - UPDATE ACTIVE-TASKS.md immediately — do NOT just flag it
+  - An alert without action is noise. Fix it or escalate it.
   
 **DO NOT read full ACTIVE-TASKS.md. Grep for status lines only.**
 

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "profiles": {
+    "nvidia:default": {
+      "type": "token",
+      "provider": "nvidia",
+      "token": "${NVIDIA_API_KEY}"
+    },
+    "google:default": {
+      "type": "token",
+      "provider": "google",
+      "token": "AIzaSyCUTyeDzvRsogOW_bTE8JzIXuIGllOo_64"
+    },
+    "openai_subscription:default": {
+      "type": "subscription",
+      "provider": "openai_subscription"
+    },
+    "groq:default": {
+      "type": "token",
+      "provider": "groq",
+      "token": "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"
+    },
+    "ollama:default": {
+      "type": "none",
+      "provider": "ollama"
+    },
+    "anthropic:default": {
+      "type": "token",
+      "provider": "anthropic",
+      "token": "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"
+    }
+  },
+  "lastGood": {
+    "nvidia": "nvidia:default",
+    "google": "google:default",
+    "openai_subscription": "openai_subscription:default",
+    "groq": "groq:default", 
+    "ollama": "ollama:default",
+    "anthropic": "anthropic:default"
+  },
+  "usageStats": {
+    "anthropic:default": {
+      "lastUsed": 1771792792559,
+      "errorCount": 0,
+      "lastFailureAt": 1771694035628
+    }
+  }
+}

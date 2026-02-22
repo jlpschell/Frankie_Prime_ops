@@ -1,0 +1,110 @@
+#!/bin/bash
+
+# OpenClaw Docs CLI
+# Easy access to local OpenClaw documentation
+
+SCRIPT_DIR="$(dirname "$0")"
+DOCS_DIR="$SCRIPT_DIR/docs-openclaw"
+
+if [ ! -d "$DOCS_DIR" ]; then
+    echo "❌ Docs not downloaded yet. Run: ./setup-docs-cron.sh"
+    exit 1
+fi
+
+show_help() {
+    cat << EOF
+🦞 OpenClaw Docs CLI
+
+USAGE:
+  ./openclaw-docs search "query"     Search all docs for text
+  ./openclaw-docs browse            Show category index  
+  ./openclaw-docs show path/file    Show specific doc
+  ./openclaw-docs update           Force update docs
+  ./openclaw-docs stats            Show docs statistics
+
+EXAMPLES:
+  ./openclaw-docs search "telegram bot"
+  ./openclaw-docs search "model config" 
+  ./openclaw-docs show cli/models.md
+  ./openclaw-docs browse
+  
+QUICK ACCESS:
+  ./openclaw-docs search "gateway"     Gateway configuration
+  ./openclaw-docs search "telegram"   Telegram setup
+  ./openclaw-docs search "models"     Model providers
+  ./openclaw-docs search "docker"     Docker deployment
+  ./openclaw-docs search "webhook"    Webhook automation
+
+EOF
+}
+
+case "${1:-help}" in
+    search)
+        if [ -z "$2" ]; then
+            echo "Usage: ./openclaw-docs search 'query terms'"
+            exit 1
+        fi
+        echo "🔍 Searching OpenClaw docs for: '$2'"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        cd "$DOCS_DIR" && ./search.sh "$2"
+        ;;
+    
+    browse|index)
+        echo "📖 OpenClaw Documentation Index"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        cat "$DOCS_DIR/README.md" | head -50
+        echo ""
+        echo "💡 Full index: cat $DOCS_DIR/README.md"
+        ;;
+    
+    show)
+        if [ -z "$2" ]; then
+            echo "Usage: ./openclaw-docs show path/to/file.md"
+            exit 1
+        fi
+        FILE_PATH="$DOCS_DIR/pages/$2"
+        if [ -f "$FILE_PATH" ]; then
+            echo "📄 $2"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            cat "$FILE_PATH"
+        else
+            echo "❌ File not found: $2"
+            echo "💡 Try: ./openclaw-docs browse"
+        fi
+        ;;
+    
+    update)
+        echo "🔄 Updating docs..."
+        cd "$SCRIPT_DIR" && ./update-docs.sh
+        ;;
+    
+    stats)
+        if [ -f "$DOCS_DIR/metadata.json" ]; then
+            echo "📊 OpenClaw Docs Statistics"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            TOTAL=$(jq -r '.stats.total' "$DOCS_DIR/metadata.json")
+            LAST_UPDATE=$(jq -r '.last_update' "$DOCS_DIR/metadata.json")
+            echo "Total pages: $TOTAL"
+            echo "Last update: $LAST_UPDATE"
+            echo "Location: $DOCS_DIR"
+            
+            # Category breakdown
+            echo ""
+            echo "Categories:"
+            jq -r '.pages | to_entries | group_by(.value.category) | .[] | "\(.length) pages in \(.[0].value.category)"' "$DOCS_DIR/metadata.json" | sort -nr
+        else
+            echo "❌ No metadata found. Run: ./openclaw-docs update"
+        fi
+        ;;
+    
+    help|--help|-h)
+        show_help
+        ;;
+    
+    *)
+        echo "❌ Unknown command: $1"
+        echo ""
+        show_help
+        exit 1
+        ;;
+esac

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "profiles": {
+    "anthropic:default": {
+      "type": "token",
+      "provider": "anthropic",
+      "token": "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"
+    },
+    "nvidia:default": {
+      "type": "token",
+      "provider": "nvidia",
+      "token": "${NVIDIA_API_KEY}"
+    },
+    "openai:default": {
+      "type": "token",
+      "provider": "openai",
+      "token": "${OPENAI_API_KEY}"
+    },
+    "google:default": {
+      "type": "token",
+      "provider": "google",
+      "token": "AIzaSyCUTyeDzvRsogOW_bTE8JzIXuIGllOo_64"
+    },
+    "groq:default": {
+      "type": "token",
+      "provider": "groq",
+      "token": "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"
+    },
+    "ollama:default": {
+      "type": "none",
+      "provider": "ollama"
+    }
+  },
+  "lastGood": {
+    "anthropic": "anthropic:default",
+    "nvidia": "nvidia:default",
+    "openai": "openai:default",
+    "google": "google:default",
+    "groq": "groq:default",
+    "ollama": "ollama:default"
+  },
+  "usageStats": {
+    "anthropic:default": {
+      "lastUsed": 1771792792559,
+      "errorCount": 0,
+      "lastFailureAt": 1771694035628
+    }
+  }
+}
