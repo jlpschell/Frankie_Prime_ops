@@ -56,6 +56,21 @@ Available keys in .env:
 - GitHub PAT
 - Notion API key
 
+## Content Machine
+- Pipeline: SCOUT→MINER→FORGE→BLAST→GUARD (~8 min, ~$0.53/run)
+- Agent task files: content-machine/agents/
+- Output: content-machine/ready/YYYY-MM-DD/
+- First successful run: Feb 21, 2026
+- YouTube transcripts: youtube-transcript-api (Python, no API key needed)
+- Audio transcription: ffmpeg + OpenAI Whisper API
+- Sub-agent spawning: requires operator.write scope in devices/paired.json
+
+## Obsidian Vault
+- Location: C:\Users\Jay\OneDrive\Desktop\Future_US
+- WSL path: /mnt/c/Users/Jay/OneDrive/Desktop/Future_US
+- Syncing: OneDrive (Remotely Save plugin guide written for iPhone)
+- REST API key: in .env (not needed — direct file write works from WSL)
+
 ## Accounts
 - GitHub: jlpschell (PAT stored in .env as GITHUB_PAT)
 
